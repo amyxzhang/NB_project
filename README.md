@@ -13,8 +13,8 @@ If you have the server running, then the script attempts to write the extracted 
 
 Then run load_pages.py while the server is running which loads each page which dumps data into the database.
 
-I do further cleaning. analyze_postgres_text_*.py attempts to go through the extracted text to determine which ones are confusing (from the users' post message), counts the number per PDF segment, and tries to do some cleaning.
-analyze_sentences_*.py attempts to translate the data into confusion annotations per *sentence* and not page fragment or line, and also produce each sentence in order they logically appear, grouping sections together, and extracting figure, table, and heading information.
+I do further cleaning. analyze_postgres_text_\*.py attempts to go through the extracted text to determine which ones are confusing (from the users' post message), counts the number per PDF segment, and tries to do some cleaning.
+analyze_sentences_\*.py attempts to translate the data into confusion annotations per *sentence* and not page fragment or line, and also produce each sentence in order they logically appear, grouping sections together, and extracting figure, table, and heading information.
 
 No extra code here but I also use Stanford's POS tagger and parser to get parse trees and POS tags for each final cleaned sentence.
 
