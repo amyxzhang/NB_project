@@ -1,0 +1,167 @@
+0	H2	1. Understanding science & thinking scientifically 
+0		In which we consider what makes science a distinct, productive, and progressive way of understanding how the universe works, that let us identify what is possible and what is impossible.
+0		We consider the rules that characterize a scientific approach to a particular problem.
+1		A major feature of science, and one that distinguishes it from many other human activities, is its essential reliance upon shareable experiences rather than individual revelations.
+1		Thomas Paine (1737-1809), one of the intellectual parents of the American Revolution, made this point explicitly in his book Age of Reason.
+0		In science, we do not accept that an observation or a conclusion is true solely because another person claims it to be true.
+0		We do not accept the validity of revelation or what we might term personal empiricism.
+0		What is critical is that, based on our description of a phenomena, an observation, or an experiment, others could in practice (or at the very least in theory) be able to repeat the observation or the experiment.
+0		Science is based on social (shared) knowledge rather than revealed truth.
+0		As an example consider sunlight.
+0		It was originally held that white light was pure and that somehow, when it passed through a prism, the various colors of the spectrum, the colors we see in a rainbow, were created.
+0		In 1665 Isaac Newton (16421727) performed a series of experiments that he interpreted as demonstrating that white light was not pure but was, in fact, composed of light of different colors.
+0		This conclusion was based on a number of distinct experimental observations.
+0		First, he noted that sunlight passed through a prism generated a spectrum of light of many different colors.
+0		He then used a lens to focus the spectrum emerging from the first prism so that passed through a second prism (Part A); a beam of white light emerged from this second prism.
+0		One could then go on to show that the light emerging from the prism 1-lens-prism 2 combination behaved the same as the original white light by passing it through a third prism, which again produced a spectrum.
+0		In the second type of experiment (Part B), Newton used a screen with a hole in it, an aperture, and showed that light of a particular color was not altered when it passed through a second prism - no new colors were produced.
+0		Based on these observations, Newton concluded that white light was not what it appeared to be, that is, a simple pure substance, but rather was composed (rather unexpectedly) of light of many distinct pure colors.
+0		The spectrum was produced because the different colors of light were bent or refracted by the prism to different extents.
+0		Why this occurred was not clear and neither was it clear what light is.
+0		Newtons experiments left these questions unresolved.
+0		This is typical, scientific answers are often extremely specific, elucidating a particular phenomena, rather than providing a universal explanation of reality.
+1		Two basic features make Newtons observations and conclusions scientific.
+2		The first is reproducibility.
+2		Based on his description of his experiment others could, and were able to reproduce, confirm, and extend his observations.
+1		If you have access to glass prisms and lenses, you can repeat Newtons experiments yourself, and you would come to the same empirical conclusions, that is, you would observed the same phenomena that he did.
+0		In 1800 William Herschel (1738-1822) did just that, he used Newtons experimental approach and discovered infrared (beyond red) light; this is light that is invisible to us, but its presence can be revealed by the fact that when absorbed, say by a thermometer, it leads to an increase in temperature.
+0		Inspired by Herschels discovery, in 1801 Johann Ritter (1776 1810) used the ability of light to initiate the chemical reaction: silver chloride + light silver + chlorine to reveal the existence of another type of invisible light, which he called chemical light and which we now call ultraviolet light.
+0		Subsequent researchers have established that visible light is just a small portion of a much wider spectrum of electromagnetic radiation that ranges from X-rays and to radio waves.
+0		Studies on how light interacts with matter have led to a wide range of technologies, from X-ray imaging to an understanding of the history of the Universe.
+0		All these findings emerge, rather unexpectedly, from attempts to understand the rainbow.
+0		The second scientific aspect of Newtons work was his clear articulation of the meaning and implications of his observations, the logic of his conclusions.
+0		These led to explicit predictions, such as that a particular color will prove to be homogenous, and not composed of other types of light.
+0		His view is that the different types of light, which we see as different colors, differ in the way they interact with matter.
+1		One way these differences are revealed is the extent to which they are bent when they enter a prism.
+1		Newton used some of these ideas when he chose to use mirrors rather than lenses to build his reflecting (or Newtonian) telescope.
+0		His design avoided the color distortions that arose when light passed through simple lenses.
+1		The two features of Newtons approach make science, as a social and progressive enterprise, possible.
+1		We can reproduce a particular observation or experiment, and follow the investigators explicit thinking.
+0		We can identify unappreciated factors that can influence the results observed and identify inconsistencies in logic or implications that can be tested.
+0		This becomes increasingly important when we consider how various scientific disciplines interact with one another.
+0	H2	The interconnectedness of science 
+2		At one point the study of biology, chemistry, physics, geology, and astronomy appeared to be distinct, but each has implications for the others, and they all deal with the real world.
+2		In particular, it is clear that biological systems obey the laws and rules established by physics and chemistry.
+2		As we will see, it was once thought that there were aspects of biological systems that somehow transcended physics and chemistry, a point of view known generically as vitalism.
+2		If vitalism had proven to be correct, it would have forced a major revision of chemistry and physics.
+0		As an analogy, the world of science is like an extremely complex crossword puzzle, where the answer to one question must be compatible with the answers to all of the others.
+0		Alternatively, it can be that certain questions (and their answers) once thought to be meaningful can come to be recognized as irrelevant or meaningless.
+0		For example, how many angels can dance on the head of a pin is no longer considered a scientific question.
+0		What has transpired over the years is that biological processes ranging from the metabolic to the conscious have been found to be consistent with physicochemical principles.
+0		Where they are different, and it is certainly true that they represent a unique class of open non-equilibrium systems (organisms and ecosystems), is that they are the product of continuous evolutionary processes stretching back billions of years.
+0		Moreover, biological systems in general are composed of many types of molecules, cells, and organisms that interact in complex ways.
+0		All this means is that while biological systems do not disobey physicochemical rules, their behavior cannot be predicted based these rules.
+0		It may well be that life, as it exists on Earth, is unique.
+0		The only way we will know otherwise is to discover life on other planets, solar systems, galaxies, and universes (if such things exist), a seriously non-trivial, but totally exciting possibility.
+0		At the same time, this does not mean that it is impossible that observations in biology could not lead to a serious rethinking of physicochemical principles.
+0		There are in fact research efforts into proving that phenomena such as extrasensory perception, the continuing existence of the mind/soul after death, and the ability to see the future or remember the (long distant) past are real.
+0		At present these all represent various forms of pseudoscience (most likely, various forms of self-delusion and wishful thinking), but they would produce a scientific revolution if they could be shown to be real.
+0		that is if they were reproducible and based on discernible mechanisms with explicit implications, and testable predictions could be made based on them.
+0		This emphasizes a key feature of scientific explanations, they must produce logically consistent, explicit, testable and potentially falsifiable predictions.
+0		Ideas that can explain any possible observation (something that some argue is the case for string theory in physics) are no longer science, whether or not they are true in some other sense.  
+0	H2	Models, hypotheses, and theories
+0		Tentative scientific models are known as hypotheses.
+0		These are valuable in that they serve as a way to clearly articulate ones assumptions; they form the logical basis for generating testable predictions about the phenomena they purport to explain.
+0		As scientific models become more sophisticated, their predictions can be expected to become more and more accurate, or apply to areas that previous models could not handle.
+0		Let us assume that two models are equally good at explaining a particular observation.
+0		How might we judge between them?
+1		One way is the rule of thumb known as Occam's Razor (named after the medieval philosopher William of Occam c. 12871347) or the Principle of Parsimony.
+1		This rule states that all other things being equal, the simplest explanation is the best.
+0		This is not to imply that an accurate scientific explanation will be simple, or that the simplest explanations are the correct ones, only that to be useful a scientific model should not be more complex than necessary.
+0		Consider two models for a particular phenomena, one that involves angels and the other that does not; we need not seriously consider the model that invokes angels unless we can accurately monitor the presence of angels and if so, whether they are actively involved in the process to be explained.
+0		Why?
+0		because angels, if they exist, clearly imply more complex factors that does a simple natural explanation.
+0		For example, we would have to explain what angels are made of, how they originated, and how they intervene in the natural world, that is, how they make matter do things.
+0		Do they obey the laws of thermodynamics or not?
+0		Under what conditions do they intervene?
+0		Are their interventions consistent or capricious?
+1		Assuming that an alternative, angel-less model is as, or more accurate at describing the phenomena, the scientific choice would be the angel-less model.
+1		Parsimony (an extreme unwillingness to spend money or use resources) has the practical effect that it lets us restrict our thinking to the minimal model that is needed to explain specific phenomena.
+1		The surprising result, well illustrated by a TED talk by Murray Gell-Mann, is that simple, albeit often counter-intuitive rules, can explain much of the Universe with remarkable precision.
+0		A model that fails to accurately describe and predict the observable world must be missing something and is either partially or completely wrong.
+0		Scientific models are continually being modified, expanded, or replaced in order to explain more and more phenomena more and more accurately.
+1		It is an implicit assumption of many sciences is that the universe can be understood in scientific terms, and this presumption has been repeatedly confirmed, but have by no means been proven.
+0		A model that has been repeatedly confirmed and covers lots of observations is known as a theory at least this is the meaning of the word in a scientific context.
+0		It is worth noting that the word theory is often misused, even by scientists who might be expected to know better.
+1		If there are multiple theories to explain a particular phenomena, it it more correct to say that i) these are not actually theories, in the scientific sense, but rather working models or simple speculations, and that ii) one or more, and perhaps all of these models are incorrect or incomplete.
+1		A scientific theory is a very special set of ideas that explains, in a logically consistent, empirically supported, and predictive manner a broad range of phenomena.
+0		Moreover, it has been tested repeatedly by a number of critical and objective people, that is people who have no vested interest in the outcome, and found to provide accurate descriptions of the phenomena it purports to explain.
+0		It is not idle speculation.
+0		If you are curious, you might count how many times the word theory is misused, at least in the scientific sense, in your various classes.
+0		That said, theories are not static.
+0		New or more accurate observations that a theory cannot explain will inevitably drive the revision or replacement of the theory.
+0		When this occurs, the new theory explains the new observations as well as everything explained by the older theory.
+1		Consider for example gravity.
+1		Issac Newtons law of gravity, describes how objects behave and it is possible to make extremely accurate predictions of how objects behave using its rules.
+1		However, Newton did not really have a theory of gravity, that is, an naturalistic explanation for why there is gravity and how it behaves the way it does.
+1		He relied on a supernatural explanation.
+1		When it was shown that Newtons law of gravity failed in specific situations, such as when an object is in close proximity of a massive object, like the sun, new rules and explanations were needed.
+1		Albert Einsteins Theory of General Relativity not only more accurately predicts the behavior of these systems, it provided a naturalistic explanation for the origin of the gravitational force.
+1		So is general relativity true?
+1		Not necessarily, which is why scientists continue to test its predictions in increasingly extreme situations.   
+0	H2	Science is social
+0		The social nature of science is something that we want to stress yet again.
+0		While science is often portrayed as an activity carried out by isolated individuals, the image of the mad scientist comes to mind, in fact science is an extremely social activity.
+0		It works only because it involves and depends upon, an interactive community of scientists who keep each other (in the long run) honest.
+0		Observations, hypotheses and conclusions are presented to the public in the form of scientific papers, where their relevance and accuracy can be evaluated, more or less dispassionately, by others.
+0		Over the long term, this process leads to an evidence-based, scientific consensus.
+1		Certain ideas and observations are so well established that they can be reasonably accepted as universally valid, whereas others are extremely unlikely to be true, such as perpetual motion or "intelligent design creationism.
+0		These are ideas that can be safely ignored.
+0		As we will see, modern biology is based on a small set of theories that include the Physicochemical Theory of Life, the Cell Theory and the Theory of Evolution.
+0		That said, as scientists we keep our minds open to exceptions and work to understand them.
+0		The openness of science means that a single person, taking a new observation or idea seriously, can challenge and change accepted scientific understanding.
+0		That is not to say that it is easy to change the way scientists think.
+0		Most theories are based on large bodies of evidence and have been confirmed on multiple occasions.
+0		It generally turns out that most revolutionary observations are either mistaken, misinterpreted, or can be explained within the context of established theories.
+0		It is, however, worth keeping in mind that it is not at all clear that all phenomena can be put into a single theory of everything.
+0		For example it has certainly proven difficult to reconcile quantum physics with the general theory of relativity.
+2		A final point, mentioned before, is that the sciences are not independent of one another.
+0		Ideas about the behaviors of biological systems cannot contradict well established observations and theories in chemistry or physics.
+0		If they did, one or the other would have to be modified.
+0		For example, there is substantial evidence for the dating of rocks based on the behavior of radioactive isotopes of particular elements.
+0		There are also well established patterns of where rock layers (with specific ages) are found.
+0		When we consider the dating of fossils, we use rules and evidence established by geologists.
+0		We cannot change the age we assign to a fossil, making it inconsistent with the rocks that surround it, without challenging our understanding of the atomic nature of matter, the quantum mechanical principles involved in isotope stability, or geological mechanisms.
+0		A classic example of this situation arose when the physicist William Thompson (also known as Lord Kelvin)(1824-1907) estimated the age of the earth to be between 20 to 400 million years, based on the rate of heat dissipation of a once molten object, the earth.
+0		This was a time-span that seemed too short for various geological and biological processes, and greatly troubled Charles Darwin.
+0		Somebody was wrong, or better, their understanding was incomplete.
+0		The answer was with the assumptions that Kelvin had made; his calculations ignored the effects of radioactive decay (not surprising since radioactivity had yet to be discovered).
+0		These effects increased the calculated age of the earth by more than ten to one hundred fold, to about 5 billion years, an age compatible with both biological and geological processes.  
+0	H2	Teaching and learning science
+1		An important point to appreciate about science is that because of the communal way that it works, it builds understanding one observation and idea on top of another, and often arrives at conclusions that can be strange, counterintuitive, and sometimes disconcerting but nevertheless logically unavoidable.
+1		While it is now commonly accepted that the Earth rotates around its axis and revolves around the sun, which is itself moving around the center of the Milky Way galaxy, and that the Universe as a whole is expanding at what appears to be an every increasing rate, none of these facts are immediately obvious and relatively few people who believe or accept them would be able to explain how we know them to accurately reflect the way the universe is organized.
+1		At the same time, when these ideas were first being developed they conflicted with the idea that the Earth was stationary, which, of course it appears to be, and located at the center of a static Universe, which also seems to be a reasonable presumption.
+0		That new ideas about the Earths position in the Universe were generally seen to pose a threat to the sociopolitical order was indicated by the fact that a number of people were persecuted for holding heretical views on the topic.
+0		Most famously, these included the mystic Giordano Bruno (1548 1600), who was burned at the stake for this and other ideas (some of which are currently proposed by theoretical physicists) and Galileo Galilei (15641642), known as the father of modern physics.
+0		Interestingly Galileos book, which proposed that the sun was the center of the solar system was placed on the list of forbidden books in 1616 and not removed until 1835.
+0		Galileo was arrested in 1633, tried by the Inquisition, forced to publicly recant his views on the relative position of the Sun and Earth, and spent the rest of his life under house arrest.
+0		The idea of us standing on the Earth which is rotating at ~1000 miles an hour and flying through space at about 67,000 miles per hour is difficult to reconcile with our everyday experience yet science has continued to generated even weirder ideas.
+1		Based on observations and logic, it appears that the Universe arose from nothing approximately 13.8 billion years ago.
+1		Current thinking suggests that it will continue to expand forever, at an increasingly rapid rate.
+0		Einstein's theory of general relativity implies that matter distorts space-time, which is really one rather than two discrete entities, and that that distortion produces the attraction of gravity In the world of biology, it appears that all organisms are derived from a single type of ancestral cell that arose from non-living material between 3.5 to 3.8 billion years ago.
+0		There is an uninterrupted link between that cell and every cell in your body (and to the cells within every other living organism.)
+0		You yourself are a staggeringly complex collection of cells.
+0		Your brain and its associated sensory organs, which generate consciousness and self-consciousness, contains approximately 86 billion (10neurons as well as an equal number of non-neuronal (glial) cells.
+0		These cells are connected to one another through about 1.5 x 10 connections, known as synapses.
+0		How exactly such a system produces thoughts, ideas, dreams, feelings, and self-awareness remains quite obscure, but it is clear that these are all emergent behaviors that arise from this staggeringly complex natural system.
+0		Scientific ideas arise from the interactions between the physical world, our brains, and the social system of science that tests these ideas based on their ability to explain and predict the behavior of the observable universe.
+0		One of the difficulties in understanding scientific ideas and their implications is that these ideas build upon a wide range of observations and are intertwined with one another.
+0		One cannot really understand biological systems without understanding the behavior of systems of chemical reactions, which requires an understanding of molecules, which rests upon an understanding of how atoms and energy behave and interact.
+0		To better grasp some of the challenges involved in teaching and learning science, we recommend that you watch a short video interview with the physicist Richard Feynman (1918-1988).
+0		In it he explains the complexity of understanding something as superficially (but not really) simple as how two magnets repel or attract one another.
+1		It is our working premise that to understand a topic (or discipline) it is important to know some of the key observations and common rules upon which broader conclusions are based.
+1		To test ones understanding, it is necessary for you as a student to be able to approach a biological question, construct plausible claims for how (and why) the system behaves, based on various facts, observations, or explicit presumptions, which logically support your claim.
+1		You also need to present your model to others, knowledgeable in the topic, to get their feedback, to answer their questions and address their criticisms and concerns.
+0		Sometimes you will be wrong because your knowledge of the facts is incomplete, your understanding or application of general principles is inaccurate, or your logic is faulty.
+0		It is important to appreciate that generating coherent scientific explanations and arguments takes time and lots of practice.
+0		We hope to help you learn how, through useful coaching and practice.
+0		In the context of various questions, we (and your fellow students) will attempt to identify where you produce a coherent critique, explanation or prediction, and where you fall short.
+0		It will be the ability to produce coherent arguments, explanations, and/or predictions based on observations and concepts correctly applied in the context of modern biology, that we care about and hope to help you master in the context of this course.
+2		Questions to answer and ponder: A news story reports that spirit forces influence the weather; produce a set of questions whose answers would enable you to decide whether the report was scientifically plausible?
+0		What features would make a scientific model ugly?
+0		(see http://www.ted.com/talks/view/lang/en//id/194) How would you use Occam's razor to distinguish between two equally accurate models?
+0		Generate a general strategy that will enable you to classify various pronouncements as credible (that is, worth thinking about) or non-sense (see http://www.guardian.co.uk/science/audio/2008/mar/03/alan.sokal.podcast).
+0		Does the inability to measure something unambiguously make it unreal?
+0		Explain what is real.
+0		How should we, as a society deal with the tentative nature of scientific knowledge matter?
+0		If science concludes that free will is an illusion, would you accept it and behave like a robot?

@@ -1,0 +1,4933 @@
+(ROOT
+  (NP
+    (S
+      (NP (CD 1) (. .))
+      (VP (VBG Understanding)
+        (NP
+          (NP (NN science))
+          (CC &)
+          (NP (NN thinking) (NNS scientifically)))))))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (PRP we))
+          (VP (VBP consider)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (VP (VBZ makes)
+                  (NP
+                    (NP
+                      (NP (NN science))
+                      (NP (DT a)
+                        (ADJP (JJ distinct) (, ,) (JJ productive))))
+                    (, ,)
+                    (CC and)
+                    (NP
+                      (NP (JJ progressive) (NN way))
+                      (PP (IN of)
+                        (NP (NN understanding)))))
+                  (SBAR
+                    (WHADVP (WRB how))
+                    (S
+                      (NP (DT the) (NN universe))
+                      (VP (VBZ works)))))))))))
+    (, ,)
+    (NP (DT that))
+    (VP (VBD let)
+      (SBAR
+        (S
+          (NP (PRP us))
+          (VP (VBP identify)
+            (SBAR
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (VP (VBZ is)
+                    (ADJP (JJ possible)))))
+              (CC and)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (VP (VBZ is)
+                    (ADJP (JJ impossible))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP consider)
+      (NP
+        (NP (DT the) (NNS rules))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP characterize)
+              (NP (DT a) (JJ scientific) (NN approach))
+              (PP (TO to)
+                (NP (DT a) (JJ particular) (NN problem))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT A) (JJ major) (NN feature))
+        (PP (IN of)
+          (NP (NN science))))
+      (, ,)
+      (CC and)
+      (NP
+        (NP (CD one))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ distinguishes)
+              (NP (PRP it))
+              (PP (IN from)
+                (NP (JJ many) (JJ other) (JJ human) (NNS activities)))))))
+      (, ,))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (NP (PRP$ its) (JJ essential) (NN reliance))
+          (PP (IN upon)
+            (NP (JJ shareable) (NNS experiences))))
+        (CONJP (RB rather) (IN than))
+        (NP (JJ individual) (NNS revelations))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Thomas) (NNP Paine))
+      (PRN (-LRB- -LRB-)
+        (NP (CD 1737-1809))
+        (-RRB- -RRB-))
+      (, ,)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ intellectual) (NNS parents))
+            (PP (IN of)
+              (NP (DT the) (JJ American) (NN Revolution))))))
+      (, ,))
+    (VP (VBD made)
+      (NP (DT this) (NN point))
+      (ADVP (RB explicitly))
+      (PP (IN in)
+        (NP
+          (NP (PRP$ his) (NN book) (NN Age))
+          (PP (IN of)
+            (NP (NNP Reason))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN science)))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP do) (RB not)
+      (VP (VB accept)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT an) (NN observation))
+              (CC or)
+              (NP (DT a) (NN conclusion)))
+            (VP (VBZ is)
+              (ADJP (JJ true))
+              (ADVP (RB solely))
+              (SBAR (IN because)
+                (S
+                  (NP (DT another) (NN person))
+                  (VP (VBZ claims)
+                    (S
+                      (NP (PRP it))
+                      (VP (TO to)
+                        (VP (VB be)
+                          (ADJP (JJ true)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP do) (RB not)
+      (VP (VB accept)
+        (NP
+          (NP
+            (NP (DT the) (NN validity))
+            (PP (IN of)
+              (NP (NN revelation))))
+          (CC or)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (PRP we))
+              (VP (MD might)
+                (VP
+                  (NP (NN term) (JJ personal) (NN empiricism)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WP What))
+      (S
+        (VP (VBZ is)
+          (ADJP (JJ critical)))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S (, ,)
+          (PP (VBN based)
+            (PP (IN on)
+              (NP
+                (NP (PRP$ our) (NN description))
+                (PP (IN of)
+                  (NP
+                    (NP (DT a) (NNS phenomena))
+                    (, ,)
+                    (NP (DT an) (NN observation))
+                    (, ,)
+                    (CC or)
+                    (NP (DT an) (NN experiment)))))))
+          (, ,)
+          (NP (NNS others))
+          (VP (MD could)
+            (PP (IN in)
+              (NP
+                (NP (NN practice))
+                (PRN (-LRB- -LRB-)
+                  (CC or)
+                  (ADVP (IN at))
+                  (NP
+                    (NP (DT the)
+                      (ADJP (RB very) (JJS least)))
+                    (PP (IN in)
+                      (NP (NN theory))))
+                  (-RRB- -RRB-))))
+            (VP (VB be)
+              (ADJP (JJ able)
+                (S
+                  (VP (TO to)
+                    (VP (VB repeat)
+                      (NP
+                        (NP (DT the) (NN observation))
+                        (CC or)
+                        (NP (DT the) (NN experiment))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Science))
+    (VP (VBZ is)
+      (VP (VBN based)
+        (PP (IN on)
+          (NP
+            (NP
+              (ADJP
+                (ADJP (JJ social))
+                (PRN (-LRB- -LRB-)
+                  (VP (VBN shared))
+                  (-RRB- -RRB-)))
+              (NN knowledge))
+            (CONJP (RB rather) (IN than))
+            (NP (JJ revealed) (NN truth))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (DT an) (NN example))
+        (VP (VBP consider))))
+    (VP (VBZ sunlight))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADVP (RB originally))
+      (VP (VBN held)
+        (SBAR
+          (SBAR (IN that)
+            (S
+              (NP (JJ white) (NN light))
+              (VP (VBD was)
+                (ADJP (JJ pure)))))
+          (CC and)
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP
+                  (ADVP (RB somehow))
+                  (, ,)
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (PRP it))
+                      (VP (VBD passed)
+                        (PP (IN through)
+                          (NP
+                            (NP (DT a) (NN prism))
+                            (, ,)
+                            (NP
+                              (NP (DT the) (JJ various) (NNS colors))
+                              (PP (IN of)
+                                (NP (DT the) (NN spectrum))))))))))
+                (, ,)
+                (NP
+                  (NP (DT the) (NNS colors))
+                  (SBAR
+                    (S
+                      (NP (PRP we))
+                      (VP (VBP see)
+                        (PP (IN in)
+                          (NP (DT a) (NN rainbow)))))))
+                (, ,))
+              (VP (VBD were)
+                (VP (VBN created))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (CD 1665)))
+    (NP
+      (NP (NNP Isaac) (NNP Newton))
+      (PRN (-LRB- -LRB-)
+        (NP (CD 16421727))
+        (-RRB- -RRB-)))
+    (VP (VBD performed)
+      (NP
+        (NP (DT a) (NN series))
+        (PP (IN of)
+          (NP (NNS experiments))))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (VBD interpreted)
+            (PP (IN as)
+              (S
+                (VP (VBG demonstrating)
+                  (SBAR (IN that)
+                    (S
+                      (NP (JJ white) (NN light))
+                      (VP
+                        (VP (VBD was) (RB not)
+                          (VP (VBN pure)))
+                        (CC but)
+                        (VP (VBD was))))))))
+            (, ,)
+            (PP (IN in)
+              (NP
+                (NP (NN fact))
+                (, ,)
+                (VP (VBN composed)
+                  (PP (IN of)
+                    (NP
+                      (NP (NN light))
+                      (PP (IN of)
+                        (NP (JJ different) (NNS colors))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN conclusion))
+    (VP (VBD was)
+      (VP (VBN based)
+        (PP (IN on)
+          (NP
+            (NP (DT a) (NN number))
+            (PP (IN of)
+              (NP (JJ distinct) (JJ experimental) (NNS observations)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB First))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD noted)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NN sunlight))
+            (VP (VBN passed)
+              (PP (IN through)
+                (NP (DT a) (NN prism)))))
+          (VP (VBD generated)
+            (NP
+              (NP (DT a) (NN spectrum))
+              (PP (IN of)
+                (NP
+                  (NP (NN light))
+                  (PP (IN of)
+                    (NP (JJ many) (JJ different) (NNS colors))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (ADVP (RB then))
+      (VP (VBD used)
+        (NP (DT a) (NN lens)
+          (S
+            (VP (TO to)
+              (VP (VB focus)
+                (NP
+                  (NP (DT the) (NN spectrum) (VBG emerging))
+                  (PP (IN from)
+                    (NP (DT the) (JJ first) (NN prism)))
+                  (ADVP (RB so))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBN passed)
+                        (PP (IN through)
+                          (NP
+                            (NP (DT a) (JJ second) (NN prism))
+                            (PRN (-LRB- -LRB-)
+                              (NP (NNP Part) (NNP A))
+                              (-RRB- -RRB-))))))))))))))
+    (: ;)
+    (S
+      (NP
+        (NP (DT a) (NN beam))
+        (PP (IN of)
+          (NP (JJ white) (NN light))))
+      (VP (VBD emerged)
+        (PP (IN from)
+          (NP (DT this) (JJ second) (NN prism)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP One))
+    (VP (MD could) (RB then)
+      (VP (VB go)
+        (PRT (RP on))
+        (S
+          (VP (TO to)
+            (VP (VB show)
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (DT the) (JJ light) (VBG emerging))
+                    (PP (IN from)
+                      (NP (DT the) (JJ prism) (JJ 1-lens-prism) (CD 2) (NN combination))))
+                  (VP (VBD behaved)
+                    (NP (DT the) (JJ same))
+                    (PP (IN as)
+                      (NP (DT the) (JJ original) (JJ white) (NN light)))
+                    (PP (IN by)
+                      (S
+                        (VP (VBG passing)
+                          (NP (PRP it))
+                          (PP (IN through)
+                            (NP
+                              (NP (DT a) (JJ third) (NN prism))
+                              (, ,)
+                              (SBAR
+                                (WHNP (WDT which))
+                                (S
+                                  (ADVP (RB again))
+                                  (VP (VBD produced)
+                                    (NP (DT a) (NN spectrum))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN In)
+        (NP
+          (NP (DT the) (JJ second) (NN type))
+          (PP (IN of)
+            (NP
+              (NP (NN experiment))
+              (PRN (-LRB- -LRB-)
+                (NP (NNP Part) (NNP B))
+                (-RRB- -RRB-))))))
+      (, ,)
+      (NP (NNP Newton))
+      (VP
+        (VP (VBD used)
+          (NP (DT a) (NN screen))
+          (PP (IN with)
+            (NP
+              (NP (DT a) (NN hole))
+              (PP (IN in)
+                (NP
+                  (NP (PRP it))
+                  (, ,)
+                  (NP (DT an) (NN aperture))
+                  (, ,))))))
+        (CC and)
+        (VP (VBD showed)
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP (NN light))
+                (PP (IN of)
+                  (NP (DT a) (JJ particular) (NN color))))
+              (VP (VBD was) (RB not)
+                (VP (VBN altered)
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (PRP it))
+                      (VP (VBD passed)
+                        (PP (IN through)
+                          (NP (DT a) (JJ second) (NN prism)))))))))))))
+    (: -)
+    (S
+      (NP (DT no) (JJ new) (NNS colors))
+      (VP (VBD were)
+        (VP (VBN produced))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (VBN Based)
+      (PP (IN on)
+        (NP (DT these) (NNS observations))))
+    (, ,)
+    (NP (NNP Newton))
+    (VP (VBD concluded)
+      (SBAR (IN that)
+        (S
+          (NP (JJ white) (NN light))
+          (VP (VBD was)
+            (SBAR (RB not)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (PRP it))
+                  (VP (VBD appeared)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (PRN (, ,)
+                            (INTJ (DT that) (VBZ is))
+                            (, ,))
+                          (NP (DT a) (JJ simple) (JJ pure) (NN substance))))))))
+              (, ,)
+              (CC but)
+              (SBAR (RB rather)
+                (S
+                  (VP (VBD was)
+                    (VP (VBN composed)
+                      (S
+                        (VP
+                          (PRN (-LRB- -LRB-)
+                            (ADVP (RB rather) (RB unexpectedly))
+                            (-RRB- -RRB-))
+                          (PP (IN of)
+                            (NP
+                              (NP (NN light))
+                              (PP (IN of)
+                                (NP (JJ many) (JJ distinct) (JJ pure) (NNS colors))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN spectrum))
+    (VP (VBD was)
+      (VP (VBN produced)
+        (SBAR (IN because)
+          (S
+            (NP
+              (NP (DT the) (JJ different) (NNS colors))
+              (PP (IN of)
+                (NP (NN light))))
+            (VP (VBD were)
+              (ADJP (JJ bent)
+                (CC or)
+                (JJ refracted))
+              (PP (IN by)
+                (NP
+                  (NP (DT the) (NN prism))
+                  (PP (TO to)
+                    (NP (JJ different) (NNS extents))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR
+        (WHADVP (WRB Why))
+        (S
+          (NP (DT this))
+          (VP (VBD occurred))))
+      (VP (VBD was) (RB not)
+        (ADJP (JJ clear))))
+    (CC and)
+    (S
+      (NP (DT neither))
+      (VP (VBD was)
+        (S
+          (NP (PRP it))
+          (ADJP (JJ clear))
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (NN light))
+              (VP (VBZ is)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Newtons) (NNS experiments))
+    (VP (VBD left)
+      (S
+        (NP (DT these) (NNS questions))
+        (ADJP (JJ unresolved))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (ADJP (JJ typical))))
+    (, ,)
+    (NP (JJ scientific) (NNS answers))
+    (VP (VBP are)
+      (ADVP (RB often))
+      (ADJP (RB extremely) (JJ specific))
+      (, ,)
+      (S
+        (VP
+          (VP (VBG elucidating)
+            (NP (DT a) (JJ particular) (NNS phenomena)))
+          (, ,)
+          (CONJP (RB rather) (IN than))
+          (VP (VBG providing)
+            (NP
+              (NP (DT a) (JJ universal) (NN explanation))
+              (PP (IN of)
+                (NP (NN reality))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD Two) (JJ basic) (NNS features))
+    (VP (VBP make)
+      (S
+        (NP (JJ Newtons) (NNS observations)
+          (CC and)
+          (NNS conclusions))
+        (ADJP (JJ scientific))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ first))
+    (VP (VBZ is)
+      (ADJP (JJ reproducibility)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (VBN Based)
+      (PP (IN on)
+        (NP
+          (NP (PRP$ his) (NN description))
+          (PP (IN of)
+            (NP (PRP$ his) (NN experiment))))))
+    (NP (NNS others))
+    (VP
+      (VP (MD could))
+      (, ,)
+      (CC and)
+      (VP (VBD were)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB reproduce) (, ,) (VB confirm) (, ,)
+                (CC and)
+                (VB extend)
+                (NP (PRP$ his) (NNS observations))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (PRP you))
+          (VP (VBP have)
+            (NP (NN access))
+            (PP (TO to)
+              (NP (NN glass) (NNS prisms)
+                (CC and)
+                (NNS lenses))))))
+      (, ,)
+      (NP (PRP you))
+      (VP (MD can)
+        (VP (VB repeat)
+          (S
+            (NP (NNP Newtons) (NNS experiments))
+            (NP (PRP yourself))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (MD would)
+        (VP (VB come)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (JJ same) (JJ empirical) (NNS conclusions))
+              (, ,)
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ is) (, ,)
+                    (SBAR
+                      (S
+                        (NP (PRP you))
+                        (VP (MD would)
+                          (VP (VB observed)
+                            (NP (DT the) (JJ same) (NNS phenomena))
+                            (SBAR (IN that)
+                              (S
+                                (NP (PRP he))
+                                (VP (VBD did))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN In)
+        (NP (CD 1800)))
+      (NP
+        (NP (NNP William) (NNP Herschel))
+        (PRN (-LRB- -LRB-)
+          (NP (CD 1738-1822))
+          (-RRB- -RRB-)))
+      (VP (VBD did)
+        (ADVP (RB just))
+        (SBAR (IN that) (, ,)
+          (S
+            (NP (PRP he))
+            (VP
+              (VP (VBD used)
+                (NP (NNP Newtons) (JJ experimental) (NN approach)))
+              (CC and)
+              (VP (VBD discovered)
+                (NP
+                  (ADJP
+                    (ADJP (JJ infrared))
+                    (PRN (-LRB- -LRB-)
+                      (PP (IN beyond)
+                        (NP (NN red)))
+                      (-RRB- -RRB-)))
+                  (NN light))))))))
+    (: ;)
+    (S
+      (S
+        (NP (DT this))
+        (VP (VBZ is)
+          (ADJP (JJ light))
+          (SBAR (IN that)
+            (S
+              (VP (VBZ is)
+                (ADJP (JJ invisible)
+                  (PP (TO to)
+                    (NP (PRP us)))))))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (PRP$ its) (NN presence))
+        (VP (MD can)
+          (VP (VB be)
+            (VP (VBN revealed)
+              (PP (IN by)
+                (NP (DT the) (NN fact)))
+              (SBAR (IN that)
+                (S
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (S
+                        (VP (VBN absorbed)))
+                      (, ,)
+                      (VP (VBP say)
+                        (PP (IN by)
+                          (NP (DT a) (NN thermometer))))))
+                  (, ,)
+                  (NP (PRP it))
+                  (VP (VBZ leads)
+                    (PP (TO to)
+                      (NP
+                        (NP (DT an) (NN increase))
+                        (PP (IN in)
+                          (NP (NN temperature)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Inspired)
+        (PP (IN by)
+          (NP (NNP Herschels) (NN discovery)))
+        (, ,)
+        (PP (IN in)
+          (NP (CD 1801)))))
+    (NP
+      (NP (NNP Johann) (NNP Ritter))
+      (PRN (-LRB- -LRB-)
+        (NP
+          (QP (CD 1776) (CD 1810)))
+        (-RRB- -RRB-)))
+    (VP (VBD used)
+      (NP
+        (NP (DT the) (NN ability))
+        (PP (IN of)
+          (NP (NN light))))
+      (S
+        (VP (TO to)
+          (VP (VB initiate)
+            (NP (DT the) (JJ chemical) (NN reaction))
+            (: :)
+            (S
+              (NP (JJ silver) (NN chloride) (JJ +) (JJ light) (NN silver) (NNP +) (NNP chlorine))
+              (VP (TO to)
+                (VP (VB reveal)
+                  (NP
+                    (NP (DT the) (NN existence))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT another) (NN type))
+                        (PP (IN of)
+                          (NP (JJ invisible) (NN light))))))))))))
+      (, ,)
+      (SBAR
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (NP (PRP he))
+            (VP (VBD called)
+              (NP (NN chemical) (NN light)))))
+        (CC and)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (NP (PRP we))
+            (ADVP (RB now))
+            (VP (VBP call)
+              (NP (JJ ultraviolet) (NN light)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Subsequent) (NNS researchers))
+    (VP (VBP have)
+      (VP (VBN established)
+        (SBAR (IN that)
+          (S
+            (NP (JJ visible) (NN light))
+            (VP (VBZ is)
+              (ADVP (RB just))
+              (NP
+                (NP (DT a) (JJ small) (NN portion))
+                (PP (IN of)
+                  (NP
+                    (NP (DT a)
+                      (ADJP (RB much) (JJR wider))
+                      (NN spectrum))
+                    (PP (IN of)
+                      (NP (JJ electromagnetic) (NN radiation)))))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ ranges)
+                      (PP
+                        (PP (IN from)
+                          (NP (NNS X-rays)))
+                        (CC and)
+                        (PP (TO to)
+                          (NP (NN radio) (NNS waves)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Studies))
+      (PP (IN on)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP (NN light))
+            (VP (VBZ interacts)
+              (PP (IN with)
+                (NP (NN matter))))))))
+    (VP (VBP have)
+      (VP (VBN led)
+        (PP (TO to)
+          (NP
+            (NP (DT a) (JJ wide) (NN range))
+            (PP (IN of)
+              (NP (NNS technologies)))))
+        (, ,)
+        (PP (IN from)
+          (NP
+            (NP (NN X-ray) (NN imaging))
+            (PP (TO to)
+              (NP
+                (NP (DT an) (NN understanding))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN history))
+                    (PP (IN of)
+                      (NP (DT the) (NNP Universe)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PDT All) (DT these) (NNS findings))
+    (VP (VBP emerge) (, ,)
+      (ADVP (RB rather) (RB unexpectedly))
+      (, ,)
+      (PP (IN from)
+        (NP (NNS attempts)
+          (S
+            (VP (TO to)
+              (VP (VB understand)
+                (NP (DT the) (NN rainbow))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ second) (JJ scientific) (NN aspect))
+      (PP (IN of)
+        (NP (NNP Newtons) (NN work))))
+    (VP (VBD was)
+      (NP
+        (NP
+          (NP (PRP$ his) (JJ clear) (NN articulation))
+          (PP (IN of)
+            (NP (DT the) (NN meaning))))
+        (CC and)
+        (NP
+          (NP (NNS implications))
+          (PP (IN of)
+            (NP
+              (NP (PRP$ his) (NNS observations))
+              (, ,)
+              (NP
+                (NP (DT the) (NN logic))
+                (PP (IN of)
+                  (NP (PRP$ his) (NNS conclusions)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT These))
+      (VP (VBD led)
+        (PP (TO to)
+          (NP (JJ explicit) (NNS predictions)))
+        (, ,)
+        (PP (JJ such) (IN as)
+          (SBAR (IN that)
+            (S
+              (NP (DT a) (JJ particular) (NN color))
+              (VP (MD will)
+                (VP (VB prove)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (ADJP (JJ homogenous))))))))))))
+    (, ,)
+    (CC and)
+    (RB not)
+    (S
+      (VP (VBN composed)
+        (PP (IN of)
+          (NP
+            (NP (JJ other) (NNS types))
+            (PP (IN of)
+              (NP (NN light)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ His) (NN view))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (JJ different) (NNS types))
+            (PP (IN of)
+              (NP (NN light)))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (NP (PRP we))
+                (VP (VBP see)
+                  (PP (IN as)
+                    (NP (JJ different) (NNS colors))))))
+            (, ,))
+          (VP (VBP differ)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN way))
+                (SBAR
+                  (S
+                    (NP (PRP they))
+                    (VP (VBP interact)
+                      (PP (IN with)
+                        (NP (NN matter))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD One) (NN way))
+      (SBAR
+        (S
+          (NP (DT these) (NNS differences))
+          (VP (VBP are)
+            (VP (VBN revealed))))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN extent))
+        (SBAR
+          (WHPP (TO to)
+            (WHNP (WDT which)))
+          (S
+            (NP (PRP they))
+            (VP (VBP are)
+              (ADJP (JJ bent)
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP they))
+                    (VP (VBP enter)
+                      (NP (DT a) (NN prism)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Newton))
+    (VP (VBD used)
+      (NP
+        (NP (DT some))
+        (PP (IN of)
+          (NP (DT these) (NNS ideas))))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP he))
+          (VP (VBD chose)
+            (S
+              (VP (TO to)
+                (VP (VB use)
+                  (S
+                    (NP (NNS mirrors)
+                      (CONJP (RB rather) (IN than))
+                      (NNS lenses))
+                    (VP (TO to)
+                      (VP
+                        (VP (VB build)
+                          (NP (PRP$ his) (NN reflecting)))
+                        (PRN (-LRB- -LRB-)
+                          (CC or)
+                          (VP (VBN Newtonian))
+                          (-RRB- -RRB-))
+                        (NP (NN telescope))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ His) (NN design))
+    (VP (VBD avoided)
+      (NP
+        (NP (DT the) (JJ color) (NNS distortions))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD arose)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (NN light))
+                  (VP (VBD passed)
+                    (PP (IN through)
+                      (NP (JJ simple) (NNS lenses)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (CD two) (NNS features))
+      (PP (IN of)
+        (NP (NNP Newtons) (NN approach))))
+    (VP (VBP make)
+      (NP (NN science))
+      (, ,)
+      (PP (IN as)
+        (NP (DT a) (JJ social)
+          (CC and)
+          (JJ progressive) (NN enterprise)))
+      (, ,)
+      (ADJP (JJ possible)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD can)
+      (VP
+        (VP (VB reproduce)
+          (NP (DT a) (JJ particular) (NN observation)))
+        (CC or)
+        (VP (NN experiment))
+        (, ,)
+        (CC and)
+        (VP (VB follow)
+          (S
+            (NP (DT the) (NNS investigators))
+            (ADJP (JJ explicit))
+            (S
+              (VP (VBG thinking)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD can)
+      (VP (VB identify)
+        (NP
+          (NP (JJ unappreciated) (NNS factors))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (MD can)
+                (VP
+                  (VP (VB influence)
+                    (S
+                      (NP (DT the) (NNS results))
+                      (ADJP (JJ observed))))
+                  (CC and)
+                  (VP (VB identify)
+                    (NP
+                      (NP (NNS inconsistencies))
+                      (PP (IN in)
+                        (NP (NN logic)
+                          (CC or)
+                          (NNS implications)))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (MD can)
+                            (VP (VB be)
+                              (VP (VBN tested)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ becomes)
+      (ADJP (RB increasingly) (JJ important))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP we))
+          (VP (VBP consider)
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (NP (JJ various) (JJ scientific) (NNS disciplines))
+                (VP (VBP interact)
+                  (PP (IN with)
+                    (NP (CD one) (DT another))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT The) (NNS interconnectedness))
+    (PP (IN of)
+      (NP (NN science)))))
+
+(ROOT
+  (S
+    (S
+      (S
+        (PP (IN At)
+          (NP (CD one) (NN point)))
+        (NP
+          (NP (DT the) (NN study))
+          (PP (IN of)
+            (NP
+              (NP (NN biology))
+              (, ,)
+              (NP (NN chemistry) (, ,) (NN physics) (, ,) (NN geology) (, ,)
+                (CC and)
+                (NN astronomy)))))
+        (VP (VBD appeared)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (JJ distinct)))))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (DT each))
+        (VP (VBZ has)
+          (NP
+            (NP (NNS implications))
+            (PP (IN for)
+              (NP (DT the) (NNS others)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (NP
+        (NP (DT all) (NN deal))
+        (PP (IN with)
+          (NP (DT the) (JJ real) (NN world)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (ADJP (JJ particular)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ clear))
+      (SBAR (IN that)
+        (S
+          (NP (JJ biological) (NNS systems))
+          (VP (VBP obey)
+            (NP
+              (NP (DT the) (NNS laws)
+                (CC and)
+                (NNS rules))
+              (VP (VBN established)
+                (PP (IN by)
+                  (NP (NN physics)
+                    (CC and)
+                    (NN chemistry)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (PRP we))
+        (VP (MD will)
+          (VP (VB see)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADVP (RB once))
+      (VP (VBN thought)
+        (SBAR (IN that)
+          (S
+            (NP (EX there))
+            (VP (VBD were)
+              (NP
+                (NP (NNS aspects))
+                (PP (IN of)
+                  (NP (JJ biological) (NNS systems)))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (ADVP (RB somehow))
+                    (VP (VBD transcended)
+                      (NP
+                        (NP (NN physics)
+                          (CC and)
+                          (NN chemistry))
+                        (, ,)
+                        (NP
+                          (NP (DT a) (NN point))
+                          (PP (IN of)
+                            (NP
+                              (NP (NN view))
+                              (VP (VBN known)
+                                (ADVP (RB generically))
+                                (PP (IN as)
+                                  (NP (NN vitalism)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (NN vitalism))
+        (VP (VBD had)
+          (VP (VBN proven)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (ADJP (JJ correct)))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD would)
+      (VP (VB have)
+        (VP (VBN forced)
+          (NP
+            (NP (DT a) (JJ major) (NN revision))
+            (PP (IN of)
+              (NP (NN chemistry)
+                (CC and)
+                (NN physics)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN As)
+      (NP (DT an) (NN analogy)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN world))
+      (PP (IN of)
+        (NP (NN science))))
+    (VP (VBZ is)
+      (PP (IN like)
+        (NP
+          (NP (DT an)
+            (ADJP (RB extremely) (JJ complex))
+            (JJ crossword) (NN puzzle))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP
+                (NP (DT the) (NN answer))
+                (PP (TO to)
+                  (NP (CD one) (NN question))))
+              (VP (MD must)
+                (VP (VB be)
+                  (ADJP (JJ compatible)
+                    (PP (IN with)
+                      (NP (DT the) (NNS answers))))
+                  (PP (TO to)
+                    (NP
+                      (NP (DT all))
+                      (PP (IN of)
+                        (NP (DT the) (NNS others))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Alternatively))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD can)
+      (VP (VB be)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (JJ certain) (NNS questions))
+              (-LRB- -LRB-)
+              (CC and)
+              (NP (PRP$ their) (NNS answers))
+              (-RRB- -RRB-))
+            (ADVP (RB once))
+            (VP (VBD thought)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (ADJP (JJ meaningful)
+                      (SBAR
+                        (S
+                          (VP (MD can)
+                            (VP (VB come)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB be)
+                                    (VP (VBN recognized)
+                                      (S
+                                        (ADJP (RB as) (JJ irrelevant)
+                                          (CC or)
+                                          (JJ meaningless))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NN example)))
+    (, ,)
+    (SBAR
+      (WHADJP (WRB how) (JJ many))
+      (S
+        (NP (NNS angels))
+        (VP (MD can)
+          (VP (VB dance)
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN head))
+                (PP (IN of)
+                  (NP (DT a) (NN pin)))))))))
+    (VP (VBZ is)
+      (ADVP (RB no) (RB longer))
+      (VP (VBN considered)
+        (NP (DT a) (JJ scientific) (NN question))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WP What))
+      (S
+        (VP (VBZ has)
+          (VP (VBN transpired)
+            (PP (IN over)
+              (NP (DT the) (NNS years)))))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (JJ biological) (NNS processes))
+            (VP (VBG ranging)
+              (PP (IN from)
+                (NP (DT the) (NN metabolic)))
+              (PP (TO to)
+                (NP (DT the) (JJ conscious)))))
+          (VP (VBP have)
+            (VP (VBN been)
+              (VP (VBN found)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (ADJP (JJ consistent)
+                        (PP (IN with)
+                          (NP (JJ physicochemical) (NNS principles)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB Where))
+      (S
+        (NP (PRP they))
+        (VP (VBP are)
+          (ADJP (JJ different)))))
+    (PRN (, ,)
+      (CC and)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (ADVP (RB certainly))
+          (ADJP (JJ true))
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP (VBP represent)
+                (NP
+                  (NP (DT a) (JJ unique) (NN class))
+                  (PP (IN of)
+                    (NP
+                      (NP (JJ open) (JJ non-equilibrium) (NNS systems))
+                      (PRN (-LRB- -LRB-)
+                        (NP
+                          (NP (NNS organisms))
+                          (CC and)
+                          (NP (NNS ecosystems)))
+                        (-RRB- -RRB-))))))))))
+      (, ,))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (NP
+              (NP (DT the) (NN product))
+              (PP (IN of)
+                (NP
+                  (NP (JJ continuous) (JJ evolutionary) (NNS processes))
+                  (VP (VBG stretching)
+                    (PRT (RP back))
+                    (NP
+                      (NP (NNS billions))
+                      (PP (IN of)
+                        (NP (NNS years))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Moreover))
+    (, ,)
+    (NP
+      (NP (JJ biological) (NNS systems))
+      (PP (IN in)
+        (NP (NN general))))
+    (VP (VBP are)
+      (VP (VBN composed)
+        (PP (IN of)
+          (NP
+            (NP (JJ many) (NNS types))
+            (PP (IN of)
+              (NP (NNS molecules) (, ,) (NNS cells) (, ,)
+                (CC and)
+                (NNS organisms)))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP interact)
+                  (PP (IN in)
+                    (NP (JJ complex) (NNS ways))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PDT All) (DT this) (NNS means))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (SBAR (IN while)
+            (S
+              (NP (JJ biological) (NNS systems))
+              (VP (VBP do) (RB not)
+                (VP (VB disobey)
+                  (NP (JJ physicochemical) (NNS rules))))))
+          (, ,)
+          (NP (PRP$ their) (NN behavior))
+          (VP (MD can) (RB not)
+            (VP (VB be)
+              (VP (VBN predicted)
+                (PP (VBN based)
+                  (NP (DT these) (NNS rules)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (MD may)
+      (ADVP (RB well))
+      (VP (VB be)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NN life))
+              (, ,)
+              (SBAR (IN as)
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ exists)
+                    (PP (IN on)
+                      (NP (NNP Earth))))))
+              (, ,))
+            (VP (VBZ is)
+              (ADJP (JJ unique)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ only) (NN way))
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (MD will)
+            (VP (VB know)
+              (ADVP (RB otherwise)))))))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB discover)
+            (NP (NN life))
+            (PP (IN on)
+              (NP
+                (NP
+                  (NP
+                    (NP (JJ other) (NNS planets))
+                    (, ,)
+                    (NP (JJ solar) (NNS systems))
+                    (, ,)
+                    (NP (NNS galaxies))
+                    (, ,)
+                    (CC and)
+                    (NP (NNS universes)))
+                  (PRN (-LRB- -LRB-)
+                    (SBAR (IN if)
+                      (S
+                        (NP (JJ such) (NNS things))
+                        (VP (VBP exist))))
+                    (-RRB- -RRB-)))
+                (, ,)
+                (NP (DT a)
+                  (ADJP
+                    (ADJP
+                      (ADVP (RB seriously))
+                      (JJ non-trivial))
+                    (, ,)
+                    (CC but)
+                    (ADJP (RB totally) (JJ exciting)))
+                  (NN possibility))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT the) (JJ same) (NN time)))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ does) (RB not)
+      (VP (VB mean)
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (ADJP (JJ impossible))
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (NNS observations))
+                    (PP (IN in)
+                      (NP (NN biology))))
+                  (VP (MD could) (RB not)
+                    (VP (VB lead)
+                      (PP (TO to)
+                        (NP
+                          (NP (DT a) (JJ serious) (NN rethinking))
+                          (PP (IN of)
+                            (NP (JJ physicochemical) (NNS principles))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (PP (IN in)
+        (NP (NN fact) (NN research) (NNS efforts)))
+      (PP (IN into)
+        (S
+          (VP (VBG proving)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (NNS phenomena))
+                  (PP (JJ such) (IN as)
+                    (NP
+                      (NP (JJ extrasensory) (NN perception))
+                      (, ,)
+                      (NP
+                        (NP
+                          (NP (DT the) (VBG continuing) (NN existence))
+                          (PP (IN of)
+                            (NP
+                              (NP (DT the) (NN mind/soul))
+                              (PP (IN after)
+                                (NP (NN death))))))
+                        (, ,)
+                        (CC and)
+                        (NP (DT the) (NN ability)
+                          (S
+                            (VP (TO to)
+                              (VP
+                                (VP (VB see)
+                                  (NP (DT the) (NN future)))
+                                (CC or)
+                                (VP (VB remember)
+                                  (NP (DT the)
+                                    (PRN (-LRB- -LRB-)
+                                      (NP (JJ long) (NN distant))
+                                      (-RRB- -RRB-))
+                                    (NN past)))))))))))
+                (VP (VBP are)
+                  (ADJP (JJ real)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN At)
+        (ADJP (JJ present)))
+      (NP (DT these) (DT all))
+      (VP (VBP represent)
+        (NP
+          (NP (JJ various) (NNS forms))
+          (PP (IN of)
+            (NP
+              (NP (NN pseudoscience))
+              (PRN (-LRB- -LRB-)
+                (NP
+                  (NP
+                    (ADJP (RBS most) (JJ likely) (, ,) (JJ various))
+                    (NNS forms))
+                  (PP (IN of)
+                    (NP (JJ self-delusion)
+                      (CC and)
+                      (JJ wishful) (NN thinking))))
+                (-RRB- -RRB-)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (MD would)
+        (VP (VB produce)
+          (NP (DT a) (JJ scientific) (NN revolution))
+          (SBAR (IN if)
+            (S
+              (NP (PRP they))
+              (VP (MD could)
+                (VP (VB be)
+                  (VP (VBN shown)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (ADJP (JJ real)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT that))
+      (VP (VBZ is)
+        (SBAR (IN if)
+          (S
+            (NP (PRP they))
+            (VP (VBD were)
+              (UCP
+                (ADJP (JJ reproducible))
+                (CC and)
+                (VP (VBN based)
+                  (PP (IN on)
+                    (NP (JJ discernible) (NNS mechanisms)))
+                  (PP (IN with)
+                    (NP (JJ explicit) (NNS implications))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (JJ testable) (NNS predictions))
+      (VP (MD could)
+        (VP (VB be)
+          (VP (VBN made)
+            (PP (VBN based)
+              (PP (IN on)
+                (NP (PRP them))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ emphasizes)
+        (NP
+          (NP (DT a) (JJ key) (NN feature))
+          (PP (IN of)
+            (NP (JJ scientific) (NNS explanations))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (MD must)
+      (VP (VB produce)
+        (NP
+          (ADJP
+            (ADJP
+              (ADVP (RB logically))
+              (JJ consistent))
+            (, ,)
+            (ADJP (JJ explicit))
+            (, ,)
+            (ADJP (JJ testable))
+            (CC and)
+            (ADJP (RB potentially) (JJ falsifiable)))
+          (NNS predictions))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNS Ideas))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD can)
+              (VP (VB explain)
+                (NP (DT any) (JJ possible) (NN observation)))))))
+      (PRN (-LRB- -LRB-)
+        (NP
+          (NP (NN something))
+          (SBAR (IN that)
+            (S
+              (NP (DT some))
+              (VP (VBP argue)
+                (SBAR
+                  (S
+                    (VP (VBZ is)
+                      (NP
+                        (NP (DT the) (NN case))
+                        (PP (IN for)
+                          (NP
+                            (NP (NN string) (NN theory))
+                            (PP (IN in)
+                              (NP (NN physics)))))))))))))
+        (-RRB- -RRB-)))
+    (VP (VBP are)
+      (NP (DT no) (JJR longer) (NN science))
+      (, ,)
+      (SBAR (IN whether)
+        (CC or)
+        (RB not)
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (ADJP (JJ true)
+              (PP (IN in)
+                (NP (DT some) (JJ other) (NN sense))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNS Models))
+      (, ,)
+      (NP (NNS hypotheses))
+      (, ,)
+      (CC and)
+      (NP (NNS theories)))))
+
+(ROOT
+  (S
+    (NP (JJ Tentative) (JJ scientific) (NNS models))
+    (VP (VBP are)
+      (VP (VBN known)
+        (PP (IN as)
+          (NP (NNS hypotheses)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT These))
+      (VP (VBP are)
+        (ADJP (JJ valuable)
+          (PP (IN in)
+            (SBAR (IN that)
+              (S
+                (NP (PRP they))
+                (VP (VBP serve)
+                  (SBAR (IN as)
+                    (S
+                      (NP (DT a) (NN way))
+                      (VP (TO to)
+                        (VP
+                          (ADVP (RB clearly))
+                          (VB articulate)
+                          (NP (NNS ones) (NNS assumptions)))))))))))))
+    (: ;)
+    (S
+      (NP (PRP they))
+      (VP (VBP form)
+        (NP (DT the) (JJ logical) (NN basis))
+        (PP (IN for)
+          (S
+            (VP (VBG generating)
+              (NP (JJ testable) (NNS predictions))
+              (PP (IN about)
+                (NP
+                  (NP (DT the) (NNS phenomena))
+                  (SBAR
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP purport)
+                        (S
+                          (VP (TO to)
+                            (VP (VB explain))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN As)
+      (NP
+        (NP (JJ scientific) (NNS models))
+        (VP (VBN become)
+          (S
+            (ADJP (RBR more) (JJ sophisticated))))))
+    (, ,)
+    (NP (PRP$ their) (NNS predictions))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN expected)
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB become)
+                  (ADJP
+                    (ADJP (JJR more))
+                    (CC and)
+                    (ADJP (RBR more) (JJ accurate))))
+                (, ,)
+                (CC or)
+                (VP (VB apply)
+                  (PP (TO to)
+                    (NP (NNS areas)))
+                  (SBAR (IN that)
+                    (S
+                      (NP (JJ previous) (NNS models))
+                      (VP (MD could) (RB not)
+                        (VP (VB handle))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Let)
+      (S
+        (NP (PRP us))
+        (VP (VB assume)
+          (SBAR (IN that)
+            (S
+              (NP (CD two) (NNS models))
+              (VP (VBP are)
+                (ADJP (RB equally) (JJ good)
+                  (PP (IN at)
+                    (S
+                      (VP (VBG explaining)
+                        (NP (DT a) (JJ particular) (NN observation))))))))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How))
+    (SQ (MD might)
+      (NP (PRP we))
+      (VP (VB judge)
+        (PP (IN between)
+          (NP (PRP them)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (CD One) (NN way))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN rule))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP
+                (NP (NN thumb))
+                (VP (VBN known)
+                  (PP (IN as)
+                    (NP
+                      (NP (NNP Occam) (POS 's))
+                      (NN Razor)))))
+              (PRN (-LRB- -LRB-)
+                (VP (VBN named)
+                  (PP (IN after)
+                    (NP
+                      (NP (DT the) (JJ medieval) (NNP philosopher) (NNP William))
+                      (PP (IN of)
+                        (NP (NNP Occam) (NNP c.) (NNP 12871347))))))
+                (-RRB- -RRB-)))
+            (CC or)
+            (NP
+              (NP (DT the) (NN Principle))
+              (PP (IN of)
+                (NP (NNP Parsimony))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN rule))
+      (VP (VBZ states)
+        (SBAR (IN that)
+          (S
+            (NP (DT all) (JJ other) (NNS things))
+            (VP (VBG being)
+              (ADJP (JJ equal)))))))
+    (, ,)
+    (NP (DT the) (JJS simplest) (NN explanation))
+    (VP (VBZ is)
+      (NP (DT the) (JJS best)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (UCP (RB not)
+        (S
+          (VP (TO to)
+            (VP (VB imply)
+              (SBAR (IN that)
+                (S
+                  (NP (DT an)
+                    (ADJP (JJ accurate) (JJ scientific))
+                    (NN explanation))
+                  (VP (MD will)
+                    (VP (VB be)
+                      (ADJP (JJ simple)))))))))
+        (, ,)
+        (CC or)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (JJS simplest) (NNS explanations))
+            (VP (VBP are)
+              (NP (DT the) (JJ correct) (NNS ones))))))
+      (, ,)
+      (SBAR (RB only) (IN that)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (JJ useful)
+                (SBAR
+                  (S
+                    (NP (DT a) (JJ scientific) (NN model))
+                    (VP (MD should) (RB not)
+                      (VP (VB be)
+                        (ADJP (RBR more) (JJ complex)
+                          (PP (IN than)
+                            (ADJP (JJ necessary))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Consider)
+        (NP
+          (NP (CD two) (NNS models))
+          (PP (IN for)
+            (NP
+              (NP (DT a) (JJ particular) (NNS phenomena))
+              (, ,)
+              (NP
+                (NP (CD one))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ involves)
+                      (NP (NNS angels))))))
+              (CC and)
+              (NP
+                (NP (DT the) (JJ other))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ does) (RB not))))))))))
+    (: ;)
+    (S
+      (NP (PRP we))
+      (VP (VBP need) (RB not)
+        (ADVP (RB seriously))
+        (VP (VB consider)
+          (NP
+            (NP (DT the) (NN model))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ invokes)
+                  (NP (NNS angels))
+                  (SBAR (IN unless)
+                    (S
+                      (NP (PRP we))
+                      (VP (MD can)
+                        (ADVP (RB accurately))
+                        (VP (VB monitor)
+                          (NP (DT the) (NN presence))
+                          (UCP
+                            (PP (IN of)
+                              (NP (NNS angels)))
+                            (CC and)
+                            (SBAR (IN if)
+                              (SBAR (RB so))))))))
+                  (, ,)
+                  (SBAR (IN whether)
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP are)
+                        (ADVP (RB actively))
+                        (VP (VBN involved)
+                          (PP (IN in)
+                            (NP (DT the) (NN process)))
+                          (S
+                            (VP (TO to)
+                              (VP (VB be)
+                                (VP (VBN explained))))))))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG (WRB Why) (. ?)))
+
+(ROOT
+  (S
+    (PP (IN because)
+      (NP (NNS angels)))
+    (, ,)
+    (SBAR (IN if)
+      (S
+        (NP (PRP they))
+        (VP (VBP exist))))
+    (, ,)
+    (ADVP (RB clearly))
+    (VP (VB imply)
+      (NP
+        (NP
+          (ADJP (RBR more) (JJ complex))
+          (NNS factors))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ does)
+              (NP (DT a) (JJ simple) (JJ natural) (NN explanation)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NN example)))
+    (, ,)
+    (NP (PRP we))
+    (VP (MD would)
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB explain)
+              (SBAR
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (NP (NNS angels))
+                    (VP (VBP are)
+                      (VP (VBN made)
+                        (PP (IN of))))))
+                (, ,)
+                (SBAR
+                  (WHADVP (WRB how))
+                  (S
+                    (NP (PRP they))
+                    (VP (VBP originated))))
+                (, ,)
+                (CC and)
+                (SBAR
+                  (WHADVP (WRB how))
+                  (S
+                    (NP (PRP they))
+                    (VP (VB intervene)
+                      (PP (IN in)
+                        (NP (DT the) (JJ natural) (NN world)))))))
+              (, ,)
+              (INTJ (DT that) (VBZ is))
+              (, ,)
+              (SBAR
+                (WHADVP (WRB how))
+                (S
+                  (NP (PRP they))
+                  (VP (VBP make)
+                    (SBAR
+                      (S
+                        (NP (NN matter))
+                        (VP (VBP do)
+                          (NP (NNS things)))))))))))))
+    (. .)))
+
+(ROOT
+  (SQ (VBP Do)
+    (NP (PRP they))
+    (VP (VB obey)
+      (NP
+        (NP (DT the) (NNS laws))
+        (PP (IN of)
+          (NP
+            (NP (NNS thermodynamics))
+            (CC or)
+            (NP (RB not))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHPP (IN Under)
+      (WHNP (WP what)))
+    (SQ
+      (NP (NNS conditions))
+      (VP (VB do)
+        (S
+          (NP (PRP they))
+          (VP (VB intervene)))))
+    (. ?)))
+
+(ROOT
+  (SQ (VBP Are)
+    (NP (PRP$ their))
+    (VP (VBN interventions)
+      (S
+        (ADJP (JJ consistent)
+          (CC or)
+          (JJ capricious))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Assuming)
+        (SBAR (IN that)
+          (S
+            (NP (DT an) (JJ alternative) (, ,) (JJ angel-less) (NN model))
+            (VP (VBZ is)
+              (PP (IN as))
+              (, ,)
+              (PRN (CC or)
+                (ADJP
+                  (ADJP (RBR more) (JJ accurate))
+                  (PP (IN at)
+                    (S
+                      (VP (VBG describing)
+                        (NP (DT the) (NNS phenomena))))))))))))
+    (, ,)
+    (NP (DT the) (JJ scientific) (NN choice))
+    (VP (MD would)
+      (VP (VB be)
+        (NP (DT the) (JJ angel-less) (NN model))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Parsimony))
+      (PRN (-LRB- -LRB-)
+        (NP
+          (NP (DT an) (JJ extreme) (NN unwillingness))
+          (S
+            (VP (TO to)
+              (VP (VB spend)
+                (NP (NN money)
+                  (CC or)
+                  (NN use) (NNS resources))))))
+        (-RRB- -RRB-)))
+    (VP (VBZ has)
+      (NP
+        (NP (DT the) (JJ practical) (NN effect))
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBZ lets)
+              (S
+                (NP (PRP us))
+                (VP (VB restrict)
+                  (NP (PRP$ our) (NN thinking))
+                  (PP (TO to)
+                    (NP
+                      (NP (DT the) (JJ minimal) (NN model))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBZ is)
+                            (VP (VBN needed)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB explain)
+                                    (NP (JJ specific) (NNS phenomena))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ surprising) (NN result))
+      (, ,)
+      (VP
+        (ADVP (RB well))
+        (VBN illustrated)
+        (PP (IN by)
+          (NP (DT a) (NNP TED) (NN talk)))
+        (PP (IN by)
+          (NP (NNP Murray) (NNP Gell-Mann))))
+      (, ,))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NN simple))
+            (, ,)
+            (NP
+              (ADJP
+                (ADVP (IN albeit) (RB often))
+                (JJ counter-intuitive))
+              (NNS rules))
+            (, ,))
+          (VP (MD can)
+            (VP (VB explain)
+              (NP
+                (NP (RB much))
+                (PP (IN of)
+                  (NP (DT the) (NNP Universe))))
+              (PP (IN with)
+                (NP (JJ remarkable) (NN precision))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN model))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ fails)
+            (S
+              (VP (TO to)
+                (ADVP (RB accurately))
+                (VP (VB describe)
+                  (CC and)
+                  (VB predict)
+                  (NP (DT the) (JJ observable) (NN world)))))))))
+    (VP
+      (VP (MD must)
+        (VP (VB be)
+          (VP (VBG missing)
+            (NP (NN something)))))
+      (CC and)
+      (VP (VBZ is)
+        (ADVP (CC either)
+          (RB partially)
+          (CC or)
+          (RB completely))
+        (ADJP (JJ wrong))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Scientific) (NNS models))
+    (VP (VBP are)
+      (ADVP (RB continually))
+      (VP (VBG being)
+        (VP
+          (VP (VBN modified))
+          (, ,)
+          (VP (VBN expanded))
+          (, ,)
+          (CC or)
+          (VP (VBN replaced)
+            (PP (IN in)
+              (NP (NN order)))
+            (S
+              (VP (TO to)
+                (VP (VB explain)
+                  (NP
+                    (ADJP (JJR more)
+                      (CC and)
+                      (JJR more))
+                    (NNS phenomena))
+                  (ADVP (RBR more)
+                    (CC and)
+                    (RBR more) (RB accurately)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (NP
+          (NP (DT an) (JJ implicit) (NN assumption))
+          (PP (IN of)
+            (NP (JJ many) (NNS sciences)))
+          (SBAR
+            (S
+              (VP (VBZ is)
+                (SBAR (IN that)
+                  (S
+                    (NP (DT the) (NN universe))
+                    (VP (MD can)
+                      (VP (VB be)
+                        (VP (VBN understood)
+                          (PP (IN in)
+                            (NP (JJ scientific) (NNS terms))))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT this) (NN presumption))
+      (VP
+        (VP (VBZ has)
+          (VP (VBN been)
+            (VP
+              (ADVP (RB repeatedly))
+              (VBN confirmed))))
+        (, ,)
+        (CC but)
+        (VP (VBP have)
+          (ADVP (IN by)
+            (NP (DT no) (NN means)))
+          (VP (VBN been)
+            (VP (VBN proven))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN model))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP
+            (VP (VBZ has)
+              (VP (VBN been)
+                (VP
+                  (ADVP (RB repeatedly))
+                  (VBN confirmed))))
+            (CC and)
+            (VP (VBZ covers)
+              (NP
+                (NP (NNS lots))
+                (PP (IN of)
+                  (NP (NNS observations)))))))))
+    (VP (VBZ is)
+      (VP (VBN known)
+        (PP (IN as)
+          (NP
+            (NP (DT a) (NN theory))
+            (ADVP (IN at) (JJS least))
+            (SBAR
+              (S
+                (NP (DT this))
+                (VP (VBZ is)
+                  (NP
+                    (NP (DT the) (NN meaning))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN word))
+                        (PP (IN in)
+                          (NP (DT a) (JJ scientific) (NN context)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (JJ worth))
+      (S
+        (VP (VBG noting)
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (NN word) (NN theory))
+              (VP (VBZ is)
+                (ADJP (RB often) (JJ misused))
+                (, ,)
+                (PP (RB even) (IN by)
+                  (NP
+                    (NP (NNS scientists))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (MD might)
+                          (VP (VB be)
+                            (VP (VBN expected)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB know)
+                                    (ADVP (RBR better))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (PRN
+        (S
+          (NP (EX there))
+          (VP (VBP are)
+            (NP (JJ multiple) (NNS theories)
+              (S
+                (VP (TO to)
+                  (VP (VB explain)
+                    (NP (DT a) (JJ particular) (NNS phenomena))
+                    (, ,)
+                    (S
+                      (NP (PRP it))
+                      (NP (PRP it))
+                      (S
+                        (ADJP (RBR more) (JJ correct)
+                          (S
+                            (VP (TO to)
+                              (VP (VB say)
+                                (NP (DT that) (NN i))))))))))))))
+        (-RRB- -RRB-))
+      (S
+        (NP (DT these))
+        (VP (VBP are) (RB not)
+          (ADVP
+            (ADVP (RB actually))
+            (PRN
+              (NP
+                (NP (NNS theories))
+                (, ,)
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (JJ scientific) (NN sense))
+                    (, ,)
+                    (CONJP (CC but)
+                      (RB rather))
+                    (NP
+                      (NP (JJ working) (NNS models))
+                      (CC or)
+                      (NP (JJ simple) (NNS speculations)))))
+                (, ,)
+                (CC and)
+                (NP (DT that) (NN ii)))
+              (-RRB- -RRB-)))
+          (NP
+            (NP
+              (QP (CD one)
+                (CC or)
+                (JJR more)))
+            (, ,)
+            (CC and)
+            (NP
+              (NP (RB perhaps) (DT all))
+              (PP (IN of)
+                (NP (DT these) (NNS models))))))))
+    (VP (VBP are)
+      (ADJP (JJ incorrect)
+        (CC or)
+        (JJ incomplete)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT A) (JJ scientific) (NN theory))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (NP (DT a)
+            (ADJP (RB very) (JJ special))
+            (NN set))
+          (PP (IN of)
+            (NP
+              (NP (NNS ideas))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ explains))))
+              (, ,)
+              (PP (IN in)
+                (NP (DT a) (NN logically)))))
+          (ADJP (JJ consistent))
+          (, ,)
+          (VP
+            (ADVP (RB empirically))
+            (VBN supported))
+          (, ,)
+          (CC and)
+          (NP (JJ predictive) (NN manner)))
+        (NP
+          (NP (DT a) (JJ broad) (NN range))
+          (PP (IN of)
+            (NP (NNS phenomena))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Moreover))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN tested)
+          (ADVP (RB repeatedly))
+          (PP (IN by)
+            (NP
+              (NP (DT a) (NN number))
+              (PP (IN of)
+                (NP (JJ critical)
+                  (CC and)
+                  (JJ objective) (NNS people)))
+              (, ,)
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ is)
+                    (NP
+                      (NP (NNS people))
+                      (SBAR
+                        (WHNP (WP who))
+                        (S
+                          (VP
+                            (VP (VBP have)
+                              (NP (DT no) (VBN vested) (NN interest))
+                              (PP (IN in)
+                                (NP (DT the) (NN outcome))))
+                            (, ,)
+                            (CC and)
+                            (VP (VBD found)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB provide)
+                                    (NP
+                                      (NP
+                                        (ADJP (JJ accurate))
+                                        (NNS descriptions))
+                                      (PP (IN of)
+                                        (NP (DT the) (NNS phenomena)))
+                                      (SBAR
+                                        (S
+                                          (NP (PRP it))
+                                          (VP (VBZ purports)
+                                            (S
+                                              (VP (TO to)
+                                                (VP (VB explain))))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is) (RB not)
+      (NP (JJ idle) (NN speculation)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP are)
+          (ADJP (JJ curious)))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD might)
+      (VP (VB count)
+        (SBAR
+          (WHNP
+            (WHADJP (WRB how) (JJ many))
+            (NNS times))
+          (S
+            (NP (DT the) (NN word) (NN theory))
+            (VP (VBZ is)
+              (VP (VBN misused) (, ,)
+                (ADVP
+                  (ADVP (IN at) (JJS least))
+                  (PP (IN in)
+                    (NP (DT the) (JJ scientific) (NN sense))))
+                (, ,)
+                (PP (IN in)
+                  (NP (PRP$ your) (JJ various) (NNS classes)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT That))
+      (VP (VBD said)))
+    (, ,)
+    (NP (NNS theories))
+    (VP (VBP are) (RB not)
+      (ADJP (JJ static)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP New))
+      (CC or)
+      (NP
+        (NP
+          (ADJP (RBR more) (JJ accurate))
+          (NNS observations))
+        (SBAR (IN that)
+          (S
+            (NP (DT a) (NN theory))
+            (VP (MD can) (RB not)
+              (VP (VB explain)))))))
+    (VP (MD will)
+      (ADVP (RB inevitably))
+      (VP (VB drive)
+        (NP
+          (NP (DT the) (NN revision)
+            (CC or)
+            (NN replacement))
+          (PP (IN of)
+            (NP (DT the) (NN theory))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (DT this))
+        (VP (VBZ occurs))))
+    (, ,)
+    (NP (DT the) (JJ new) (NN theory))
+    (VP (VBZ explains)
+      (NP
+        (NP (DT the) (JJ new) (NNS observations))
+        (CONJP (RB as) (RB well) (IN as))
+        (NP
+          (NP (NN everything))
+          (VP (VBN explained)
+            (PP (IN by)
+              (NP (DT the) (JJR older) (NN theory)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Consider)
+      (PP (IN for)
+        (NP (NN example) (NN gravity))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Issac) (NNPS Newtons) (NN law))
+      (PP (IN of)
+        (NP (NN gravity))))
+    (, ,)
+    (VP (VBZ describes)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (S
+            (NP (NNS objects))
+            (VP (VB behave)))
+          (CC and)
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (ADJP (JJ possible)
+                (S
+                  (VP (TO to)
+                    (VP (VB make)
+                      (NP
+                        (NP
+                          (ADJP (RB extremely) (JJ accurate))
+                          (NNS predictions))
+                        (PP (IN of)
+                          (SBAR
+                            (WHADVP (WRB how))
+                            (S
+                              (NP (NNS objects))
+                              (VP (VB behave)
+                                (S
+                                  (VP (VBG using)
+                                    (NP (PRP$ its) (NNS rules))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (NNP Newton))
+    (VP (VBD did) (RB not)
+      (ADVP (RB really))
+      (VP (VB have)
+        (NP
+          (NP (DT a) (NN theory))
+          (PP (IN of)
+            (NP
+              (NP (NN gravity))
+              (, ,)
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP
+                    (VP (VBZ is))
+                    (, ,)
+                    (NP
+                      (NP (DT an) (JJ naturalistic) (NN explanation))
+                      (PP (IN for)
+                        (SBAR
+                          (SBAR
+                            (WHADVP (WRB why))
+                            (S
+                              (NP (EX there))
+                              (VP (VBZ is)
+                                (NP (NN gravity)))))
+                          (CC and)
+                          (SBAR
+                            (WHADVP (WRB how))
+                            (S
+                              (NP (PRP it))
+                              (VP (VBZ behaves)
+                                (NP
+                                  (NP (DT the) (NN way))
+                                  (SBAR
+                                    (S
+                                      (NP (PRP it))
+                                      (VP (VBZ does)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD relied)
+      (PP (IN on)
+        (NP (DT a) (JJ supernatural) (NN explanation))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP it))
+        (VP (VBD was)
+          (VP (VBN shown)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (NNP Newtons) (NN law))
+                  (PP (IN of)
+                    (NP (NN gravity))))
+                (VP (VBD failed)
+                  (PP (IN in)
+                    (NP (JJ specific) (NNS situations)))
+                  (, ,)
+                  (PP (JJ such) (IN as)
+                    (SBAR
+                      (WHADVP (WRB when))
+                      (S
+                        (NP (DT an) (NN object))
+                        (VP (VBZ is)
+                          (PP (IN in)
+                            (NP
+                              (NP (JJ close) (NN proximity))
+                              (PP (IN of)
+                                (NP (DT a) (JJ massive) (NN object))))))))))))))))
+    (, ,)
+    (PP (IN like)
+      (NP (DT the) (NN sun)))
+    (, ,)
+    (NP (JJ new) (NNS rules)
+      (CC and)
+      (NNS explanations))
+    (VP (VBD were)
+      (VP (VBN needed)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Albert) (NNPS Einsteins) (NNP Theory))
+        (PP (IN of)
+          (NP (NNP General) (NNP Relativity))))
+      (VP
+        (ADVP
+          (NP (RB not) (RB only))
+          (RBR more) (RB accurately))
+        (VBZ predicts)
+        (NP
+          (NP (DT the) (NN behavior))
+          (PP (IN of)
+            (NP (DT these) (NNS systems))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD provided)
+      (NP (DT a) (JJ naturalistic) (NN explanation))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN origin))
+          (PP (IN of)
+            (NP (DT the) (JJ gravitational) (NN force))))))
+    (. .)))
+
+(ROOT
+  (SINV (RB So)
+    (VP (VBZ is))
+    (NP
+      (NP (NN general))
+      (ADJP (RB relativity) (JJ true)))
+    (. ?)))
+
+(ROOT
+  (S
+    (ADVP (RB Not) (RB necessarily))
+    (, ,)
+    (NP (WDT which))
+    (VP (VBZ is)
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (NP (NNS scientists))
+          (VP (VBP continue)
+            (S
+              (VP (TO to)
+                (VP (VB test)
+                  (NP (PRP$ its) (NNS predictions))
+                  (PP (IN in)
+                    (NP
+                      (ADJP (RB increasingly) (JJ extreme))
+                      (NNS situations))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Science))
+    (VP (VBZ is)
+      (ADJP (JJ social)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ social) (NN nature))
+      (PP (IN of)
+        (NP (NN science))))
+    (VP (VBZ is)
+      (NP (NN something))
+      (SBAR (IN that)
+        (S
+          (NP (PRP we))
+          (VP (VBP want)
+            (S
+              (VP (TO to)
+                (VP (VB stress)
+                  (ADVP (RB yet))
+                  (ADVP (RB again)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (NN science))
+        (VP (VBZ is)
+          (ADVP (RB often))
+          (VP (VBN portrayed)
+            (PP (IN as)
+              (NP
+                (NP (DT an) (NN activity))
+                (VP (VBN carried)
+                  (PRT (RP out))
+                  (PP (IN by)
+                    (NP (VBN isolated) (NNS individuals))))))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN image))
+      (PP (IN of)
+        (NP (DT the) (JJ mad) (NN scientist))))
+    (VP (VBZ comes)
+      (S
+        (VP (TO to)
+          (VP (VB mind))))
+      (, ,)
+      (SBAR (IN in)
+        (S
+          (NP (NN fact) (NN science))
+          (VP (VBZ is)
+            (NP (DT an)
+              (ADJP (RB extremely) (JJ social))
+              (NN activity))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (VBZ works)
+        (SBAR (RB only) (IN because)
+          (S
+            (NP (PRP it))
+            (VP (VBZ involves)
+              (CC and)
+              (VBZ depends)
+              (PP (RB upon))))))
+      (, ,)
+      (NP
+        (NP (DT an) (JJ interactive) (NN community))
+        (PP (IN of)
+          (NP
+            (NP (NNS scientists))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBP keep)
+                  (S
+                    (NP
+                      (NP (DT each) (JJ other))
+                      (PRN (-LRB- -LRB-)
+                        (PP (IN in)
+                          (NP (DT the) (JJ long) (NN run)))
+                        (-RRB- -RRB-)))
+                    (ADJP (JJ honest))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Observations) (, ,) (NNS hypotheses)
+      (CC and)
+      (NNS conclusions))
+    (VP (VBP are)
+      (VP (VBN presented)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN public))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN form))
+                (PP (IN of)
+                  (NP
+                    (NP (JJ scientific) (NNS papers))
+                    (, ,)
+                    (SBAR
+                      (WHADVP (WRB where))
+                      (S
+                        (NP (PRP$ their) (NN relevance)
+                          (CC and)
+                          (NN accuracy))
+                        (VP (MD can)
+                          (VP (VB be)
+                            (VP (VBN evaluated) (, ,)
+                              (ADJP
+                                (ADVP (RBR more)
+                                  (CC or)
+                                  (RBR less))
+                                (JJ dispassionately))
+                              (, ,)
+                              (PP (IN by)
+                                (NP (NNS others))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Over)
+      (NP (DT the) (JJ long) (NN term)))
+    (, ,)
+    (NP (DT this) (NN process))
+    (VP (VBZ leads)
+      (PP (TO to)
+        (NP (DT an) (JJ evidence-based) (, ,) (JJ scientific) (NN consensus))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Certain) (NNS ideas)
+      (CC and)
+      (NNS observations))
+    (VP (VBP are)
+      (ADVP (RB so) (RB well))
+      (VP (VBN established)
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (MD can)
+              (VP (VB be)
+                (VP
+                  (ADVP (RB reasonably))
+                  (VBN accepted)
+                  (PP (IN as)
+                    (PP
+                      (ADVP (RB universally))
+                      (ADJP (JJ valid))))
+                  (, ,)
+                  (SBAR (IN whereas)
+                    (S
+                      (NP (NNS others))
+                      (VP (VBP are)
+                        (ADJP (RB extremely) (JJ unlikely)
+                          (S
+                            (VP (TO to)
+                              (VP (VB be)
+                                (ADJP (JJ true))))))))))))))
+        (, ,)
+        (PP (JJ such) (IN as)
+          (NP
+            (NP (JJ perpetual) (NN motion))
+            (CC or)
+            (NP (`` ``) (JJ intelligent) (NN design) (NN creationism))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These))
+    (VP (VBP are)
+      (NP
+        (NP (NNS ideas))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD can)
+              (VP (VB be)
+                (VP
+                  (ADVP (RB safely))
+                  (VBN ignored))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (PRP we))
+        (VP (MD will)
+          (VP (VB see)))))
+    (, ,)
+    (NP (JJ modern) (NN biology))
+    (VP (VBZ is)
+      (VP (VBN based)
+        (PP (IN on)
+          (NP
+            (NP (DT a) (JJ small) (NN set))
+            (PP (IN of)
+              (NP
+                (NP (NNS theories))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBP include)
+                      (NP
+                        (NP (DT the) (NNP Physicochemical) (NNP Theory))
+                        (PP (IN of)
+                          (NP
+                            (NP (NNP Life))
+                            (, ,)
+                            (NP (DT the) (NNP Cell) (NNP Theory))
+                            (CC and)
+                            (NP (DT the) (NNP Theory))))
+                        (PP (IN of)
+                          (NP (NNP Evolution)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBD said) (, ,)
+      (PP (IN as)
+        (NP
+          (NP (NNS scientists))
+          (SBAR
+            (S
+              (NP (PRP we))
+              (VP
+                (VP (VB keep)
+                  (NP (PRP$ our) (NNS minds))
+                  (PRT (RP open))
+                  (PP (TO to)
+                    (NP (NNS exceptions))))
+                (CC and)
+                (VP (VB work)
+                  (S
+                    (VP (TO to)
+                      (VP (VB understand)
+                        (NP (PRP them))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN openness))
+      (PP (IN of)
+        (NP (NN science))))
+    (VP (VBZ means)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT a) (JJ single) (NN person))
+            (, ,)
+            (VP (VBG taking)
+              (NP (DT a) (JJ new) (NN observation)
+                (CC or)
+                (NN idea))
+              (ADVP (RB seriously)))
+            (, ,))
+          (VP (MD can)
+            (VP (VB challenge)
+              (CC and)
+              (VB change)
+              (NP (JJ accepted) (JJ scientific) (NN understanding)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ is) (RB not)
+      (S
+        (VP (TO to)
+          (VP (VB say)
+            (SBAR (IN that)
+              (S
+                (NP (PRP it))
+                (VP (VBZ is)
+                  (ADJP (JJ easy)
+                    (S
+                      (VP (TO to)
+                        (VP (VB change)
+                          (SBAR
+                            (S
+                              (NP (DT the) (NN way) (NNS scientists))
+                              (VP (VBP think)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJS Most) (NNS theories))
+    (VP
+      (VP (VBP are)
+        (VP (VBN based)
+          (PP (IN on)
+            (NP
+              (NP (JJ large) (NNS bodies))
+              (PP (IN of)
+                (NP (NN evidence)))))))
+      (CC and)
+      (VP (VBP have)
+        (VP (VBN been)
+          (VP (VBN confirmed)
+            (PP (IN on)
+              (NP (JJ multiple) (NNS occasions)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (ADVP (RB generally))
+    (VP (VBZ turns)
+      (PRT (RP out))
+      (SBAR (IN that)
+        (S
+          (NP (RBS most) (JJ revolutionary) (NNS observations))
+          (VP
+            (VP (VBP are)
+              (VP (RB either) (VBN mistaken) (, ,) (VBN misinterpreted)))
+            (, ,)
+            (CC or)
+            (VP (MD can)
+              (VP (VB be)
+                (VP (VBN explained)
+                  (PP (IN within)
+                    (NP
+                      (NP (DT the) (NN context))
+                      (PP (IN of)
+                        (NP (JJ established) (NNS theories))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is) (, ,)
+      (ADVP (RB however))
+      (, ,)
+      (ADJP (JJ worth))
+      (S
+        (VP (VBG keeping)
+          (PP (IN in)
+            (NP (NN mind)))
+          (SBAR (IN that)
+            (S
+              (NP (PRP it))
+              (VP (VBZ is) (RB not)
+                (ADVP (IN at) (DT all))
+                (ADJP (JJ clear))
+                (SBAR (IN that)
+                  (S
+                    (NP (DT all) (NNS phenomena))
+                    (VP (MD can)
+                      (VP (VB be)
+                        (VP (VBN put)
+                          (PP (IN into)
+                            (NP
+                              (NP (DT a) (JJ single) (NN theory))
+                              (PP (IN of)
+                                (NP (NN everything))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NN example)))
+    (NP (PRP it))
+    (VP (VBZ has)
+      (ADVP (RB certainly))
+      (VP (VBN proven)
+        (ADJP (JJ difficult)
+          (S
+            (VP (TO to)
+              (VP (VB reconcile)
+                (NP (NN quantum) (NNS physics))
+                (PP (IN with)
+                  (NP
+                    (NP (DT the) (JJ general) (NN theory))
+                    (PP (IN of)
+                      (NP (NN relativity)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ final) (NN point))
+      (, ,)
+      (VP (VBN mentioned)
+        (ADVP (RB before)))
+      (, ,))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NNS sciences))
+          (VP (VBP are) (RB not)
+            (ADJP (JJ independent)
+              (PP (IN of)
+                (NP (CD one) (DT another))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Ideas))
+      (PP (IN about)
+        (NP
+          (NP (DT the) (NNS behaviors))
+          (PP (IN of)
+            (NP (JJ biological) (NNS systems))))))
+    (VP (MD can) (RB not)
+      (VP (VB contradict)
+        (NP
+          (NP
+            (ADJP (RB well) (VBN established))
+            (NNS observations))
+          (CC and)
+          (NP
+            (NP (NNS theories))
+            (PP (IN in)
+              (NP (NN chemistry)
+                (CC or)
+                (NN physics)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP they))
+        (VP (VBD did))))
+    (, ,)
+    (NP
+      (NP (CD one))
+      (CC or)
+      (NP (DT the) (JJ other)))
+    (VP (MD would)
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN modified)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NN example)))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (JJ substantial) (NN evidence))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN dating))
+            (PP (IN of)
+              (NP
+                (NP (NNS rocks))
+                (VP (VBN based)
+                  (PP (IN on)
+                    (NP
+                      (NP (DT the) (NN behavior))
+                      (PP (IN of)
+                        (NP
+                          (NP (JJ radioactive) (NNS isotopes))
+                          (PP (IN of)
+                            (NP (JJ particular) (NNS elements))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (NP
+        (NP
+          (ADJP (RB well) (VBN established))
+          (NNS patterns))
+        (PP (IN of)
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP
+                (NP (NN rock) (NNS layers))
+                (PRN (-LRB- -LRB-)
+                  (PP (IN with)
+                    (NP (JJ specific) (NNS ages)))
+                  (-RRB- -RRB-)))
+              (VP (VBP are)
+                (VP (VBN found))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP we))
+        (VP (VBP consider)
+          (NP
+            (NP (DT the) (NN dating))
+            (PP (IN of)
+              (NP (NNS fossils)))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP use)
+      (NP
+        (NP (NNS rules)
+          (CC and)
+          (NN evidence))
+        (VP (VBN established)
+          (PP (IN by)
+            (NP (NNS geologists))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD can) (RB not)
+      (VP (VB change)
+        (NP
+          (NP
+            (NP (DT the) (NN age))
+            (SBAR
+              (S
+                (NP (PRP we))
+                (VP (VBP assign)
+                  (PP (TO to)
+                    (NP (DT a) (NN fossil)))
+                  (, ,)
+                  (S
+                    (VP (VBG making)
+                      (S
+                        (NP (PRP it))
+                        (ADJP (JJ inconsistent)
+                          (PP (IN with)
+                            (NP
+                              (NP (DT the) (NNS rocks))
+                              (SBAR
+                                (WHNP (WDT that))
+                                (S
+                                  (VP (VBP surround)
+                                    (NP (PRP it)))))))))))
+                  (, ,)
+                  (PP (IN without)
+                    (S
+                      (VP (VBG challenging)
+                        (NP
+                          (NP (PRP$ our) (NN understanding))
+                          (PP (IN of)
+                            (NP
+                              (NP (DT the) (JJ atomic) (NN nature))
+                              (PP (IN of)
+                                (NP (NN matter)))))))))))))
+          (, ,)
+          (NP
+            (NP (DT the) (JJ quantum) (JJ mechanical) (NNS principles))
+            (VP (VBN involved)
+              (PP (IN in)
+                (NP (JJ isotope) (NN stability)))))
+          (, ,)
+          (CC or)
+          (NP (JJ geological) (NNS mechanisms)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ classic) (NN example))
+      (PP (IN of)
+        (NP (DT this) (NN situation))))
+    (VP (VBD arose)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP
+            (NP
+              (NP (DT the) (NN physicist))
+              (PRN
+                (NP (NNP William) (NNP Thompson)))
+              (PRN (-LRB- -LRB-)
+                (VP
+                  (ADVP (RB also))
+                  (VBN known)
+                  (PP (IN as)
+                    (NP (NNP Lord) (NNP Kelvin))))
+                (-RRB- -RRB-)))
+            (PRN (-LRB- -LRB-)
+              (NP (CD 1824-1907))
+              (-RRB- -RRB-)))
+          (VP (VBD estimated)
+            (NP
+              (NP (DT the) (NN age))
+              (PP (IN of)
+                (NP (DT the) (NN earth))))
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (NP
+                    (QP (IN between) (CD 20) (TO to) (CD 400) (CD million))
+                    (NNS years)))))
+            (, ,)
+            (PP (VBN based)
+              (PP (IN on)
+                (NP
+                  (NP (DT the) (NN rate))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN heat) (NN dissipation))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT a)
+                            (ADJP (RB once) (JJ molten))
+                            (NN object))
+                          (, ,)
+                          (NP (DT the) (NN earth)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBD was)
+      (NP
+        (NP
+          (NP (DT a) (NN time-span))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD seemed)
+                (ADJP (RB too) (JJ short))
+                (PP (IN for)
+                  (NP (JJ various) (JJ geological)
+                    (CC and)
+                    (JJ biological) (NNS processes)))))))
+        (, ,)
+        (CC and)
+        (NP
+          (ADJP (RB greatly) (VBN troubled))
+          (NNP Charles) (NNP Darwin))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NN Somebody))
+      (VP (VBD was)
+        (ADJP
+          (ADJP (JJ wrong))
+          (, ,)
+          (CC or)
+          (ADJP (JJR better)))))
+    (, ,)
+    (NP (PRP$ their) (NN understanding))
+    (VP (VBD was)
+      (ADJP (JJ incomplete)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN answer))
+      (VP (VBD was)
+        (PP (IN with)
+          (NP (DT the) (NNS assumptions)))
+        (SBAR (IN that)
+          (S
+            (NP (NNP Kelvin))
+            (VP (VBD had)
+              (VP (VBN made)))))))
+    (: ;)
+    (S
+      (NP (PRP$ his) (NNS calculations))
+      (VP
+        (VP (VBD ignored)
+          (NP
+            (NP (DT the) (NNS effects))
+            (PP (IN of)
+              (NP (JJ radioactive) (NN decay)))))
+        (PRN (-LRB- -LRB-)
+          (ADJP
+            (ADJP (RB not) (JJ surprising))
+            (SBAR (IN since)
+              (S
+                (NP (NN radioactivity))
+                (VP (VBD had)
+                  (ADVP (RB yet))
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (VP (VBN discovered)))))))))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These) (NNS effects))
+    (VP (VBD increased)
+      (NP
+        (NP (DT the) (JJ calculated) (NN age))
+        (PP (IN of)
+          (NP (DT the) (NN earth))))
+      (PP (IN by)
+        (NP
+          (QP (JJR more) (IN than) (CD ten))))
+      (PP (TO to)
+        (NP
+          (QP (CD one) (CD hundred))))
+      (S
+        (VP (VB fold) (, ,)
+          (PP (TO to)
+            (NP
+              (QP (RB about) (CD 5) (CD billion))
+              (NNS years)))
+          (, ,)
+          (NP
+            (NP (DT an) (NN age))
+            (ADJP (JJ compatible)
+              (PP (IN with)
+                (NP (DT both) (JJ biological)
+                  (CC and)
+                  (JJ geological) (NNS processes))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBG Teaching)
+      (CC and)
+      (VBG learning)
+      (NP (NN science)))))
+
+(ROOT
+  (S
+    (NP (DT An) (JJ important) (NN point)
+      (S
+        (VP (TO to)
+          (VP (VB appreciate)
+            (PP (IN about)
+              (NP (NN science)))))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (PP (RB because) (IN of)
+            (NP
+              (NP (DT the) (JJ communal) (NN way))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ works))))))
+          (, ,)
+          (NP (PRP it))
+          (VP
+            (VP (VBZ builds)
+              (S
+                (VP (VBG understanding)
+                  (NP
+                    (NP (CD one) (NN observation))
+                    (CC and)
+                    (NP (NN idea)))
+                  (PP (IN on)
+                    (NP
+                      (NP (NN top))
+                      (PP (IN of)
+                        (NP (DT another))))))))
+            (, ,)
+            (CC and)
+            (VP
+              (ADVP (RB often))
+              (VBZ arrives)
+              (PP (IN at)
+                (NP
+                  (NP (NNS conclusions))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (MD can)
+                        (VP (VB be)
+                          (ADJP
+                            (ADJP (JJ strange))
+                            (, ,)
+                            (ADJP (JJ counterintuitive))
+                            (, ,)
+                            (CC and)
+                            (ADJP
+                              (ADJP (RB sometimes) (JJ disconcerting))
+                              (CC but)
+                              (ADJP
+                                (ADVP
+                                  (ADVP (RB nevertheless))
+                                  (RB logically))
+                                (JJ unavoidable)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (ADVP (RB now))
+          (VP
+            (ADVP (RB commonly))
+            (VBN accepted)
+            (SBAR
+              (SBAR (IN that)
+                (S
+                  (NP (DT the) (NN Earth))
+                  (VP
+                    (VP (VBZ rotates)
+                      (PRT (RP around))
+                      (NP (PRP$ its) (NNS axis)))
+                    (CC and)
+                    (VP (VBZ revolves)
+                      (PP (IN around)
+                        (NP
+                          (NP (DT the) (NN sun))
+                          (, ,)
+                          (SBAR
+                            (WHNP (WDT which))
+                            (S
+                              (VP (VBZ is)
+                                (ADVP (PRP itself))
+                                (VP (VBG moving)
+                                  (PP (IN around)
+                                    (NP
+                                      (NP (DT the) (NN center))
+                                      (PP (IN of)
+                                        (NP (DT the) (NNP Milky) (NNP Way) (NN galaxy)))))))))))))))
+              (, ,)
+              (CC and)
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (DT the) (NN Universe))
+                    (PP (IN as)
+                      (NP (DT a) (NN whole))))
+                  (VP (VBZ is)
+                    (VP (VBG expanding)
+                      (PP (IN at)
+                        (SBAR
+                          (WHNP (WP what))
+                          (S
+                            (VP (VBZ appears)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB be)
+                                    (NP (DT an) (DT every) (JJ increasing) (NN rate))))))))))))))))))
+    (, ,)
+    (NP
+      (NP (NN none))
+      (PP (IN of)
+        (NP (DT these) (NNS facts))))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RB immediately) (JJ obvious))
+        (CC and)
+        (ADJP (RB relatively) (JJ few)
+          (SBAR
+            (S
+              (NP
+                (NP (NNS people))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBP believe)
+                      (CC or)
+                      (VBP accept)
+                      (NP (PRP them))))))
+              (VP (MD would)
+                (VP (VB be)
+                  (ADJP (JJ able)
+                    (S
+                      (VP (TO to)
+                        (VP (VB explain)
+                          (SBAR
+                            (WHADVP (WRB how))
+                            (S
+                              (NP (PRP we))
+                              (VP (VBP know)
+                                (S
+                                  (NP (PRP them))
+                                  (VP (TO to)
+                                    (VP
+                                      (ADVP (RB accurately))
+                                      (VB reflect)
+                                      (NP
+                                        (NP (DT the) (NN way))
+                                        (SBAR
+                                          (S
+                                            (NP (DT the) (NN universe))
+                                            (VP (VBZ is)
+                                              (VP (VBN organized)))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT the) (JJ same) (NN time)))
+    (, ,)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (DT these) (NNS ideas))
+        (VP (VBD were)
+          (ADVP (RB first))
+          (VP (VBG being)
+            (VP (VBN developed))))))
+    (NP (PRP they))
+    (VP (VBD conflicted)
+      (PP (IN with)
+        (NP (DT the) (NN idea)))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN Earth))
+          (VP (VBD was)
+            (VP
+              (VP (VBN stationary) (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (, ,)
+                  (S
+                    (PP (IN of)
+                      (NP (NN course)))
+                    (NP (PRP it))
+                    (VP (VBZ appears)
+                      (S
+                        (VP (TO to)
+                          (VP (VB be))))))))
+              (, ,)
+              (CC and)
+              (VP (VBN located)
+                (PP (IN at)
+                  (NP
+                    (NP (DT the) (NN center))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT a) (JJ static) (NN Universe))
+                        (, ,)
+                        (SBAR
+                          (WHNP (WDT which))
+                          (S
+                            (ADVP (RB also))
+                            (VP (VBZ seems)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB be)
+                                    (NP (DT a) (JJ reasonable) (NN presumption))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN That)
+      (S
+        (NP
+          (NP (JJ new) (NNS ideas))
+          (PP (IN about)
+            (NP
+              (NP (DT the) (NNP Earths) (NN position))
+              (PP (IN in)
+                (NP (DT the) (NNP Universe))))))
+        (VP (VBD were)
+          (ADVP (RB generally))
+          (VP (VBN seen)
+            (S
+              (VP (TO to)
+                (VP (VB pose)
+                  (NP (DT a) (NN threat))
+                  (PP (TO to)
+                    (NP (DT the) (JJ sociopolitical) (NN order))))))))))
+    (VP (VBD was)
+      (VP (VBN indicated)
+        (PP (IN by)
+          (NP (DT the) (NN fact)))
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT a) (NN number))
+              (PP (IN of)
+                (NP (NNS people))))
+            (VP (VBD were)
+              (VP (VBN persecuted)
+                (PP (IN for)
+                  (S
+                    (VP (VBG holding)
+                      (NP (JJ heretical) (NNS views))
+                      (PP (IN on)
+                        (NP (DT the) (NN topic))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RBS Most) (RB famously))
+    (, ,)
+    (NP (DT these))
+    (VP (VBD included)
+      (NP
+        (NP
+          (NP (DT the) (JJ mystic) (NNP Giordano) (NNP Bruno))
+          (PRN (-LRB- -LRB-)
+            (NP
+              (QP (CD 1548) (CD 1600)))
+            (-RRB- -RRB-)))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD was)
+              (VP (VBN burned)
+                (PP (IN at)
+                  (NP
+                    (NP
+                      (NP (DT the) (NN stake))
+                      (PP (IN for)
+                        (NP
+                          (NP (DT this))
+                          (CC and)
+                          (NP (JJ other) (NNS ideas)))))
+                    (PRN (-LRB- -LRB-)
+                      (SBAR
+                        (WHNP
+                          (NP (DT some))
+                          (WHPP (IN of)
+                            (WHNP (WDT which))))
+                        (S
+                          (VP (VBP are)
+                            (ADVP (RB currently))
+                            (VP (VBN proposed)
+                              (PP (IN by)
+                                (NP (JJ theoretical) (NNS physicists)))))))
+                      (-RRB- -RRB-))
+                    (CC and)
+                    (NP
+                      (NP
+                        (NP (NNP Galileo) (NNP Galilei))
+                        (PRN (-LRB- -LRB-)
+                          (NP (CD 15641642))
+                          (-RRB- -RRB-)))
+                      (, ,)
+                      (VP (VBN known)
+                        (PP (IN as)
+                          (NP
+                            (NP (DT the) (NN father))
+                            (PP (IN of)
+                              (NP (JJ modern) (NNS physics)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Interestingly) (NNPS Galileos) (NN book))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD proposed)
+            (SBAR (IN that)
+              (S
+                (NP (DT the) (NN sun))
+                (VP (VBD was)
+                  (NP
+                    (NP (DT the) (NN center))
+                    (PP (IN of)
+                      (NP (DT the) (JJ solar) (NN system)))))))))))
+    (VP (VBD was)
+      (VP
+        (VP (VBN placed)
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN list))
+              (PP (IN of)
+                (NP
+                  (NP (JJ forbidden) (NNS books))
+                  (PP (IN in)
+                    (NP (CD 1616))))))))
+        (CC and)
+        (VP (RB not) (VBN removed)
+          (PP (IN until)
+            (NP (NNP 1835))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Galileo))
+    (VP (VBD was)
+      (VP
+        (VP (VBN arrested)
+          (PP (IN in)
+            (NP (CD 1633))))
+        (, ,)
+        (VP (VBN tried)
+          (PP (IN by)
+            (NP (DT the) (NNP Inquisition))))
+        (, ,)
+        (VP (VBN forced)
+          (S
+            (VP (TO to)
+              (VP
+                (ADVP (RB publicly))
+                (VB recant)
+                (NP (PRP$ his) (NNS views))
+                (PP (IN on)
+                  (NP
+                    (NP (DT the) (JJ relative) (NN position))
+                    (PP (IN of)
+                      (NP (DT the) (NNP Sun)
+                        (CC and)
+                        (NNP Earth)))))))))
+        (, ,)
+        (CC and)
+        (VP (VBN spent)
+          (NP
+            (NP (DT the) (NN rest))
+            (PP (IN of)
+              (NP (PRP$ his) (NN life))))
+          (PP (IN under)
+            (NP (NN house) (NN arrest))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN idea))
+      (PP (IN of)
+        (S
+          (NP (PRP us))
+          (VP
+            (VP (VBG standing)
+              (PP (IN on)
+                (NP
+                  (NP (DT the) (NN Earth))
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBZ is)
+                        (ADJP (JJ rotating)
+                          (PP (IN at)
+                            (NP
+                              (NP
+                                (QP (CD ~) (CD 1000))
+                                (NNS miles))
+                              (NP (DT an) (NN hour)))))))))))
+            (CC and)
+            (VP (VBG flying)
+              (PP (IN through)
+                (NP (NN space)))
+              (PP (IN at)
+                (NP
+                  (NP
+                    (QP (RB about) (CD 67,000))
+                    (NNS miles))
+                  (PP (IN per)
+                    (NP (NN hour))))))))))
+    (VP (VBZ is)
+      (ADJP (JJ difficult)
+        (S
+          (VP (TO to)
+            (VP (VB reconcile)
+              (PP (IN with)
+                (NP (PRP$ our) (JJ everyday) (NN experience)))
+              (SBAR (RB yet)
+                (S
+                  (NP (NN science))
+                  (VP (VBZ has)
+                    (VP (VBN continued)
+                      (S
+                        (VP (TO to)
+                          (VP (VB generated)
+                            (NP (RB even) (JJ weirder) (NNS ideas))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (VBN Based)
+      (PP (IN on)
+        (NP (NNS observations)
+          (CC and)
+          (NN logic))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ appears)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NNP Universe))
+          (VP (VBD arose)
+            (PP (IN from)
+              (NP (NN nothing)))
+            (ADVP
+              (NP
+                (QP (RB approximately) (CD 13.8) (CD billion))
+                (NNS years))
+              (RB ago))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Current) (NN thinking))
+    (VP (VBZ suggests)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB continue)
+              (S
+                (VP (TO to)
+                  (VP (VB expand)
+                    (ADVP (RB forever))
+                    (, ,)
+                    (PP (IN at)
+                      (NP (DT an)
+                        (ADJP (RB increasingly) (JJ rapid))
+                        (NN rate)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Einstein) (POS 's))
+        (NN theory))
+      (PP (IN of)
+        (NP (JJ general) (NN relativity))))
+    (VP (VBZ implies)
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (NP (NN matter))
+            (VP (VBZ distorts)
+              (NP
+                (NP (NN space-time))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBZ is)
+                      (ADVP (RB really))
+                      (NP
+                        (NP (CD one))
+                        (CONJP (RB rather) (IN than))
+                        (NP (CD two) (JJ discrete) (NNS entities))))))))))
+        (, ,)
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP (DT that) (NN distortion))
+            (VP (VBZ produces)
+              (NP
+                (NP (DT the) (NN attraction))
+                (PP (IN of)
+                  (NP (NN gravity)))
+                (SBAR
+                  (S
+                    (PP (IN In)
+                      (NP
+                        (NP (DT the) (NN world))
+                        (PP (IN of)
+                          (NP (NN biology)))))
+                    (, ,)
+                    (NP (PRP it))
+                    (VP (VBZ appears)
+                      (SBAR (IN that)
+                        (S
+                          (NP (DT all) (NNS organisms))
+                          (VP (VBP are)
+                            (VP (VBN derived)
+                              (PP (IN from)
+                                (NP
+                                  (NP (DT a) (JJ single) (NN type))
+                                  (PP (IN of)
+                                    (NP (JJ ancestral) (NN cell)))
+                                  (SBAR
+                                    (WHNP (WDT that))
+                                    (S
+                                      (VP (VBD arose)
+                                        (PP (IN from)
+                                          (NP (JJ non-living) (NN material)))
+                                        (ADVP
+                                          (NP
+                                            (QP (IN between) (CD 3.5) (TO to) (CD 3.8) (CD billion))
+                                            (NNS years))
+                                          (RB ago))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (NP (DT an)
+            (ADJP (JJ uninterrupted))
+            (NN link))
+          (PP (IN between)
+            (NP (DT that) (NN cell))))
+        (CC and)
+        (NP
+          (NP (DT every) (NN cell))
+          (PP
+            (PP (IN in)
+              (NP (PRP$ your) (NN body)))
+            (PRN (-LRB- -LRB-)
+              (CC and)
+              (FRAG
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (NNS cells))
+                    (PP (IN within)
+                      (NP (DT every) (JJ other) (NN living) (NN organism)))))
+                (. .))
+              (-RRB- -RRB-))))))))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (NP (PRP yourself))
+    (VP (VBP are)
+      (NP
+        (NP (DT a)
+          (ADJP (RB staggeringly) (JJ complex))
+          (NN collection))
+        (PP (IN of)
+          (NP (NNS cells)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (PRP$ Your) (NN brain))
+        (CC and)
+        (NP (PRP$ its) (VBN associated) (JJ sensory) (NNS organs)))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBP generate)
+            (NP (NN consciousness)
+              (CC and)
+              (NNS self-consciousness)))))
+      (, ,))
+    (VP (VBZ contains)
+      (SBAR
+        (S
+          (NP
+            (QP (RB approximately) (CD 86) (CD billion)))
+          (VP (-LRB- -LRB-) (VBD 10neurons)
+            (ADVP (RB as) (RB well) (RB as))
+            (NP
+              (NP (DT an) (JJ equal) (NN number))
+              (PP (IN of)
+                (NP (JJ non-neuronal)
+                  (PRN (-LRB- -LRB-)
+                    (ADJP (JJ glial))
+                    (-RRB- -RRB-))
+                  (NNS cells))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These) (NNS cells))
+    (VP (VBP are)
+      (VP (VBN connected)
+        (PP (TO to)
+          (NP (CD one) (DT another)))
+        (PP (IN through)
+          (NP
+            (NP
+              (QP (RB about) (CD 1.5) (CD x))
+              (CD 10) (NNS connections))
+            (, ,)
+            (VP (VBN known)
+              (PP (IN as)
+                (NP (NNS synapses))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR
+        (WHADVP (WRB How) (RB exactly))
+        (S
+          (NP (PDT such) (DT a) (NN system))
+          (VP (VBZ produces)
+            (NP
+              (NP (NNS thoughts))
+              (, ,)
+              (NP (NNS ideas))
+              (, ,)
+              (NP (NNS dreams))
+              (, ,)
+              (NP (NNS feelings))
+              (, ,)
+              (CC and)
+              (NP (NN self-awareness))))))
+      (VP (VBZ remains)
+        (ADJP (RB quite) (JJ obscure))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ clear))
+        (SBAR (IN that)
+          (S
+            (NP (DT these))
+            (VP (VBP are)
+              (NP
+                (NP (DT all) (JJ emergent) (NNS behaviors))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBP arise)
+                      (PP (IN from)
+                        (NP (DT this)
+                          (ADJP (RB staggeringly) (JJ complex))
+                          (JJ natural) (NN system))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Scientific) (NNS ideas))
+    (VP (VBP arise)
+      (PP (IN from)
+        (NP
+          (NP (DT the) (NNS interactions))
+          (PP (IN between)
+            (NP
+              (NP (DT the) (JJ physical) (NN world))
+              (, ,)
+              (NP (PRP$ our) (NNS brains))
+              (, ,)
+              (CC and)
+              (NP
+                (NP (DT the) (JJ social) (NN system))
+                (PP (IN of)
+                  (NP (NN science))))))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ tests)
+                (NP (DT these) (NNS ideas))
+                (PP (VBN based)
+                  (PP (IN on)
+                    (NP (PRP$ their) (NN ability)
+                      (S
+                        (VP (TO to)
+                          (VP (VB explain)
+                            (CC and)
+                            (VB predict)
+                            (NP
+                              (NP (DT the) (NN behavior))
+                              (PP (IN of)
+                                (NP (DT the) (JJ observable) (NN universe))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD One))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNS difficulties))
+          (PP (IN in)
+            (S
+              (VP (VBG understanding)
+                (NP
+                  (NP (JJ scientific) (NNS ideas))
+                  (CC and)
+                  (NP (PRP$ their) (NNS implications)))))))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (DT these) (NNS ideas))
+          (VP
+            (VP (VBP build)
+              (PP (IN upon)
+                (NP
+                  (NP (DT a) (JJ wide) (NN range))
+                  (PP (IN of)
+                    (NP (NNS observations))))))
+            (CC and)
+            (VP (VBP are)
+              (VP (VBN intertwined)
+                (PP (IN with)
+                  (NP (CD one) (DT another)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP One))
+    (VP (MD can) (RB not)
+      (ADVP (RB really))
+      (VP (VB understand)
+        (NP (JJ biological) (NNS systems))
+        (PP (IN without)
+          (S
+            (VP (VBG understanding)
+              (NP
+                (NP (DT the) (NN behavior))
+                (PP (IN of)
+                  (NP
+                    (NP (NNS systems))
+                    (PP (IN of)
+                      (NP
+                        (NP (NN chemical) (NNS reactions))
+                        (, ,)
+                        (SBAR
+                          (WHNP (WDT which))
+                          (S
+                            (VP (VBZ requires)
+                              (NP
+                                (NP (DT an) (NN understanding))
+                                (PP (IN of)
+                                  (NP
+                                    (NP (NNS molecules))
+                                    (, ,)
+                                    (SBAR
+                                      (WHNP (WDT which))
+                                      (S
+                                        (VP (VBZ rests)
+                                          (PP (IN upon)
+                                            (NP
+                                              (NP (DT an) (NN understanding))
+                                              (PP (IN of)
+                                                (SBAR
+                                                  (WHADVP (WRB how))
+                                                  (S
+                                                    (NP (NNS atoms)
+                                                      (CC and)
+                                                      (NN energy))
+                                                    (VP (VB behave)
+                                                      (CC and)
+                                                      (VB interact))))))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (TO To)
+        (VP
+          (ADVP (RBR better))
+          (VB grasp)
+          (NP
+            (NP (DT some))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NNS challenges))
+                (VP (VBN involved)
+                  (PP (IN in)
+                    (S
+                      (VP (VBG teaching)
+                        (CC and)
+                        (VBG learning)
+                        (NP (NN science))))))))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP recommend)
+      (SBAR (IN that)
+        (S
+          (NP (PRP you))
+          (VP (VBP watch)
+            (NP (DT a) (JJ short) (NN video) (NN interview))
+            (PP (IN with)
+              (NP
+                (NP (DT the) (NNP physicist) (NNP Richard) (NNP Feynman))
+                (PRN (-LRB- -LRB-)
+                  (NP (CD 1918-1988))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (PRP it)))
+    (NP (PRP he))
+    (VP (VBZ explains)
+      (NP
+        (NP (DT the) (NN complexity))
+        (PP (IN of)
+          (S
+            (VP (VBG understanding)
+              (NP
+                (NP (NN something))
+                (PP (IN as)
+                  (NP (NN superficially))))
+              (PRN (-LRB- -LRB-)
+                (CC but)
+                (FRAG (RB not)
+                  (ADVP (RB really)))
+                (-RRB- -RRB-))
+              (S
+                (ADJP (JJ simple)
+                  (PP (IN as)
+                    (SBAR
+                      (WHADVP (WRB how))
+                      (S
+                        (NP (CD two) (NNS magnets))
+                        (VP (VBP repel)
+                          (CC or)
+                          (VBP attract)
+                          (NP (CD one) (DT another)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (NP
+          (NP (PRP$ our) (VBG working) (NN premise))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (TO to)
+                (VP (VB understand)
+                  (NP (DT a) (NN topic))
+                  (PRN (-LRB- -LRB-)
+                    (CC or)
+                    (VB discipline) (-RRB- -RRB-)))))))))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ important)
+        (S
+          (VP (TO to)
+            (VP (VB know)
+              (NP
+                (NP (DT some))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (JJ key) (NNS observations))
+                    (CC and)
+                    (NP (JJ common) (NNS rules)))))
+              (PP (IN upon)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (NP (JJR broader) (NNS conclusions))
+                    (VP (VBP are)
+                      (VP (VBN based)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (TO To)
+        (VP (VB test)
+          (NP
+            (NP (NNS ones))
+            (VP (VBG understanding))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ necessary)
+        (PP (IN for)
+          (NP (PRP you))))
+      (SBAR (IN as)
+        (S
+          (NP (DT a) (NN student))
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (JJ able)
+                (S
+                  (VP (TO to)
+                    (VP (VB approach)
+                      (NP
+                        (NP (DT a) (JJ biological) (NN question))
+                        (, ,)
+                        (VP (VB construct)
+                          (NP (JJ plausible) (NNS claims))
+                          (PP (IN for)
+                            (NP
+                              (SBAR
+                                (WHADVP (WRB how))
+                                (PRN (-LRB- -LRB-)
+                                  (CC and)
+                                  (VB why) (-RRB- -RRB-))
+                                (S
+                                  (NP (DT the) (NN system))
+                                  (VP (VBZ behaves) (, ,)
+                                    (PP (VBN based)
+                                      (PP (IN on)
+                                        (NP (JJ various) (NNS facts)))))))
+                              (, ,)
+                              (NP (NNS observations)))))
+                        (, ,)
+                        (CC or)
+                        (NP
+                          (NP (JJ explicit) (NNS presumptions))
+                          (, ,)
+                          (SBAR
+                            (WHNP (WDT which))
+                            (S
+                              (ADVP (RB logically))
+                              (VP (VBP support)
+                                (NP (PRP$ your) (NN claim))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (ADVP (RB also))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB present)
+            (NP (PRP$ your) (NN model))
+            (PP (TO to)
+              (NP (NNS others)))
+            (, ,)
+            (ADJP (JJ knowledgeable)
+              (PP (IN in)
+                (NP (DT the) (NN topic))))
+            (, ,)
+            (S
+              (VP (TO to)
+                (VP (VB get)
+                  (NP (PRP$ their) (NN feedback)))))
+            (, ,)
+            (S
+              (VP (TO to)
+                (VP
+                  (VP (VB answer)
+                    (NP (PRP$ their) (NNS questions)))
+                  (CC and)
+                  (VP (VB address)
+                    (NP (PRP$ their) (NNS criticisms)
+                      (CC and)
+                      (NNS concerns))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Sometimes))
+      (NP (PRP you))
+      (VP (MD will)
+        (VP (VB be)
+          (ADJP (JJ wrong))
+          (SBAR (IN because)
+            (S
+              (NP
+                (NP (PRP$ your) (NN knowledge))
+                (PP (IN of)
+                  (NP (DT the) (NNS facts))))
+              (VP (VBZ is)
+                (ADJP (JJ incomplete))))))))
+    (, ,)
+    (S
+      (NP
+        (NP (PRP$ your) (NN understanding)
+          (CC or)
+          (NN application))
+        (PP (IN of)
+          (NP (JJ general) (NNS principles))))
+      (VP (VBZ is)
+        (ADJP (JJ inaccurate))))
+    (, ,)
+    (CC or)
+    (S
+      (NP (PRP$ your) (NN logic))
+      (VP (VBZ is)
+        (ADJP (JJ faulty))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (JJ important)
+        (S
+          (VP (TO to)
+            (VP (VB appreciate)
+              (SBAR (IN that)
+                (S
+                  (S
+                    (VP (VBG generating)
+                      (NP (JJ coherent) (JJ scientific) (NNS explanations)
+                        (CC and)
+                        (NNS arguments))))
+                  (VP (VBZ takes)
+                    (NP
+                      (NP (NN time)
+                        (CC and)
+                        (NNS lots))
+                      (PP (IN of)
+                        (NP (NN practice))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP hope)
+      (S
+        (VP (TO to)
+          (VP (VB help)
+            (S
+              (NP (PRP you))
+              (VP (VB learn)
+                (NP (WRB how))))
+            (, ,)
+            (PP (IN through)
+              (NP (JJ useful) (NN coaching)
+                (CC and)
+                (NN practice)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT the) (NN context))
+        (PP (IN of)
+          (NP (JJ various) (NNS questions)))))
+    (, ,)
+    (NP
+      (NP (PRP we))
+      (-LRB- -LRB-)
+      (CC and)
+      (NP (PRP$ your) (JJ fellow) (NNS students))
+      (-RRB- -RRB-))
+    (VP (MD will)
+      (VP (VB attempt)
+        (S
+          (VP (TO to)
+            (VP (VB identify)
+              (SBAR
+                (SBAR
+                  (WHADVP (WRB where))
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP produce)
+                      (NP (DT a) (JJ coherent) (NN critique) (, ,) (NN explanation)
+                        (CC or)
+                        (NN prediction)))))
+                (, ,)
+                (CC and)
+                (SBAR
+                  (WHADVP (WRB where))
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP fall)
+                      (ADJP (JJ short)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (MD will)
+      (VP (VB be)
+        (NP (DT the) (NN ability)
+          (S
+            (VP (TO to)
+              (VP (VB produce)
+                (NP (JJ coherent) (NNS arguments) (, ,) (NNS explanations) (, ,) (JJ and/or) (NNS predictions))
+                (PP (VBN based)
+                  (PP (IN on)
+                    (NP
+                      (NP (NNS observations)
+                        (CC and)
+                        (NNS concepts))
+                      (VP
+                        (ADVP (RB correctly))
+                        (VBN applied)
+                        (PP (IN in)
+                          (NP
+                            (NP (DT the) (NN context))
+                            (PP (IN of)
+                              (NP (JJ modern) (NN biology)))))
+                        (, ,)
+                        (SBAR (IN that)
+                          (S
+                            (NP (PRP we))
+                            (VP
+                              (VP (VBP care)
+                                (PRT (RP about)))
+                              (CC and)
+                              (VP (VBP hope)
+                                (S
+                                  (VP (TO to)
+                                    (VP (VB help)
+                                      (S
+                                        (NP (PRP you))
+                                        (VP (VB master)
+                                          (PP (IN in)
+                                            (NP
+                                              (NP (DT the) (NN context))
+                                              (PP (IN of)
+                                                (NP (DT this) (NN course))))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNS Questions))
+      (SBAR
+        (S
+          (VP (TO to)
+            (VP (VB answer)
+              (CC and)
+              (VB ponder))))))
+    (: :)
+    (S
+      (NP (DT A) (NN news) (NN story))
+      (VP (VBZ reports)
+        (SBAR (IN that)
+          (S
+            (NP (NN spirit) (NNS forces))
+            (VP (VBP influence)
+              (NP
+                (NP (DT the) (NN weather))
+                (: ;)
+                (VP (VB produce)
+                  (NP
+                    (NP (DT a) (NN set))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNS questions))
+                        (SBAR
+                          (WHNP (WP$ whose) (NNS answers))
+                          (S
+                            (VP (MD would)
+                              (VP (VB enable)
+                                (S
+                                  (NP (PRP you))
+                                  (VP (TO to)
+                                    (VP (VB decide)
+                                      (SBAR (IN whether)
+                                        (S
+                                          (NP (DT the) (NN report))
+                                          (VP (VBD was)
+                                            (ADJP (RB scientifically) (JJ plausible))))))))))))))))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VP (VBZ features)
+        (SBAR
+          (S
+            (VP (MD would)
+              (VP (VB make)
+                (S
+                  (NP (DT a) (JJ scientific) (NN model))
+                  (ADJP (JJ ugly)))))))))
+    (. ?)))
+
+(ROOT
+  (S (-LRB- -LRB-)
+    (NP
+      (NP
+        (VP (VB see)
+          (NP (NNS http://www.ted.com/talks/view/lang/en//id/194))
+          (-RRB- -RRB-)
+          (PP
+            (NP
+              (UCP
+                (SBAR
+                  (WHADVP (WRB How))
+                  (S
+                    (VP (MD would)
+                      (ADVP (PRP you))
+                      (VP (VB use)
+                        (NP (NNP Occam) (POS 's))))))
+                (PP (VBG razor)
+                  (PP (TO to))))
+              (NNS distinguish))
+            (IN between)
+            (NP (CD two))))
+        (PP (IN equally)))
+      (NP (NNP accurate)))
+    (VP (VBZ models))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP (VB Generate)
+      (NP
+        (NP (DT a) (JJ general) (NN strategy))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD will)
+              (VP (VB enable)
+                (S
+                  (NP (PRP you))
+                  (VP (TO to)
+                    (VP (VB classify)
+                      (NP (JJ various) (NNS pronouncements))
+                      (ADJP
+                        (ADJP (RB as) (JJ credible))
+                        (PRN (-LRB- -LRB-)
+                          (SBAR
+                            (WHNP (WDT that))
+                            (S
+                              (VP (VBZ is) (, ,)
+                                (FRAG
+                                  (S
+                                    (ADJP (JJ worth))
+                                    (S
+                                      (VP (VBG thinking)
+                                        (PRT (RP about)))))))))
+                          (-RRB- -RRB-))
+                        (CC or)
+                        (ADJP (JJ non-sense))
+                        (PRN (-LRB- -LRB-)
+                          (S
+                            (VP (VB see)
+                              (NP (NNS http://www.guardian.co.uk/science/audio/2008/mar/03/alan.sokal.podcast))))
+                          (-RRB- -RRB-))))))))))))
+    (. .)))
+
+(ROOT
+  (SQ (NNP Does)
+    (NP (DT the) (NN inability))
+    (VP
+      (PP (TO to)
+        (NP (NN measure) (NN something) (NN unambiguously)))
+      (VB make)
+      (NP (PRP it) (JJ unreal)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ Explain))
+    (SBAR
+      (WHNP (WP what))
+      (S
+        (VP (VBZ is)
+          (ADJP (JJ real)))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How))
+    (SQ (MD should)
+      (NP (PRP we))
+      (, ,)
+      (VP
+        (ADVP (RB as)
+          (NP (DT a) (NN society)))
+        (VB deal)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (JJ tentative) (NN nature))
+            (PP (IN of)
+              (NP (JJ scientific) (NN knowledge) (NN matter)))))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (SBAR (IN If)
+      (S
+        (NP (NN science))
+        (VP (VBZ concludes)
+          (SBAR (IN that)
+            (S
+              (NP (JJ free) (NN will))
+              (VP (VBZ is)
+                (NP (DT an) (NN illusion))))))))
+    (, ,) (MD would)
+    (NP (PRP you))
+    (VP
+      (VP (VB accept)
+        (NP (PRP it)))
+      (CC and)
+      (VP (VB behave)
+        (PP (IN like)
+          (NP (DT a) (NN robot)))))
+    (. ?)))
+
