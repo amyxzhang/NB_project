@@ -1,0 +1,516 @@
+charge,carge carrier, charge distribution, charge polarization, charging by induction, conduction, conductor, conservation of charge, coulomb, coulomb's law, electric force, electric interaction, elementary charge, grounding, insulator, ion, negative charge, neutral, positive charge
+page	head	15430	19250	19256	11978	sent
+2	P	1	0	0	0	Electricity is a familiar term-outlets, batteries, light bulbs, computers all involve electricity.
+2		1	0	0	0	It is no understatement to say that modern life depends on electricity, but what exactly is electricity?
+2		1	0	0	0	We all know what electricity does, but it's not that easy to explain what electricity is.
+2	P	0	0	1	0	Electricity manifests itself in many ways: from the sparks that fly when you scuff your feet across a carpet on a dry winter day to the electricity we use in our homes to the transmission of radio and television programs.
+2		0	0	1	0	Even the attraction between magnets has to do with electricity.
+2		1	0	1	0	In this chapter, we begin our treatment of electricity with a discussion of static electricity.
+2	H1	1	0	1	1	22.1 Static electricity
+2	P	2	2	1	0	When you tear off some plastic wrap from its roll, the wrap is attracted to anything that gets close: your hand, the countertop, a dish.
+2		1	2	1	0	This interaction between the plastic wrap and other objects doesn't have to involve any physical contact.
+2		1	1	1	1	For example, you can feel the presence of a piece of freshly torn-off plastic wrap with your cheek or the back of your hand even when your face or hand is held some distance away from the piece.
+2		1	1	1	0	You may have experienced many similar interactions: Styrofoam peanuts are attracted to your arms when you unpack a box full of them (Figure 22.1).
+2		1	1	1	0	Running a comb through your hair on a dry day causes the comb to attract your hair.
+2		1	1	1	0	After rubbing a balloon against a woolen sweater, you can hold the balloon close to a wall and see the attraction as the balloon moves toward the wall.
+2		0	0	1	0	In all these instances, the mass of the objects is too small for the interactions to be gravitational.
+2		0	0	1	0	What, then, is this interaction?
+2	P	0	3	1	0	You may never have thought of these interactions as being particularly strong, but consider this: If you rub a comb through your hair and then pass the comb over some small bits of paper, the bits of paper jump up to your comb and stick to it.
+2		0	4	2	1	In other words, the bits of paper accelerate upward, which means the force exerted by your comb on them must be greater than the gravitational force exerted on them by Earth!
+2	P	2	0	2	1	Now try this: Quickly pull a 20-cm strip of transparent tape* out of a dispenser and suspend it from the edge of a table (just be sure the table is not metal).
+2		2	2	2	1	Notice how the tape is attracted to anything brought nearby.
+2		1	2	1	1	It might even take some practice to prevent the tape from curling up and sticking to the underside of the table or to your hand.
+2		1	0	0	0	Bring a few objects near the suspended tape and notice the attractive interaction between them.
+2		0	0	0	0	Go ahead-experiment!
+2	HT	2	1	1	2	22.1 Suspend a freshly pulled piece of transparent tape from the edge of your desk.
+2	SM	1	1	1	2	(a) What happens when you hold a battery near the tape?
+2	SM	1	1	1	2	Does it matter whether you point the +side or the side of the battery toward the tape?
+2	SM	1	1	1	2	Does a spent battery yield a different result?
+2	SM	1	0	1	2	Does a wooden object yield a different result?
+2	SM	1	0	1	2	(b) What happens when you hold a strip of freshly pulled tape near the power cord of a lamp?
+2	SM	1	0	1	2	Does it make any difference if the lamp is on or off?
+2	P DF	0	0	4	0	All these interactions involving static electricity are examples of electric interactions.
+2		0	2	4	0	The experiment you just did tells you there is no obvious connection between electric interactions and the electricity we think of as "flowing" in electric circuits and batteries.
+2		0	2	6	0	In Chapter 31 we shall see, however, that the two are connected.
+2	P DF	1	3	5	5	Objects that participate in electric interactions exert an electric force on each other.
+2		1	4	4	5	The electric force is a field force (see Section 8.3): Objects exerting electric forces on each other need not be physically touching.
+2		1	3	2	0	As you may have noticed from the interaction between the strips of tape and various nearby objects, the magnitude of the electric force depends on distance: It decreases as you increase the  separation.
+2	HT	0	0	0	1	22.2  Suspend a freshly pulled strip of transparent tape from the edge of your desk.
+2	SM	0	0	1	1	(a) Pull a second strip of tape out of the dispenser and hold it near the first strip.
+2	SM	0	0	1	1	What do you notice?
+2	SM	0	0	1	1	(b) Does it matter which sides of the strips you orient toward each other?
+2	P	2	2	2	0	As Checkpoint 22.2 makes clear, not all electric interactions are attractive.
+2		2	2	2	0	Even if you increase the mass of the strips by suspending paper clips from them, the repulsion between the strips is great enough to keep the paper clips apart ( Figure 22.2).
+2		2	2	2	0	Now place your hand between two repelling strips and notice how both strips fly toward your hand!
+2		2	2	2	0	Then run each strip of tape several times between your fingers and notice how the electric interaction diminishes or even disappears.
+2	HT	0	0	0	1	22.3 Suspend two freshly pulled 20-cm strips of transparent tape from the edge of your desk.
+2	SM	0	0	0	1	Cut two 20-cm strips of paper, making each strip the same width as the tape, and investigate the interactions between the paper strips and the tape by bringing them near each other.
+2	SM	0	0	0	1	Which of the following combinations display an electric interaction: paper-paper, tape-paper, tape-tape?
+2	FN	0	0	0	0	*For best results, use the type called "magic" tape.
+2	FN	0	1	0	0	If you find something that repels the tape, wipe the entire surface of the object with your hand and see if it still repels-it shouldn't.
+2	FN	0	1	0	1	Mystified?
+2	FN	0	1	0	1	Hang on!
+2	FN	0	0	0	0	We'll soon be able to resolve your questions.
+2	FIG	0	0	0	0	Figure 22.1 Styrofoam peanuts cling to the cat's fur because of static electricity.
+3	H1	0	0	0	0	22.2 Electrical charge
+3	P	0	1	1	1	As we saw in the preceding section, electric interactions are sometimes attractive and sometimes repulsive.
+3		0	1	1	2	In addition, the experiment you performed in Checkpoint 22.3 demonstrates that paper strips, which do not interact electrically with each other, do interact electrically with transparent tape.
+3		0	0	1	2	What causes these interactions?
+3		0	0	1	2	To answer this question, we need to carry out a systematic sequence of experiments.
+3	P	1	1	0	0	Figure 22.3 illustrates a simple procedure for reproducibly creating strips of tape that interact electrically.
+3		1	1	1	1	A  suspended strip created according to this procedure interacts in the following ways: It repels another strip created in the same manner, and it attracts any other object that does not itself interact electrically with other objects (Figure 22.4).
+3	P DF	1	0	0	3	Let us call the attribute responsible for the electric interaction  electrical charge, or simply charge.
+3		2	3	6	3	Saying that something carries an electrical charge is just another way of saying that that object interacts electrically with other objects that carry electrical charge.
+3		2	3	6	1	Freshly pulled strips of tape carry electrical charge, and two such strips interact because each possesses an electrical charge, just as your body and Earth interact because each possesses mass.
+3	DF	1	4	5	4	The general term for any microscopic object that carries an electrical charge, such as an electron or ion, is charge carrier.
+3	P 	1	5	4	1	It is not immediately clear what attributes to assign to objects that do not interact electrically with each other but do interact with a charged tape strip-a strip of paper, your hand, an eraser, you name it.
+3		4	5	4	1	All we know for now is that the interaction between these objects and a charged tape is attractive rather than repulsive.
+3	P 	7	4	8	1	The electric charge on an object is not a permanent property; if you let a charged strip of tape hang for a while, it loses its ability to interact electrically.
+3		7	4	8	1	In other words, the strip is no longer charged-it is discharged.
+3		6	5	11	3	Depending on the humidity of the air, the discharging can take minutes or hours, but you can speed up the discharging by rubbing your fingers a few times over the entire length of a suspended charged strip of tape.
+3		5	0	5	2	(The rubbing allows the charge to "leak away" from the tape by distributing itself over your body.)
+3	FN	1	1	1	0	*If rubbing your fingers along the tape doesn't do the job, try licking them before rubbing them over the tape.
+3	FIG	0	0	1	0	Figure 22.4
+3	FIG	1	1	0	1	Figure 22.2  Strips of tape just pulled out of a dispenser repel each other.
+3	FIG	1	1	0	1	The repulsive force is great enough to keep the strips apart even when they are weighted down by paper clips.
+3	FIG	2	1	0	1	Figure 22.3  Procedure for making strips of transparent tape that interact electrically.
+3	FIG	2	1	0	1	The purpose of the foundation  strip is simply to provide a  standard surface.
+4	HT	0	0	0	0	22.4 (a) Prepare a charged strip of transparent tape as described in Figure 22.3 and then suspend the strip from the edge of your desk.
+4	SM	0	0	0	0	Verify that the tape interacts as you would expect with your hand, with a strip of paper, and with another charged strip of tape.
+4	SM	0	0	0	0	(b) Rub your fingers along the hanging strip to remove all the charge from it, and then verify that it no longer interacts with your hand.
+4	SM	0	0	0	0	If it does interact, rub again until it no longer interacts.
+4	SM	0	0	0	0	(c) Predict and then verify experimentally how the uncharged suspended strip interacts with a strip of paper and with a charged strip of tape.
+4	P	2	1	6	2	To restore the charge on a discharged strip, stick the strip on top of the foundation strip from which you pulled it off (step 1 in Figure 22.3), smooth it out, and then quickly pull it off again.
+4		2	1	9	5	You can recharge a strip quite a few times before it loses its adhesive properties.
+4		2	1	9	5	Once the tape does lose its adhesiveness, however, recharging it becomes impossible.
+4		2	1	6	1	It is generally a good idea to rub your finger over the foundation strip before you reuse it to make sure that it, too, is uncharged.
+4	HT	0	0	0	0	22.5 Recharge the discharged strip from Checkpoint 22.4 and verify that it interacts as before with your hand, with a strip of paper, and with another charged strip of tape.
+4	P	2	4	7	1	A discharged tape strip interacts in the same way as objects that carry no charge.
+4	DF	2	4	7	1	Such objects are said to be electrically  neutral.
+4		2	3	7	1	They do not interact electrically with other neutral objects, but they do interact electrically with charged objects.
+4		1	1	5	1	We shall examine this surprising fact in more detail in Section 22.4.
+4	P	0	1	0	1	Where does the electrical charge on a charged tape strip come from?
+4		0	0	0	2	Is charge created when two strips are pulled apart as in Figure 22.3?
+4		0	1	0	2	This is something we can check by sticking two strips of tape together, rubbing with our fingers to remove all charge from the combination, and then quickly separating the two strips (Figure 22.5).
+4	HT	1	0	0	0	22.6  Follow the procedure illustrated in Figure 22.5 to separate a pair of charged strips.
+4	SM	1	0	0	0	(a) How does strip B interact with a neutral object?
+4	SM	1	0	0	0	How does strip T interact with a neutral object?
+4	SM	1	0	0	0	(b) Create a third charged strip and see how it interacts with strip B and with strip T. (c) Is strip T charged?
+4	SM	1	0	0	0	(d) Is strip B charged?
+4	SM	1	0	0	0	(e) Check what happens to the interactions with B and T strips when you discharge a B or a T strip by rubbing your fingers along its length.
+4	P	1	1	1	2	As Checkpoint 22.6 shows, separating an uncharged pair of strips produces two charged ones, but the behavior of strip B is different from that of the other strips we have encountered so far!
+4	HT	0	0	0	0	22.7 Make two charged pairs of strips (B and T) following the procedure illustrated in Figure 22.5.
+4	SM	0	0	0	0	Investigate the interaction of B with T, T with T, and B with B.
+4	P	0	0	1	1	The interactions between the B and T strips are illustrat-ed in Figure 22.6: Strips of the same type repel each other, while strips of different types attract each other.
+4		1	1	6	1	This series of experiments leads us to conclude that there are two types of charge on the tapes, one type on B strips and another type on T strips.
+4		1	1	7	1	Strips that carry the same type of charge, called like charges, exert repulsive forces on each other; strips that carry different types of charge, called opposite charges, exert attractive forces on each other.
+4	P	0	0	1	0	Having determined that two types of electrical charge exist, a logical next question is: Are there even more types?
+4	HT	0	0	0	0	22.8  (a) Prepare one charged strip of tape according to  Figure 22.3 and hang it from the edge of your desk.
+4	SM	0	0	0	0	Hang a narrow strip of paper from the desk edge also, about 0.5 m away from the tape strip.
+4	SM	0	0	0	0	Pass a plastic comb six times quickly through your hair and then show that the comb is charged.
+4	SM	1	0	0	0	Be sure to use a plastic comb; combs made from other materials do not acquire a charge when passed through hair.
+4	SM	0	0	0	0	The cheapest type of comb usually works best.
+4	SM	0	0	0	0	(b) Make a pair of oppositely charged B and T strips (Figure 22.5) and investigate how they interact with a charged comb.
+4	SM	0	0	0	0	(c) Does your comb behave like a B strip, a T strip, or neither?
+4	FIG	0	0	0	0	Figure 22.5  Procedure for making strips of transparent tape that carry opposite charges.
+5	P	1	1	0	0	Experiments show that any charged object-obtained by rubbing objects together or otherwise-always attracts either a B strip or a T strip and repels the other.
+5		1	1	0	0	No one has ever found a charged object that repels or attracts both types of strips.
+5	SY	1	5	6	5	In other words: There are two and only two types of charge.
+5	SY	1	5	6	4	Objects that carry like charges repel each other; objects that carry opposite charges attract each other.
+5	P	2	4	7	3	The two types of charge never appear independently of each other: Whenever two neutral objects are either rubbed together and then separated or, if an adhesive surface is involved, stuck together and then separated and one of them acquires a charge of one type, the other object always acquires a charge of the other type.
+5		2	4	4	1	The generation of opposite charges is obvious when you separate a neutral pair of tape strips.
+5		2	4	4	1	When you pass a comb through your hair, the comb acquires a charge of one type and your hair acquires a charge of the other type.
+5		2	1	2	1	On a dry day, you may have noticed that some hair strands stand up away from your head.
+5		2	1	2	1	Each charged strand is being repelled by the other charged strands, and so they are all getting as far away from one another as possible.
+5	P	2	0	2	2	It can be shown that when two tape strips are separated, the forces exerted by the B strip and the T strip on a third charged strip are equal in magnitude, although one is attractive and the other repulsive.
+5		2	0	3	2	Furthermore, when the B and T strips are recombined, the combination is neutral again.
+5		2	1	3	1	These observations suggest that after you rub and then separate a pair of objects, the objects carry equal amounts of opposite charge.
+5		1	1	3	1	Combining these equal amounts of opposite charge produces zero charge.
+5		0	1	3	1	These observations indicate that all neutral matter contains equal amounts of positive and negative charge.
+5		0	1	2	0	The two types of charge are called positive and negative charges.
+5	SY	1	4	9	3	The definition of negative charge is as follows: Negative charge is the type of charge acquired by a plastic comb that has been passed through hair a few times.
+5	HT	0	0	0	0	22.9 Does the B strip you created in Checkpoint 22.8 carry a positive charge or a negative charge?
+5	P	3	2	7	3	When two neutral objects touch, some charge can be transferred from one object to the other, with the result that one object ends up with a surplus of one type of charge and the other object ends up with an equal surplus of the other type of charge.
+5		4	2	7	3	For example, when a neutral piece of styrofoam is rubbed with a neutral piece of plastic wrap, the styrofoam acquires a positive charge (meaning it contains more positive than negative charge) and the plastic wrap acquires a negative charge (it has a surplus of negative charge).
+5		2	0	2	1	Without further information, however, we cannot tell whether positive charge has been transferred from the wrap to the styrofoam, or negative charge has been transferred from the styrofoam to the plastic wrap, or a combination of these two.
+5		2	1	0	0	(See Figure 22.7 on the next page.)
+5	SY	2	4	2	2	Summarizing: All neutral matter contains equal amounts of positive and negative charge; charged objects contain unequal amounts of positive and negative charge.
+5	P	0	0	4	0	In illustrations, surplus charge is represented by plus or minus signs.
+5		0	0	2	0	Keep in mind, however, that these signs never represent the only type of charge in an object.
+5		1	4	2	1	The plus signs on the positively charged styrofoam in Figure 22.7, for  example, mean only that the styrofoam contains more positive than negative charge, either because some of its negative charge has been removed or because some positive charge has been added.
+5		0	1	0	1	In addition to the 12 positive charge carriers shown in Figure 22.7, the styrofoam contains millions and millions of positive charge carriers paired with millions and millions of negative charge carriers.
+5		0	1	2	1	A drawing such as Figure 22.7, shows only unpaired charge carriers (usually referred to as surplus charge).
+5	P	0	0	2	0	As our observations in Figure 22.6 show, oppositely charged B and T strips attract each other.
+5		0	0	2	0	The interaction between positive and negative charge tends to bring positive and negative charge carriers as close together as possible.
+5		2	1	5	1	Because combining equal amounts of positive and negative charge results in zero charge, we can say that charge carriers always tend to arrange themselves in such a way as to produce uncharged objects-indeed, all matter around us tends to be neutral.
+5	FN	0	1	0	1	*Historically, negative charge was (arbitrarily) defined by Benjamin Franklin (17061790) as the charge acquired by a rubber rod rubbed with cat fur.
+5	FN	0	0	0	1	Because plastic combs and hair are more easily accessible than rubber rods and cat fur, the definition of negative charge given here is more convenient.
+5	FIG	2	0	0	0	Figure 22.6  Interactions of B and T charged strips.
+6	HT	0	0	0	0	22.10 Imagine having a collection of charged marbles that retain their charge even when they touch other objects.
+6	SM	0	0	0	0	Red marbles are positively charged, and blue marbles are negatively charged.
+6	SM	0	0	0	0	(a) What happens if you place a bunch of red marbles close together on a flat horizontal surface?
+6	SM	0	1	0	0	(b) What happens if you do the same with a bunch of blue marbles?
+6	SM	0	0	0	0	(c) What happens if you do the same with an equal mixture of red and blue marbles?
+6	SM	0	0	0	0	(d) What happens in part c if you have a few more red marbles than blue ones?
+6	SM	0	0	0	0	(e) As a whole, is the collection of marbles in part d positively charged, negatively charged, or neither?
+6	H1	0	0	0	0	22.3 Mobility of charge carriers
+6	P	2	1	7	1	To gain a better understanding of electrical charge, many additional experiments are required, most of which require items not easily found at home.
+6		2	3	8	1	A rubber rod rubbed with a piece of cat fur acquires-by Benjamin Franklin's original definition-a negative charge (and the fur acquires a positive charge).
+6		2	3	8	2	A glass rod rubbed with silk acquires a positive charge (and the silk a negative charge).
+6		2	1	8	2	Other materials also acquire a charge upon contact or rubbing, but these two combinations of rubber/fur and glass/silk provide the most convenient means of generating relatively large amounts of charge.
+6	P	1	2	2	0	Interesting things happen when a charged rubber rod is brought into contact with an uncharged pith ball.
+6		1	1	3	0	As the rod is brought near the ball, the ball moves toward the rod because of the attraction between the charged rod and the neutral ball ( Figure 22.8a).
+6		1	0	3	0	As the ball touches the rod, however (Figure 22.8b), the crackling sounds of tiny sparks may be heard.
+6		1	1	2	0	The ball suddenly jumps away from the rod (Figure 22.8c), indicating that the interaction between rod and ball has become repulsive.
+6		0	3	2	0	This repulsive interaction indicates that the ball has acquired the same type of charge as the rod (negative).
+6		1	4	2	1	In other words, some of the surplus negative charge on the rod has been transferred to the ball.
+6	SY	2	5	5	6	Charge can be transferred from one object to another by bringing the two into contact.
+6	P	2	1	1	0	We can use this phenomenon to investigate the electrical behavior of different kinds of materials.
+6		2	1	1	0	For example, if we transfer some charge to one end of an uncharged rubber rod and then extend the charged end toward an uncharged pith ball, the two interact electrically, as shown in Figure 22.9a.
+6		2	0	1	0	If we hold the uncharged end near the pith ball, as in Figure 22.9b, however, no interaction occurs.
+6		2	1	4	0	This tells us that the charge does not flow from one end of the rubber rod to the other; instead, it remains near the spot where it has been deposited.
+6	DF	1	4	3	1	Any material in which charge doesn't flow (or moves only with great difficulty) is called an electrical insulator.
+6	SY	2	5	6	2	Electrical insulators are materials through which charge carriers cannot flow easily.
+6		1	3	2	2	Any charge transferred to an insulator remains near the spot at which it was deposited.
+6	FIG	2	1	0	0	Figure 22.7  Rubbing neutral styrofoam with neutral plastic wrap leaves the two objects with equal charges  of opposite types.
+6	FIG	2	0	2	1	Figure 22.8  A charged rubber rod can transfer charge to a neutral pith ball.
+7	P	6	3	4	3	Glass, rubber, wood, and plastic are examples of electrical insulators.
+7		6	3	4	3	Air, particularly dry air, is also an insulator, although the presence of large amounts of charge can cause charge carriers to "jump" from one object to another, causing sparks.
+7	EX	0	0	0	0	Exercise 22.1 Electric forces 
+7	SM	0	0	0	0	(a) Draw a free-body diagram for the pith ball in Figure 22.9a.
+7	SM	0	0	0	0	(b) Two identical neutral pith balls A and B are suspended side by side from two vertical strings.
+7	SM	0	0	0	0	After some charge is transferred from a charged rod to A, A and B interact.
+7	SM	0	0	0	0	(B remains neutral because the two balls never come into contact with each other.)
+7	SM	0	0	0	0	Sketch the orientation of A and B after the charge has been transferred to A.
+7	SM	0	0	0	0	(c) Draw a free-body diagram for each ball.
+7	EX	0	0	1	0	Solution  
+7	SM	0	0	1	0	(a) The ball is subject to three forces: a gravitational
+7	SM	0	1	0	0	force, a contact force exerted by the string, and an attractive electric force exerted by the charged particles in the rod.
+7	SM	0	1	0	0	This last force is directed horizontally toward the rod.
+7	SM	0	1	0	0	Because the ball is at rest, I know that the vector sum of these three forces is zero.
+7	SM	1	0	0	0	So the horizontal component of the force exerted by the string on the ball must be equal in magnitude to the electric force exerted by the rod on the ball, and the vertical component of the force exerted by the string on the ball must be equal in magnitude to the gravitational force exerted by Earth on the ball (Figure 22.10a). 
+7	SM	1	0	0	0	(b) As we saw in Section 22.2, a neutral object interacts electrically with a charged object.
+7	SM	0	0	0	0	The electric force exerted by A on B and that exerted by B on A form an interaction pair and so their magnitudes are equal.
+7	SM	0	0	0	0	Because the masses of the pith balls are the same, each is pulled in by the same distance.
+7	SM	0	0	0	0	Thus my sketch is as shown in Figure 22.10b.
+7	SM	0	0	0	0	(c) See Figure 22.10c.
+7	P	0	0	2	0	In  Figure 22.11, a charged rod is brought into contact with an uncharged metal rod supported on an electrically insulating stand.
+7		0	1	2	0	Once the charged rod has touched the metal rod, all points on the surface of the metal rod interact electrically with other objects, indicating that the charge spreads out over the metal rod.
+7		1	1	2	0	The tendency of charge to spread out over metal objects can be demonstrated with an electroscope ( Figure 22.12a).
+7		0	0	4	0	Two strips made of metal foil are suspended from a small metal rod in an electrically insulating enclosure; the rod is connected to a metal ball on top of the enclosure.
+7		0	1	4	0	When the metal ball is charged by an exterior source, the strips move away from each other.
+7		0	1	4	0	The explanation for this movement is that the added charge quickly moves from the metal ball through the metal rod and onto the two metal strips.
+7		0	0	1	0	Once the strips carry the same type of charge, they repel each other (Figure 22.12b).
+7	FIG	2	0	0	0	Figure 22.9  A rubber rod is an example of an electrical insulator.
+7	FIG	0	0	1	1	Figure 22.11  A metal rod is an electrical conductor.
+7	FIG	0	1	1	1	Figure 22.12  An electroscope depends on electrical conduction.
+8	P	0	2	1	0	Another demonstration of the free motion of charges through metals is shown in Figure 22.13: When a long wire is used to connect a charged metal sphere to an uncharged metal sphere, charged particles flow from the charged sphere to the uncharged one.
+8		1	1	1	1	Because wires are made of metal, this experiment shows that, in contrast to what happens with electrical insulators, charge moves easily through a metal and across a metal-to-metal contact.
+8	DF	2	2	1	1	Materials through which charge carriers can flow are called electrical conductors, and the flow of charge through conductors is called conduction.
+8	SY	2	2	6	2	Electrical conductors are materials through which charge carriers can flow easily.
+8	SY	2	3	6	3	Any charge transferred to a conductor spreads out over the conductor and over any other conductors in contact with it.
+8	P	4	3	1	3	Metals are the only solid materials that are conductors at room temperature.
+8		3	3	1	3	(As noted earlier, glass, plastic, and most other solids are electrical insulators.)
+8		2	4	1	3	Although charge does not flow easily through pure water, minute amounts of impurities turn water into a fairly good conductor.
+8		2	4	1	1	Because most water contains some impurities, water is therefore usually considered a conductor.
+8	P	0	0	0	0	Except for the outer layer of soil, Earth is also a good conductor.
+8	DF	4	4	4	2	Consequently, when a charged, conducting object is connected to Earth by a wire, a process called grounding, charge carriers can flow between Earth ("ground") and the object.
+8		2	5	5	2	Because Earth is so large, it can supply or absorb a nearly unlimited number of charge carriers.
+8		2	6	4	2	In the absence of other nearby electrical influences, the grounded object is left with no surplus of either type of charge.
+8	P	2	4	2	1	Because of its high water content, the human body is a conductor.
+8		2	1	3	0	Consequently, any time you touch a charged object, as in Figure 22.14, some of the charge moves into you - you act like a grounding agent just the way Earth does.
+8		2	1	4	1	As long as you keep touching the object, charge flows into your body, reducing the charge on the object (Figure 22.14).
+8		2	1	3	0	If the charge on the object is large, the charge that accumulates on your hair makes your hair stand up and separate as far as possible, like the leaves of an electroscope (Figure 22.15).
+8	HT	2	0	1	0	22.11 (a) Why is it impossible to charge a metal rod held in your hand by rubbing the rod with other materials?
+8	SM	1	0	1	0	(b) Why can you charge a rubber rod even when you hold it in your hand?
+8	P	0	0	0	0	Is charge some sort of fluid that flows from one object to another, or is it composed of small particles that can be peeled off or stuck onto objects?
+8		0	0	0	0	To answer this question, we must look at the atomic structure of matter.
+8		0	0	0	0	All matter consists of atoms (see Section 1.3), the structure of which is schematically illustrated in Figure 22.16.
+8		0	0	0	0	Nearly all the atom's mass is concentrated in the extremely small nucleus at the center.
+8		0	0	0	0	The nucleus is composed of protons and neutrons.
+8		0	0	0	0	The region surrounding the nucleus, representing most of the atom's volume, is a cloud of electrons.
+8	FIG	2	3	1	0	Figure 22.13  A conducting wire distributes charge between two conducting spheres.
+8	FIG	0	3	2	3	Figure 22.14  Because of its water content, the human body is a  conductor.
+8	FIG	0	0	0	0	Figure 22.15  Charge spreads over the human body, so a large charge will cause your hairs to repel one another and stand on end.
+9	P	0	2	2	0	Experiments show that electrons have a negative electrical charge-they are repelled by a charged comb and by other electrons.
+9		1	1	0	0	Protons carry a positive charge, and neutrons carry no charge.
+9		1	1	0	0	The protons and neutrons in the nucleus are held together tightly by the strong interaction (see Chapter 7), which is great enough to overcome the electrical repulsion between the positively charged protons.
+9		0	1	1	0	The electrical attraction between the positively charged nucleus and the negatively charged electrons is responsible for keeping the electrons bound to the nucleus.
+9		0	1	2	0	The electron cloud does not collapse on the nucleus because of additional constraints imposed on the electrons by the laws of quantum mechanics.
+9	P	0	1	2	1	Charge is an inherent property of the electron, which means it is impossible to remove the charge from an  electron- there is no such thing as a discharged electron.
+9	SY	0	2	2	2	Experiments show that All electrical charge comes in whole-number multiples of the electrical charge on the electron.
+9	DF	1	1	1	0	For this reason, the magnitude of the charge on the electron, designated by the letter e, is called the elementary charge.
+9	P	1	1	0	0	Every atom contains equal numbers of electrons and protons.
+9		2	1	0	1	Because atoms are neutral, the fact that they contain equal numbers of electrons and protons tells us that the magnitude of the positive charge on the proton is also e. The charge on an electron is - e, and that on a proton +e .
+9		2	1	1	1	As with electrons, the charge cannot be removed from a proton.
+9	P	0	1	1	0	Given that macroscopic objects contain an immense number of atoms and that each atom can contain dozens of electrons and protons, we see that ordinary objects contain an immense number of positively charged protons, exactly balanced by an equal number of negatively charged electrons.
+9		0	0	0	1	A surplus of just a minute fraction of these numbers is sufficient to give rise to a noticeable macroscopic charge.
+9		0	0	1	0	For example, when you pull apart two strips of transparent tape, the separation causes a surplus of less than one in a trillion (1012 ) electrons.
+9		0	0	1	0	(Because there are about 1022 electrons in the strip, that fraction represents some 1010, or ten billion electrons.)
+9	P	1	0	1	0	When two atoms are brought close together, they may form a chemical bond by transferring one or more electrons from one atom to the other.
+9	DF	1	1	1	0	Once such an electron transfer takes place, both atoms contain unequal numbers of electrons and protons and are now called ions instead of  atoms.
+9		0	1	0	0	One of the two ions has gained one or more electrons, meaning it contains more electrons than protons and therefore carries a negative charge.
+9		0	2	0	0	The other ion, the one that lost electrons, contains more protons than electrons and so carries a positive charge.
+9	P	0	0	2	0	Ions in solids are always immobile, but ions in liquids can move freely.
+9		0	0	4	0	For instance, in table salt, a compound made of pairs of sodium (Na+) and chloride (Cl-) ions, the charged ions hardly move at all, meaning that solid table salt is an electrical insulator.
+9		1	0	5	0	Dissolve table salt in water, however, and the solution contains large quantities of positively charged sodium ions and negatively charged chloride ions.
+9		1	0	4	1	Because these ions can move freely, the solution is an elec-trical conductor.
+9	P	0	1	3	0	Some solids are made not of paired ions the way sodium chloride is but rather of individual atoms.
+9		0	1	4	0	In atomic solids that are electrical insulators, the electrons in the atoms are unable to move because each electron is bound to a specific atom.
+9		1	2	4	1	Diamond (made of the element carbon) and glass are two familiar examples.
+9		1	2	3	1	Metals are also atomic solids rather than ionic solids, but in metals, each atom gives up one or more electrons to a shared "gas" of electrons that spreads throughout the volume of the metal.
+9		2	2	3	0	The metal as a whole is still neutral: The negative charge of the electron gas is exactly balanced by the positive charge of the ions.
+9		2	2	2	1	The electrons in the gas are called free electrons because they can move freely inside the metal; these electrons are responsible for the easy flow of charge through a metal.
+9	P	1	0	0	1	Nearly all electrical phenomena are due to the transfer of electrons-and therefore charge-from one atom to another.
+9		1	1	3	1	For example, when the sticky side of one strip of transparent tape is applied on top of the nonsticky side of a second strip, atoms in the adhesive from the top strip form chemical bonds with atoms in the nonsticky surface of the bottom strip by transferring electrons, as shown in Figure 22.17 on the next page.
+9		1	1	3	1	These bonds are responsible for the adhesion of one strip to the other.
+9		1	1	2	2	When the strips are pulled apart quickly, the bonds are broken, but not all electrons manage to get back to the top strip.
+9		1	0	2	1	The bottom strip thus ends up with a surplus of electrons, making it negatively charged, and the top one with a deficit of electrons, making it positively charged.
+9	FN	0	0	0	0	*Depending on the type of adhesive and the material of the backing, the transfer of electrons can also be in the other direction.
+9	FIG	0	0	0	0	Figure 22.16  Structure of the atom (not to scale).
+10	P	0	0	0	0	As we saw in Section 10.4, friction between two surfaces also involves the breaking of chemical bonds.
+10		1	0	0	0	As with the separation of the tape strips, this bond breaking sometimes leaves surplus charge on the surfaces.
+10		1	1	1	0	When you touch a piece of plastic food wrap to a piece of styrofoam, for instance, chemical bonds form between atoms on the two surfaces.
+10		1	1	1	0	In these bonds, electrons from the styrofoam move to the wrap.
+10		1	1	1	1	If you then rub the surfaces against each other, these bonds are broken, and some of the electrons originally on the styrofoam stay on the wrap.
+10		2	1	1	1	If the breaking of the chemical bonds occurs slowly, the electrons migrate back and no surplus charge builds up.
+10		2	0	1	1	For that reason it is necessary to rub vigorously or to separate strips of tape quickly.
+10	SY	4	1	5	4	The key point is: Any two dissimilar materials become charged when brought into contact with each other.
+10	SY	4	1	5	4	When they are separated rapidly, small amounts of opposite charge may be left behind on each material.
+10	P	0	0	0	1	Because charging by breaking of chemical bonds is due to a transfer of charge, we now see that for every surplus of negative charge that appears in one place, an equal surplus of positive charge appears somewhere else.
+10		1	0	0	1	After the two strips in Figure 22.17 are separated, the sum of the positive charge on the T strip and the negative charge on the B strip is still zero.
+10		1	0	0	1	No creation or destruction of charge is involved, suggesting that electrical charge-like momentum, energy, and angular momentum-is a conserved quantity.
+10	SY	2	5	5	0	The principle of conservation of charge states: Electrical charge can be created or destroyed only in identical positive-negative pairs such that the charge of a closed system always remains constant.
+10	P	0	0	0	0	No process has ever been found to violate this principle.
+10		0	0	0	1	Even when charged subatomic particles, such as electrons and protons, are created or destroyed-a process that can be observed in high-energy particle accelerators-charge is conserved.
+10		1	2	2	1	For example, when an electron (charge - e ) collides with a subatomic particle called the positron (charge +e ), both particles are destroyed, leaving nothing but a flash of highly energetic radiation (Figure 22.18a).
+10		1	1	0	0	The charge of the electron-positron system before the collision is (- e) + (+e) = 0, and it is still zero after the collision.
+10		2	1	1	1	Likewise, in a process called beta decay, when a free neutron (carrying zero charge and made up of two down quarks and one up quark) decays into a proton (charge +e, one down and two up quarks), an electron (charge - e), and a neutral subatomic particle called the antineutrino (zero charge), the charge of the system comprising the neutron and the particles into which it decays remains zero (Figure 22.18b and Section 7.6).
+10	HT	1	0	3	0	22.12  When two objects made of the same material are rubbed together, friction occurs but neither material acquires surplus charge.
+10	SM	0	0	0	0	Why?
+10	H1	0	1	0	0	22.4 Charge polarization
+10	P	1	0	0	0	Let us now reexamine the interaction between a charged object and a neutral one.
+10		1	0	0	0	Figure 22.19 shows the interaction between a charged rubber rod and an uncharged electroscope.
+10		1	0	0	0	With the rod far away (Figure 22.19a), the leaves of the electroscope hang straight down.
+10		1	0	0	0	When the rod is brought near the ball of the electroscope (Figure 22.19b), the leaves separate even without any contact between the rod and the electroscope.
+10		1	0	0	0	As the distance between the rod and the electroscope is increased again, the leaves drop down, showing that no charge has been transferred from the rod to the electroscope.
+10	FIG	0	0	1	0	Figure 22.17 How strips of tape can acquire opposite charges when pulled apart.
+10	FIG	2	0	0	1	Figure 22.18 Because charge is conserved, the charge of a closed system does not change even when particles are created or destroyed.
+11	P	1	0	0	1	Why do the leaves separate even though the electroscope remains neutral?
+11		1	0	0	1	They separate because the negative charge on the rod repels the free electrons in the metallic parts of the electroscope: The free electrons are pushed as far away as possible from the rod (Figure 22.19c) and pile up in the leaves.
+11		1	1	0	1	This redistribution of charge is nearly instantaneous.
+11		0	1	0	0	The top of the electroscope thus ends up with a deficit of electrons-a positive charge-and the leaves end up with a surplus of electrons-a negative charge.
+11		0	1	0	0	The negative charge on the leaves is responsible for the repulsion between them.
+11		0	0	0	0	When the rod is removed, the electrons, being repelled by one another and attracted to the positive charge on the electroscope ball, immediately flow back to their normal positions, evening out the distribution of positive and negative charge.
+11	HT	0	1	0	0	22.13 (a) In Figure 22.19b, is the electroscope as a whole positively charged, negatively charged, or neutral?
+11	SM	0	1	0	0	(b) How does the magnitude of the positive charge on the electroscope ball compare with the magnitude of the negative charge on the leaves?
+11	SM	0	1	0	0	(c) Is the force exerted by the rod on the electroscope ball attractive or repulsive?
+11	SM	0	1	0	0	Is the force exerted by the rod on the leaves attractive or repulsive?
+11	SM	0	1	0	0	(d) How do you expect the magnitude of the force the rod exerts on the ball to compare with the magnitude of the force the rod exerts on the leaves?
+11	P DF	2	0	2	0	Any separation of charge carriers in an object is called charge polarization, or simply polarization, and an object in which charge polarization occurs is said to be polarized.
+11		2	3	0	0	The electroscope of Figure 22.19b, for instance, is polarized by the nearby charged rod.
+11		2	3	0	0	In any object in which charge is polarized, there are two charged poles, one positive and the other negative.
+11		1	0	0	0	In the electroscope of Figure 22.19b, the positive pole is at the ball and the negative pole is in the foil strips.
+11	P	1	0	0	1	In metals, the polarization induced by the presence of a nearby charged object is very great because the free electrons in the metal move easily in response to the presence of the charged object.
+11		2	0	0	1	Even in electrical insulators, however, where there are no free electrons moving about, a nearby charged object induces some polarization.
+11		2	1	0	2	The basic reason for the polarization of insulators is illustrated in Figure 22.20: In the presence of an external charge, the center of the electron cloud and the nucleus of an atom shift away from each other, causing the atom to become polarized.
+11		1	2	0	0	So, when a negatively charged comb is brought near a small piece of paper, each atom in the paper becomes polarized-the electron clouds are pushed away from the comb, and the nuclei are pulled toward the comb.
+11		1	1	0	0	If we consider the paper as consisting of two overlapping parts that have the same shape but carry opposite charges, the positively charged part is pulled a bit toward the comb and the negatively charged part is pushed away, as shown in Figure 22.21a on the next page.
+11		0	1	0	1	This leaves the central part of the paper neutral but creates a sliver of surplus positive charge on the side facing the comb and an equal amount of surplus negative charge on the opposite side, and so the paper is polarized.
+11	HT	1	1	3	0	22.14  In an atom, what limits the separation between the electron cloud and the nucleus in the presence of an external charge?
+11	SM	1	2	3	0	Why, for example, isn't the electron cloud in Figure 22.20b pulled all the way to the location of the external positive charge?
+11	P	1	1	3	0	The polarization of atoms is responsible for the attraction between charged and neutral objects.
+11		1	1	4	0	In Figure 22.21, for example, the positively charged side of the paper is closer to the comb than the negatively charged side.
+11		0	0	4	0	Because the electric force decreases with increasing distance, the magnitude of the attractive force exerted on the positive side is greater than the magnitude of the repulsive force exerted on the negatively charged side (Figure 22.21b).
+11		0	0	2	0	Consequently, the vector sum of the electric forces exerted by the comb on the neutral piece of paper points toward the comb and the paper is pulled toward the comb.
+11	FIG	0	1	0	0	Figure 22.19 In (a) and (b), a charged rod induces polarization in an electroscope.
+11	FIG	0	1	0	0	(c) A schematic atom-level view.
+11	FIG	0	2	0	0	Figure 22.20 Polarization of a neutral atom.
+12	HT	1	0	1	0	22.15 (a) When a positively charged object is brought near a neutral piece of paper, is the vector sum of the forces exerted by the charged object on the paper attractive or repulsive?
+12	SM	0	0	1	0	(b) Describe what would happen when a negatively charged comb is brought near an electroscope if protons, not electrons, were mobile in metals.
+12	SM	0	0	1	0	(c) Can you deduce from the experiment illustrated in Figure 22.19 which charge carriers-electrons or protons-are mobile in metals?
+12	P	3	1	1	0	Figure 22.22 illustrates how you can exploit polarization to charge neutral conducting objects.
+12		3	2	1	0	A negatively charged rod brought near a metal sphere induces polarization in the sphere.
+12		3	2	2	1	To get as far away as possible from the negative charge on the rod, the electrons in the metal of the sphere move to the right surface.
+12		4	1	2	3	Thus the surface of the sphere nearer the rod becomes the positive pole, and the surface farther from the rod becomes the negative pole.
+12		4	1	1	3	When you touch the metal, the electrons can move into your body, thereby getting even farther away from the negative charge on the rod.
+12		3	3	2	2	In essence, you have become the negative pole, while the sphere is the positive pole.
+12		3	3	2	1	If you remove your hand from the sphere, the sphere is left with a deficit of electrons (they stayed inside you!)
+12		2	1	1	0	and so carries a positive charge- it has become charged without ever touching a charged object.
+12		3	4	3	1	(Likewise, you now have a surplus of negative charge and carry a negative charge, which is spread so thin that it is hardly noticeable.)
+12	DF	3	4	1	1	This process is called charging by  induction.
+12	FIG	0	1	0	1	Figure 22.21 Polarization of a neutral insulator (bits of paper) by a charged comb.
+12	FIG	0	1	0	1	In (a), a single bit of paper is modeled as two offset sheets with opposite charges.
+12	FIG	5	5	1	2	Figure 22.22 Polarization can be exploited to charge neutral conducting objects.
+14	H1	0	0	0	0	22.5 Coulomb's law
+14	P	2	0	0	0	Quantitative experiments with electrical charge are difficult to carry out because objects lose their charge and because charge carriers on objects tend to rearrange themselves in the presence of other charged objects.
+14		3	1	1	0	In the 18th century, however, the English clergyman and scientist Joseph Priestley carried out a remarkable experiment: He charged a hollow sphere and showed that no electric force was exerted on a small piece of charged cork placed inside the sphere.
+14		2	2	0	1	Remembering that Newton had proven that no gravitational force exists inside a hollow sphere (see the box "Zero gravitational force inside a spherical shell" and Figure 22.24, below) because the gravitational force decreases with the square of distance, Priestley proposed that the electric force, too, decreases as <equation>.
+14	BR	1	0	0	0	Zero gravitational force inside a spherical shell
+14	P	1	0	2	1	A consequence of the inverse-square dependence on distance of the gravitational force is that a uniform spherical shell exerts no force at all on a mass placed anywhere inside it.
+14		1	0	1	0	This result is very important in electrostatics because it provides a strong test of the law describing the electric force between charged objects.
+14	P	2	0	0	1	Consider the uniform spherical shell in Figure 22.24a.
+14		2	0	0	0	A particle of mass m is placed off-center inside the shell.
+14		2	0	0	0	To determine the force exerted by the shell on the particle, consider first the force exerted by region 1, defined as a very small region of the shell surface.
+14		2	0	0	0	Let the mass of this region be m1 and its distance from the particle be d1, which means the magnitude of the gravitational force exerted by this region on the particle is <equation>.
+14		2	0	0	0	Extending the cone defined by the particle and region 1 to the opposite side of the shell gives us a small region 2, of mass m2 and at distance d2 from the particle.
+14		1	0	0	0	The magnitude of the gravitational force exerted by this region on the particle is <equation>.
+14		1	0	0	0	If the particle is closer to region 1 than to region 2, the area of region 2 must be greater than the area of region 1 (because of how we defined region 2 as being an extension of the cone formed by region 1 and the particle), which means region 2 contains more mass: <equation>.
+14	P	1	0	0	0	Because the mass of the shell is distributed uniformly over the shell, the mass of each of our two regions is proportional to its area: <equation>.
+14		2	0	0	0	Because they are marked out by similar cones, the areas of the two regions are proportional to the squares of the distances to the particle: <equation>, which means that <equation>.
+14		2	0	0	0	Rearranging terms, we get <equation> regardless of the position of the particle, and so we see that the forces cancel: The two regions exert forces of equal magnitude in opposite directions on the particle (Figure 22.24b).
+14		1	0	0	0	We can now apply the same arguments to other pairs of small regions on either side of the particle, each yielding equal and opposite forces on the particle (Figure 22.24c).
+14		1	1	0	0	The vector sum of all the forces exerted on the particle by all the small regions making up the spherical shell is thus zero.
+14	P	1	1	0	0	In 1785, Charles Coulomb, a French physicist, provided direct evidence for an inverse-square law by measuring how the electric force between two charged spheres changes as the distance between the spheres changes.
+14		1	0	0	2	The basic apparatus for Coulomb's experiment is shown in Figure 22.25.
+14		1	0	0	1	A small dumbbell is suspended from a long fiber.
+15		1	0	0	0	When spheres A and B are charged, the electric force between them twists the fiber.
+15		0	1	0	1	The amount of twist is a measure of the magnitude of the force between the two spheres (see also Section 15.7).
+15		0	0	0	1	A similar arrangement was used a few years later by Cavendish to study gravitational interactions (see Section 13.5).
+15	P	0	0	0	1	Coulomb also devised a method for systematically varying the "quantity of charge" <var> on a metal sphere.
+15		1	1	1	0	He found that when a charged metal sphere is brought into contact with an identical uncharged metal sphere, the final charge is the same on each sphere-both exert a force of equal magnitude on a third charged object.
+15		1	1	1	1	In other words, each sphere gets half the original charge.
+15		0	2	1	1	By sharing charge among several identical metal spheres, Coulomb could produce spheres whose charge was one-half, one-quarter, one-eighth, and so on of the original charge (Figure 22.26).
+15	P DF	1	1	2	1	By thus varying the charges on spheres <var> and <var> of his apparatus, Coulomb found that the electric force is proportional to the charge on each sphere.
+15	DF	1	2	3	0	We can summarize these findings in one equation, called Coulomb's law, which gives the magnitude of the electric force exerted by two charged particles separated by a distance <var> and carrying charges <var> and <var>:  
+15	EQ	1	2	3	0	<equation>
+15		1	1	1	3	As we shall see in Chapter 27, the interaction between charged particles becomes more complicated when the particles are not at rest.
+15		1	1	1	0	For this reason the force in Coulomb's law is sometimes called the electrostatic force and the branch of physics that deals with stationary distributions of charge is called electrostatics.
+15	P	0	0	1	0	If the positions of the two charged particles are given by the vectors <var> and <var>, respectively, then the distance between them is <equation>.
+15		0	0	1	0	The value of the constant of proportionality <var> depends on the units used for charge, force, and length.
+15		0	1	2	0	The absolute-value signs around the charges in Eq. 22.1 are necessary because <var> and <var> can be negative but the magnitude <var> of the electric force must always be positive.
+15	P	0	1	3	1	Coulomb's law bears a striking resemblance to Newton's law of gravity (Eq.13.1):  
+15	EQ	0	1	3	1	<equation>
+15		0	0	2	1	Why these two laws have the same mathematical form remains a mystery.
+15		0	0	2	0	The main differences between the two are that mass is always positive but electrical charge can be positive or negative, which means that the gravitational force is always attractive but the electric force can be attractive or repulsive.
+15	FIG	0	0	0	0	Figure 22.25 Schematic diagram of  Coulomb's apparatus for measuring the electric force be-tween two charged spheres.
+15	FIG	1	0	0	2	Figure 22.26 By successively allowing a charged sphere to touch an initially uncharged neighbor, we can distribute an amount of charge in ever-lessening amounts over a number of spheres.
+15	P	1	1	1	1	The derived <var> unit of charge, called the coulomb (<var>), is defined as the quantity of electrical charge transported in 1 s by a current of 1 ampere, a quantity and unit we shall define in Chapter 27.
+15		1	1	1	0	One coulomb is equal to the magnitude of the charge on about <value> electrons.
+15		0	1	1	0	Conversely, the magnitude of the charge of the electron is 
+15		0	1	1	0	<value>
+15		0	1	1	0	The charge on any object comes in only whole-number multiples of this elementary charge: 
+15	EQ	1	3	3	1	<equation>
+15		0	0	0	0	This means that an object can have charge <equation>, and so forth, but not, for instance, <var>.
+16		0	0	1	0	Because the elementary charge is very small, the fact that charge exists only as whole-number multiples of the elementary charge isn't noticeable under ordinary circumstances.
+16		0	0	1	0	For example, running a comb through your hair easily gives the comb a surplus of about <value> electrons, and the quantity of electrons flowing through a 100-W light bulb each second is about <value> .
+16		0	0	0	0	These are such large numbers that the fact that charge comes in only whole-number multiples of the elementary charge normally remains unnoticed.
+16	P	0	2	0	1	Using the coulomb as the unit of charge, we can determine the value of <var> in Eq. 22.1 experimentally by measuring the force between two known charged particles separated by a known distance: 
+16		0	2	0	1	<value>
+16		1	3	1	0	The value of this constant shows how large a unit the coulomb is: Two particles, each carrying a charge of 1 C, separated by 1 m exert on each other a force of 9 billion newtons-equal to the gravitational force exerted by Earth on several dozen loaded supertankers!
+16		1	1	1	0	It is very difficult to build up a charge of this magnitude on all but very large objects because things get ripped apart by the enormous forces.
+16		2	3	4	0	The largest accumulations of charge we know of occur in the atmosphere: Large clouds that accumulate a charge of about 50 C discharge through the air to Earth, causing lightning.
+16	EX	0	0	1	0	Example 22.2 Gravity versus electricity
+16	SM	0	0	0	0	Compare the magnitudes of the gravitational and electric forces exerted by the nucleus of a hydrogen atom - a single proton <value> - on an electron <value> when the two are <value> apart.
+16	H3	0	0	1	0	1) GettinG started
+16	SM	0	0	1	0	For simplicity, I assume I can treat the proton and electron as particles.
+16	SM	0	0	1	0	I also assume they are at rest so that I can use the principles of electrostatics.
+16	H3	0	0	0	0	2) devise plan
+16	SM	0	0	1	0	I can use Eq. 22.2 to calculate the magnitude of the gravitational force and Eq. 22.1 to calculate the magnitude of the electric force.
+16	H3	0	0	0	0	3) execute plan
+16	SM	0	0	0	0	<equation>
+16	SM	0	0	2	1	The electric force exerted by the proton on the electron is <value> times greater than the gravitational force exerted by the proton on the electron. <CHECK>
+16	H3	0	0	1	0	4) evaluate result 
+16	SM	0	0	1	0	The difference in magnitudes is in agreement with the information given in Table 7.1.
+16	EX	0	0	0	0	Example 22.3 Comb electricity
+16	SM	0	0	0	0	(a) A <value> kg plastic comb acquires a charge of about <value> C when passed through your hair.
+16	SM	0	0	0	0	What is the magnitude of the electric force between two such combs held <value> m apart after being passed through your hair?
+16	SM	0	0	0	0	(b) If two identical <value> kg combs carry one surplus electron for every <value> electrons in the combs, what is the magnitude of the electric force between these combs held <value> m apart?
+16	H3	0	0	0	0	1) GettinG started
+16	SM	0	0	0	0	Both parts of the problem require me to calculate the magnitude of the electric force between the combs.
+16	SM	0	0	0	0	If I treat the combs as particles, I can use Eq. 22.1 to calculate this force.
+16	H3	0	0	0	0	2) devise plan
+16	SM	0	0	0	0	To calculate the magnitude of the electric force between two charged objects, I need to know the charge on each object and their separation distance.
+16	SM	0	0	0	0	I know these data for part a: <value> and <value> m, where the subscripts 1 and 2 denote the two combs.
+17	SM	0	0	0	0	For part b I am given only the separation distance, and so I need to determine the charge on each comb.
+17	SM	0	0	0	0	I am given the fraction of electrons added, and I know the charge on one electron.
+17	SM	0	0	0	0	So, to determine the charge on each comb, I need to determine how many electrons each comb contains.
+17	SM	2	1	0	1	The number of electrons in each comb is equal to the number of protons in the comb: <equation>.
+17	SM	0	0	0	0	I am given the mass of the comb and I know that the mass is determined by the protons and neutrons in all the atoms making up the comb (the electrons contribute very little).
+17	SM	0	0	0	0	Given that the protons and neutrons have almost identical mass <value>, I can determine the number <var> of protons and neutrons by dividing the mass of the comb by <var>.
+17	SM	0	0	0	0	Given that most atoms contain roughly equal numbers of protons and neutrons, I can say that the number of protons is <equation>.
+17	H3	0	0	0	0	3) execute plan
+17	SM	0	0	0	0	(a) Substituting the values given into Eq. 22.1, I get
+17	SM	0	0	0	0	<equation>
+17	SM	0	0	0	0	<CHECK>
+17	SM	0	0	0	0	(b) The number of protons plus neutrons in the comb is
+17	SM	0	0	0	0	<equation>
+17	SM	0	0	0	0	and so <equation>.
+17	SM	0	0	0	1	The number of electrons is equal to the number of protons, and so there are <value> electrons in each comb to begin with.
+17	SM	0	0	0	1	Adding one surplus electron for every <value> electrons means adding <value> electrons to each comb; these electrons carry a combined charge of <value>.
+17	SM	0	0	0	1	The magnitude of the repulsive electric force between the combs is then
+17	SM	0	0	0	0	<equation>
+17	SM	0	0	0	0	<CHECK>
+17	H3	0	0	0	0	4) evaluate reSult 
+17	SM	0	0	0	0	My answer to part a is a force too small to be felt, which is what I expect based on experience (two combs passed through hair don't exert an appreciable force on each other).
+17	SM	0	0	0	0	In contrast, my answer to part b is phenomenally large for an electric force.
+17	SM	0	0	0	0	The magnitude of the initial acceleration acquired by the combs would be <equation> or about five times the acceleration due to gravity!
+17	SM	0	0	0	0	Even though the fraction of electrons removed - one in 100 billion - is very small, the factor <var> in Eq. 22.1 is so great that the resulting force is also great.
+17	SM	0	0	0	0	Indeed, I learned in Table 7.1 that the electromagnetic interaction is 36 orders of magnitude stronger than the gravitational interaction, so my answer is not unreasonable.
+17	HT	2	1	0	1	Two identical conducting spheres, one carrying charge carrying charge <var>, are initially held a distance <var> apart.
+17	SM	1	3	0	1	The spheres are allowed to touch briefly and then returned to separation distance <var>. 
+17	SM	1	3	0	1	Is the magnitude of the force they exert on each other after the touching greater than, smaller than, or the same as the magnitude of the force they exerted on each other before the touching?
+17	P	1	1	0	0	Like the gravitational force, the electric force is central; that is, its line of action is along the line connecting the two interacting charged particles.
+17		1	0	0	0	Consider, for example, the two particles carrying charges <var> and <var> shown in Figure 22.27a.
+17		1	0	0	0	The vector <equation> gives the position of particle 2 relative to particle 1; this vector points from particle 1 to particle 2.
+17		2	1	0	0	We can define a unit vector pointing in this direction by dividing the vector <var> by its magnitude:
+17		2	1	0	0	<equation>
+17	FIG	0	1	0	0	Figure 22.27 (a) Position vectors for two charged particles. (b) Repulsive forces exerted on each other by two particles carrying like charges. (c) Attractive forces exerted on each other by two particles carrying opposite charges.
+17	P	0	0	0	0	Depending on the algebraic sign of the charges, the electric force can be attractive or repulsive.
+17		0	0	0	0	For like charges (<equation>), the force is repulsive.
+17		0	1	0	0	In this case, the force <var> exerted by particle 1 on particle 2 points in the same direction as the unit vector <var> (Figure 22.27b).
+17		0	1	0	0	For opposite charges the force is attractive, and so <var> points in the direction opposite the direction  of <var> (Figure 22.27c).
+17		0	1	0	0	In either case, <var> can be written in the form  
+17		0	1	0	0	<equation>
+18		0	0	0	0	Because <equation> and because <var> points in the direction opposite the direction of <var>, the force <var> exerted by particle 2 on particle 1, which points in the direction opposite the direction of <var>, is obtained by simply switching the indices 1 and 2 in Eq. 22.7:
+18	EQ	0	0	0	0	<equation>
+18		0	0	0	0	as we would expect for an interaction pair (see Eq. 8.15).
+18		0	0	0	0	Equation 22.7 is the vectorial form of Eq. 22.1.
+18	HT	1	0	0	1	22.17 Using your knowledge about work and potential energy, determine whether the potential energy of a closed system of two charged particles carrying like charge increases, decreases, or stays the same when the distance between the two is increased.
+18	SM	1	0	0	1	Repeat for two particles carrying opposite charge.
+18	P	0	0	0	0	Before going on, I should mention a limitation to Coulomb's law.
+18		1	2	0	2	Strictly speaking, it is applicable only to charged particles.
+18		2	3	1	2	This is so because the distance <var> is well defined only when the size of the charged objects is negligibly small compared with their separation distance.
+18		1	2	2	1	When the charged objects are not particles, the distance <var> is not equal to the center-to-center distance.
+18		1	2	2	0	You can see why with the help of Figure 22.28.
+18		0	2	2	0	In Figure 22.28a, the charge is distributed uniformly over the surface of each of two widely separated metal spheres.
+18	DF	0	1	3	0	The way in which a collection of charge carriers is spread out over a macroscopic object is called a charge distribution.
+18		0	1	3	0	Because the charge distributions over the metal spheres in Figure 22.28a are uniform, the center of each charge distribution coincides with the center of the sphere, and so <var> is well defined.
+18		0	2	4	0	When we bring the spheres close together, as in Figure 22.28b, the like charge carriers repel one another and move to the far side of each sphere.
+18		0	2	4	0	Now the centers of the charge distributions no longer coincide with the spheres' centers, so <var> (the center-to-center distance of the two charge distributions) is not simply the distance separating the centers of the two conductors.
+18	HT	0	0	0	0	22.18 (a) Is the magnitude of the electric force between the two conducting spheres in Figure 22.28b greater or smaller than that obtained from Coulomb's law, which assumes the charge is concentrated at the center of each sphere?
+18	SM	1	0	0	0	(b) Is the answer to part a the same if the charge on one of the conductors is negative instead of positive?
+18	H1	0	0	0	1	22.6 Forces exerted by distributions of charge carriers
+18	FIG	1	1	0	2	Figure 22.28 The reason Coulomb's law does not apply in a strict sense to macroscopic charged objects. The law is approximately correct if the objects are far apart relative to their radii.
+18	P	0	0	0	0	Coulomb's law deals only with pairs of charged objects.
+18		0	1	1	1	To calculate the force exerted by an assembly of objects carrying charges <var> on an object 1 carrying a charge q1, we take the vector sum of all the forces exerted on object 1 by each of the other charged objects independently:
+18	EQ	0	1	1	1	<equation>
+18		0	1	1	1	where each term is given by Coulomb's law:
+18	EQ	0	1	1	1	<equation>
+18		0	1	1	1	In other words, we calculate the force exerted by object 2 on object 1, then calculate the force exerted by object 3 on object 1, and so forth, and then add the forces.
+18		0	0	1	1	This means that if we know the details of some distribution of charged objects, we can calculate the force exerted by this distribution of charged objects on a single charged particle.
+19		1	1	0	0	For distributions that contain large numbers of charged objects, the summation can be accomplished via an integration.
+19		1	1	0	0	We will limit our discussion here to simple cases involving only a few charged objects.
+19	HT	0	0	0	1	22.19  Figure 22.29 shows how a charged particle 1 interacts with two other charged particles 2 and 3.
+19	SM	0	0	0	1	Determine the direction of the vector sum of the electric forces exerted on particle 2.
+19	P	0	3	2	1	The basic limitation of Coulomb's law continues to apply when we are analyzing collections of charged objects: Eq. 22.10 is valid only for charged particles, not for charged extended bodies.
+19		0	3	2	1	Suppose, for example, that we replace each charged particle in Figure 22.29 by a conducting sphere carrying the same charge as each particle.
+19		0	3	2	0	Let us first consider just the interaction between spheres 1 and 2.
+19		0	3	2	1	When these oppositely charged spheres are placed near each other, the charge carriers on the two spheres rearrange themselves to be as close as possible to each other ( Figure 22.30a).
+19		1	2	2	1	A similar type of rearrangement takes place when just spheres 1 and 3 are placed near each other (Figure 22.30b).
+19		1	3	1	2	When all three spheres are placed near one another, the positive charge on sphere 3 pushes the positive charge on sphere 2 up and pulls the negative charge on sphere 1 down (Figure 22.30c).
+19		1	3	1	2	Consequently, the forces that the spheres exert on one another are not the same as the forces exerted by the individual pairs (compare the forces in Figures 22.29 and 22.30).Figure 22.30
+19	EX	0	0	1	0	Example 22.4 Electric tug of war
+19	SM	0	0	1	0	You are given three charged particles.
+19	SM	0	0	1	0	Particles 1 and 2 carry charge <var> and particle 3 carries charge <var>.
+19	SM	0	0	1	0	(a) Determine the relative values of the separation distances <var> and <var> when the three particles are arranged along a straight line in such a way that the vector sum of the forces exerted on particle 1 is zero.
+19	SM	0	0	1	0	(b) With the particles arranged this way, are the vector sums of the forces exerted on particles 2 and 3 also zero?
+19	H3	0	0	0	0	1) GettinG Started
+19	SM	0	0	1	0	Particle 2 exerts a repulsive force on particle 1; particle 3 exerts an attractive force on particle 1.
+19	SM	0	0	1	0	In order for the two forces exerted on particle 1 to cancel, particles 2 and 3 must be on the same side of particle 1.
+19	SM	0	0	1	0	Because the magnitude of the charge on particle 2 is smaller than that of the charge on particle 3, the distance <var> must be shorter than the distance <var>
+19	H3	0	0	0	0	2) deviSe plan
+19	SM	0	0	1	0	I choose my x axis vertically up along the line defined by the particles (Figure 22.31a).
+19	SM	0	0	1	0	To determine the relative values of the separation distances <var> and <var> when the vector sum of the forces exerted on particle 1 is zero, I draw a freebody diagram for particle 1 (Figure 22.31b).
+19	SM	0	0	1	0	The magnitude of each force exerted on this particle is given by Eq. 22.1, and so by setting the sum of the <var> components of the forces equal to zero, I have an expression containing <var> and <var> and I can manipulate the expression to get the relative values of <var> and <var>.
+19	FIG	0	1	0	1	Figure 22.29  Forces exerted by two charged particles 2 and 3 on charged particle 1.

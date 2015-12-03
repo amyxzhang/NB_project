@@ -132,6 +132,15 @@ var getText = function(x, y, w, h) {
 	
 };
 
+function getConfused(id){
+    return $.ajax({
+        type: "GET",
+        url: '/get_confused?id=' + id,
+        cache: false,
+        async: false
+    }).responseText;
+}
+
 window.onload = function() {
 
     var pdf_page = $("#pf1");
@@ -139,6 +148,7 @@ window.onload = function() {
     tt = getTextPage(pdf_page);
     
     params = {'text': tt, 'page': window.location.href};
+    
 	$.post('/set_text_page', params, 
 		function(res){
 			console.log(res);
@@ -153,20 +163,52 @@ window.onload = function() {
     for (var i=0; i<coords.length; i++) {
     	coord = coords[i];
     	console.log(coord);
-    	var d = document.createElement('div');
-    	d.style.position = "absolute";
-    	d.style.display = "block";
-    	    	// 45 56
-    	newx = offset.x + (coord.x/2.1);
-		d.style.left = newx + 'px';
-		newy = offset.y + (coord.y/2.09);
-		d.style.top = newy + 'px';
-		neww = coord.w/2.1;
-		d.style.width= neww + 'px';
-		newhh = coord.h/2.0;
-		
-		
-		text = getText(newx, newy, neww, newhh);
+    	
+		confused = getConfused(coord.id);
+    	var arrs = JSON.parse(confused);
+
+		if (arrs.confused == "True") {
+    		var d = document.createElement('div');
+	    	d.style.position = "absolute";
+	    	d.style.display = "block";
+	    	    	// 45 56
+	    	newx = offset.x + (coord.x/2.1);
+			d.style.left = newx + 'px';
+			newy = offset.y + (coord.y/2.09);
+			d.style.top = newy + 'px';
+			neww = coord.w/2.1;
+			d.style.width= neww + 'px';
+			newhh = coord.h/2.0;
+			
+			d.id = coord.id + '-d';
+			
+			d.style.height= newhh + 'px';
+			d.style.backgroundColor = 'blue';
+			d.style.opacity = "0.15";
+	    	document.getElementsByTagName('body')[0].appendChild(d);
+			console.log(d);
+			
+			var p = document.createElement('p');
+			p.style.position = "absolute";
+	    	p.style.display = "block";
+	    	p.style.visibility = "hidden";
+	    	p.style.background = "#ffffff";
+	    	p.id = coord.id + '-p';
+			
+			p.innerHTML = arrs.text;
+			document.getElementsByTagName('body')[0].appendChild(p);
+			
+			
+			$('#' + coord.id + '-d').mouseover(function(val) {
+				vid = val.target.id;
+				console.log(vid);
+				$('#' + vid.substring(0,vid.length - 2) + '-p').css("visibility","visible"); 
+			}).mouseout(function(val) {
+				vid = val.target.id;
+				$('#' + vid.substring(0,vid.length - 2) + '-p').css("visibility","hidden");
+			});
+			
+					text = getText(newx, newy, neww, newhh);
 		
 		params = {"text": text, "page": window.location.href, "x": coord.x, "y": coord.y, "w": coord.w, "h": coord.h, "id": coord.id};
 		
@@ -175,13 +217,11 @@ window.onload = function() {
 					console.log(res);
 				}
 			);
+		}
 		
-		console.log(text);
-		d.style.height= newhh + 'px';
-		d.style.backgroundColor = 'blue';
-		d.style.opacity = "0.5";
-    	document.getElementsByTagName('body')[0].appendChild(d);
-		console.log(d);
+		
+
+		
 
     }
 
