@@ -1,0 +1,1003 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset0 Menlo-Bold;\f1\fswiss\fcharset0 Helvetica;\f2\fnil\fcharset0 Menlo-Regular;
+\f3\fswiss\fcharset0 ArialMT;\f4\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;\red60\green60\blue60;\red255\green255\blue255;\red0\green0\blue0;
+\red26\green26\blue26;\red26\green26\blue26;}
+\margl1440\margr1440\vieww19060\viewh16500\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\b\fs22 \cf0 \
+\pard\pardeftab720\sl400
+
+\f1\b0\fs26 \cf0 \expnd0\expndtw0\kerning0
+Possible Features:\
+\
+Markovian - use previous tags. confusion often happens in chunks of sentences.\
+\
+Summary Statements (found in bold)\
+\
+Definition statements (word found in bold) - their length\
+\
+plot the occurrence of glossary words over the course of the text. \
+correlate with confusion?\
+\
+distinguish physics terms\
+\
+Measure the vagueness or specificity of these terms?\
+\
+Figure out which sections are examples?\
+\
+distinguish between \'93example words\'94 - ball, string, hair, tape, comb		<- confusing if there\'92s too many of them or are too short\
+			   \'93general/broad/vague physics words\'94 - motion, force, field     < - cause of confusion if use too many of these\
+			   \'93specific physics words for the chapter\'94 - glossary terms     < - confusing if they are short or have no examples\
+			   \'93specific physics words but not highlighted in the chapter\'94 - physics words that are not the general/broad/vague ones and not in the glossary\
+				<- these may be generally confusing, esp if they are not defined \
+\
+\
+Find forward pointers - statements that something will be explained or defined in the future.\
+\
+Find occurrence of words that are \'93very close\'94 to each other/used interchangeably?\
+\
+Occurrence of values and numbers in the sentence\
+Example boxes in the page\
+How close is the text to a Checkpoint?\
+Number of variables in the sentence\
+Number of figures on the page\
+Number of equations on the page\
+Reference to figure or equation in the sentence.\
+\
+\
+cosine similarity to other sentences\
+\
+\
+
+\f0\b\fs22 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 \
+\
+Related Work\
+\
+{\field{\*\fldinst{HYPERLINK "http://scitation.aip.org/content/aapt/journal/ajp/67/8/10.1119/1.19351"}}{\fldrslt 
+\f2\b0 http://scitation.aip.org/content/aapt/journal/ajp/67/8/10.1119/1.19351}}
+\f2\b0 \
+\
+\pard\pardeftab720\sl360
+
+\f3\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The large vocabulary we use for precise purposes in physics contains many words which have related, but potentially confusing meanings in everyday usage. A surprising number of other words we use frequently are not used consistently in the language of introductory textbooks.\
+\
+{\field{\*\fldinst{HYPERLINK "http://www.tandfonline.com/doi/abs/10.1080/0950069930150204"}}{\fldrslt http://www.tandfonline.com/doi/abs/10.1080/0950069930150204}}\
+\
+\pard\pardeftab720\sl400
+
+\f1\fs26 \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4  The reported results show a great deal of uncertainty as to the relationship between the concepts of weight and gravity, causing widespread confusion among high school students and preservice teachers.\
+\
+\
+\
+
+\f0\b\fs22 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 \
+\
+Summary:\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f2\b0 \cf0 \
+Sometimes students aren\'92t confused about what\'92s there but just curious or asking/musing/extrapolating.\
+\
+Sometimes the text is trying to be confusing or vague on purpose in order to get students questioning or curious?\
+\
+
+\f0\b \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 \
+Confusing stuff:
+\f2\b0 \
+\
+Definitions that are short and use simple words with little following explanation are confusing.\
+\
+Summary statements like this are also confusing.\
+\
+Examples can be confusing if they aren\'92t explained in full enough detail.\
+\
+Examples can be confusing if they mention certain details or assert things but don\'92t explain them.\
+\
+Explanations of examples made a long time ago in the text are confusing.\
+\
+A group of examples, one after the other, are confusing without explaining how they tie together. More is not always better.\
+\
+Introducing a complication far in the text can be confusing at that instance (and also may cause confusion earlier as people notice the complication).\
+\
+\
+Using an example IN a summary or definition statement can cause confusion.\
+\
+\
+I notice sometime when the textbook uses \'93\'94 when explaining or describing something, it can throw people off. Sometimes it doesn\'92t though.\
+\
+\
+Confusing when an example or rule doesn\'92t make sense given users\'92 prior knowledge or doesn\'92t work for the user.\
+\
+\
+New vocabulary that isn\'92t signposted by the textbook but just introduced can be confusing.\
+\
+\
+Saying you\'92ll define something in the future or say you will discuss something in the future is confusing\
+\
+\
+Earlier parts of the chapter seem more confusing - the high level explaining stuff. Many more summary and definition statements. Once we get into variables and equations, confusing parts are less common.\
+\
+General statements, shorter statements, less specific statements\
+\
+More confusion around conceptual things (how concepts transfer to different cases) and not mechanical things (how to do problems, figure out equations, etc.)\
+\
+\'93editorializing\'94 - adding words like \'93remarkably\'94 \'93surprisingly\'94\
+\
+\
+
+\f0\b \
+Not confusing stuff:
+\f2\b0 \
+\
+Talking about history, people not confusing.\
+\
+Footnotes are not confusing (not important information)\
+\
+Equations and variables present seem to be not that confusing.\
+\
+Examples are not confusing - more concrete?\
+\
+Usually hints aren\'92t confusing, sometimes they are.\
+\
+Pointing to a figure in the text\
+\
+Question followed by answer \
+\
+Citing an equation in the text\
+\
+\
+\
+\
+\
+19250\
+2		2	2	1	0	When you tear off some plastic wrap from its roll, the wrap is attracted to anything that gets close: your hand, the countertop, a dish.\
+2		1	2	1	0	This interaction between the plastic wrap and other objects doesn't have to involve any physical contact.\
+2		1	1	1	1	For example, you can feel the presence of a piece of freshly torn-off plastic wrap with your cheek or the back of your hand even when your face or hand is held some distance away from the piece.\
+2		1	1	1	0	You may have experienced many similar interactions: Styrofoam peanuts are attracted to your arms when you unpack a box full of them (Figure 22.1).\
+2		1	1	1	0	Running a comb through your hair on a dry day causes the comb to attract your hair.\
+2		1	1	1	0	After rubbing a balloon against a woolen sweater, you can hold the balloon close to a wall and see the attraction as the balloon moves toward the wall.\
+\
+\
+Yes, this is interesting. Is this because the because the plastic wrap is inducing a non-neutral interaction from the otherwise neutral environment? \
+\
+I have not experienced a lot of these things myself. That due to the Florida humidity? \
+\
+Has anyone else never experienced any of these phenomena? I've always figured that I never saw any strong static charges because of Florida humidity, so I was just curious if anyone else who has been in state for a while has noticed how hard it is to get a static charge built up, or if it was just me.\
+\
+
+\f0\b Bad examples - examples don\'92t apply to everyone.\
+\
+\
+\
+\
+\pard\pardeftab720
+
+\f2\b0 \cf0 2		0	4	2	1	In other words, the bits of paper accelerate upward, which means the force exerted by your comb on them must be greater than the gravitational force exerted on them by Earth!\
+2		2	0	2	1	Now try this: Quickly pull a 20-cm strip of transparent tape* out of a dispenser and suspend it from the edge of a table (just be sure the table is not metal).\
+2		2	2	2	1	Notice how the tape is attracted to anything brought nearby.\
+2		1	2	1	1	It might even take some practice to prevent the tape from curling up and sticking to the underside of the table or to your hand.\
+\
+Why does the speed that you pull the tape at make a difference in the strength of its charge?\
+\
+What properties do transparent tape possess to make it an ideal example to illustrate static electricity? \
+\
+Could this experiment be replicated using other forms of tape? Or is this example only possible using this specific form of tape? What is the exact quality that this type of tape has that allows this experiment to exist?\
+\
+Is this observation correct?\
+   I found it interesting that matter would not be attracted to the piece of tape if it were placed on a metal table. What is it about this situation that neutralizes the electric composition of the tape?\
+   As I continued to read, I came to the conclusion that the tape is neutralized upon interaction with the metal surface. This happens because metal is an electrical conductor, meaning that it's charge is distributed evenly throughout the surface. When the tape touches the surface, there is a flow/transfer of charge between the two. For example, the tape releases 5 electrons and takes 5 protons while the metal does the opposite. This is equal exchange is a product of the conservation of charge in a closed system.\
+\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 Because a metal is an electrical conductor, correct?\
+\
+How are objects able to store such a charge if it can be dissipated through the air?\
+\
+Why does this experiment not work on a metal table? -Timmy Goode\
+\
+Later in the section, the repellant electrical force in the tape is mentioned, but in this statement the tape is "attracted to anything". Does it only repel he exact opposite force of another piece of tape or would it repel all other things with opposite force?\
+\
+So I understand how in the previous examples a charge was induced since each object was rubbed with another one to create an imbalance. But why is the tape exhibiting the same behavior even though it seems you never had it touch anything else or modify its initial charge?? You only shortened the tape by cutting it, right?\
+\
+
+\f0\b Example with not a full explanation. Small additions (metal, quickly) make it unclear whether these are casually mentioned or are important to making the example work. But maybe since this is at the beginning of the chapter, it is more meant to stoke curiosity.
+\f2\b0 \
+\
+\cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+\
+\pard\pardeftab720
+\cf0 2	HT	2	1	1	2	22.1 Suspend a freshly pulled piece of transparent tape from the edge of your desk.\
+2	SM	1	1	1	2	(a) What happens when you hold a battery near the tape?\
+2	SM	1	1	1	2	Does it matter whether you point the +side or the side of the battery toward the tape?\
+2	SM	1	1	1	2	Does a spent battery yield a different result?\
+2	SM	1	0	1	2	Does a wooden object yield a different result?\
+2	SM	1	0	1	2	(b) What happens when you hold a strip of freshly pulled tape near the power cord of a lamp?\
+2	SM	1	0	1	2	Does it make any difference if the lamp is on or off?\
+\
+I tried doing this just to observe it myself. The table I placed it on was glass. I sort of noticed an attraction, but it was very mild. The battery i took out of  controller and it seemed to have no difference between directing the positive and negative ends towards it however I know that there should be. I also did the power cord and nothing happened. Is this due to the fact that the tape is sitting on glass which is in contact with metal?\
+\
+Tried this as well, at first i tried it with some black (possibly electrical?)tape I had lying around. The results I had weren't too convincing and I wasn't sure if I had done something wrong. I then found some regular scotch tape and I could see the pieces repelling each other. I know this is kind of off topic but does anyone know why this would be?\
+\
+a) My piece of tape was attracted to the battery regardless of whether the + or - side was oriented toward the tape. A spent battery (lucky I had one of those around) did the same thing. Is that what was supposed to happen? It seems like maybe the charged battery should have yielded a different result.\
+\
+Was anyone able to try this experiment? I am curious to see how the positive and negative terminals on a battery affect the interaction with the tape differently. Or if there was any difference at all. \
+\
+So I tried this experiment and these were my observations:\
+When I placed the battery near the tape, the tape was attracted to the battery. I didn't see any significant difference between the + and - side of the battery. Perhaps there was a slight difference? I wasn't able to test difference between spent and new batteries because I used the batteries from my calculator which are already low, and have yet to purchase new ones. \
+For the wood experiment I used a wooden pencil, and found that I needed to bring the pencil closer than the battery to see an attraction take place. \
+I found that there was a stronger attraction to the lamp when the power was on, but only by a little so that might just be my imagination.\
+Did anyone witness different observations?\
+\
+I tried holding a battery close to a piece of tape and observed that it did not matter which end was closest. Both + and - ends attracted the tape. My hypothesis is that the attraction is the same because the battery alone is an inert metal object. The + and - ends are determined by the flow of electricity once the battery is hooked up. Maybe then would one end attract and the other repel. Thoughts?\
+\
+\pard\pardeftab720
+
+\f0\b \cf6 \expnd0\expndtw0\kerning0
+This bit of text is an experiment for readers to try. Presumably they should come away with questions. Maybe we should ignore the parts of text with HT annotation.
+\f2\b0 \cf0 \kerning1\expnd0\expndtw0 \
+\pard\pardeftab720
+\cf0 \
+\
+\
+\
+2		1	3	5	5	Objects that participate in electric interactions exert an electric force on each other.\
+2		1	4	4	5	The electric force is a field force (see Section 8.3): Objects exerting electric forces on each other need not be physically touching.\
+2		1	3	2	0	As you may have noticed from the interaction between the strips of tape and various nearby objects, the magnitude of the electric force depends on distance: It decreases as you increase the  separation.\
+\
+\
+Can any object or material experience an electric force such as this? Or are there some materials that are unable to experience the force whether it be attractive or non attractive/repelling?\
+\
+So if this is then a field force, and its caused by positive and negative charges that are pulled toward each other or repel one another, is it the same force as magnetism, since I know that electric currents can amplify magnets, or electromagnetic, is that what causes them? the same Positive and negatively charged particles or is it different?\
+\
+It's already been pointed out that this is the same as we saw with gravity, where the force of the interaction decreases with greater distance. However, is this decrease in force proportional to the square of the distance between the two objects, as seen when we examined gravitational forces?\
+\
+Knowing that objects can exert an electric force on each other without physically touching, suppose we placed an object with static electricity between two identical attracting objects. Would the object containing the static electricity levitate between the two attracting objects because it is attracted to both? or would it be drawn to just one?\
+\
+Does the amount of current effect the electric force? If it does would it be directly proportional or inversely proportional. \
+\
+Because the electric force is a field force, can a collection of electric forces be graphically represented using a vector field?\
+\
+By what proportion? In other words, how strongly does the separation between the objects affect the force exerted? What is more important, the strength of the difference in charge or the distance? Is there any distance at which the force is 0, or is it asymptotic?\
+\
+\pard\pardeftab720
+
+\f0\b \cf6 \expnd0\expndtw0\kerning0
+This explanation is vague because it doesn\'92t explain the proportionality of how force changes with respect to distance.\
+\
+\
+\
+\
+\pard\pardeftab720
+
+\f2\b0 \cf0 \kerning1\expnd0\expndtw0 \
+\pard\pardeftab720
+\cf0 2		2	2	2	0	As Checkpoint 22.2 makes clear, not all electric interactions are attractive.\
+2		2	2	2	0	Even if you increase the mass of the strips by suspending paper clips from them, the repulsion between the strips is great enough to keep the paper clips apart ( Figure 22.2).\
+2		2	2	2	0	Now place your hand between two repelling strips and notice how both strips fly toward your hand!\
+2		2	2	2	0	Then run each strip of tape several times between your fingers and notice how the electric interaction diminishes or even disappears.\
+\
+Why is the repulsion bewteen the strips great enough to keep the paper clips apart. Is it because they are close together and the mass it small? What factors depend on it?\
+\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 Do the strips repel each other because they have the same charge?\
+\
+I tried this and it was attractive! It was a very small force though, certainly not enough to do anything with a paperclip on it. I mean, the tape isn't freshly bought, but it was fresh off of the dispenser. Does anyone know why my trail would have a different result than what the textbook suggests?\cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+If the electric interactions between the paper clips were stronger, would they counteract the repulsion from the strips of tape?\
+\
+At what point does the mass added to the pieces of tape become too much, causing the repulsion to cease and the tape to stick together? Can this peak mass value be calculated in any sort of way?\
+\
+When you rub it between your fingers, I'm assuming it causes the charges to equalize? Thus diminishing and making the net attraction 0?\
+\
+Why would we expect that adding mass makes it more difficult for the pieces of tape to repel each other? I understand that the weight of the paper clips should, in theory, bring the pieces closer together but wouldn't they repel each other more the closer they get to each other? \
+\
+Basically, opposite-charges will attract and like-charges will repel. But in the previous case of the attraction between the comb and small bits of paper, isn't the paper neutrally charged? \
+\
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 Isn't this like grounding the tape?\
+\
+Is this due to the fact that because of your hands interaction with the tape, the electrons are passed to your hand causing the interaction to disappear/repel?\
+\
+
+\f0\b This example is given but not properly explained. Why does what happens happens? 
+\f2\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+\
+\
+\pard\pardeftab720
+\cf0 3		0	1	1	1	As we saw in the preceding section, electric interactions are sometimes attractive and sometimes repulsive.\
+3		0	1	1	2	In addition, the experiment you performed in Checkpoint 22.3 demonstrates that paper strips, which do not interact electrically with each other, do interact electrically with transparent tape.\
+\
+\
+I don't understand what they're saying here? So regular paper strips interact with tape but paper doesn't interact with paper? Is that because paper acts as a neutral object with tape but two neutral objects don't really interact?\
+\
+"...electric interactions are sometimes attractive and sometimes repulsive" (pg. 595). Is this connected to when looking at matter as millions of atoms with neutrons, protons, and electrons; the positive charge of the protons and the negative charge of the electrons? As in, the interacting objects being observed, if repelling, both have positive charges and, if attracting, one has a negative charge while the other has a positive charge. \
+\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 Why do the strips not interact electrically initally ?\
+\
+The question this brings up, is why does tape specifically interact electrically, but not paper clips? You would think that everything has some electrical charge, right? Also if you were to put the tape into an electric socket there would not be that big of a problem, but if you jammed the paper clip in, you would definitely have different results ...\
+\
+I hypothesize that the piece of tape, after it has been ripped off, has some kind of electric charge. When it comes near the pieces of paper, the tape induces some kind of electric field that causes the paper pieces to be attracted to it. However, when the tape is not present, there is no electric field, so they are neutral. \
+A question I have, though, is why does the piece of tape have charge? Is it the material? Or does the ripping motion create a charge, like rubbing your feet on a rug?\
+\
+
+\f0\b Students still don\'92t understand why the examples happen - why those items, why not other items, why that kind of action.\
+\
+\
+\
+\
+\pard\pardeftab720
+
+\f2\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 3		1	1	1	1	A  suspended strip created according to this procedure interacts in the following ways: It repels another strip created in the same manner, and it attracts any other object that does not itself interact electrically with other objects (Figure 22.4).\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 \
+How is this affected by the type of tape? And wouldn't this also depend more on certain environmental conditions, such as humidity, considering tape's properties as an adhesive?\
+\
+I am not understand this statement. How is it that your hand attracts the tape without it having any electrical interaction? I thought for there to be attraction/repulsion there must be an electrical interaction.\
+\
+Tried this myself, is there a way to reverse the charge and make two tapes produced from this method attract one another?\
+\
+\
+
+\f0\b These students seem confused for different reasons.
+\f2\b0 \
+\
+\
+\
+\pard\pardeftab720
+\cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 3		2	3	6	3	Saying that something carries an electrical charge is just another way of saying that that object interacts electrically with other objects that carry electrical charge.\
+3		2	3	6	1	Freshly pulled strips of tape carry electrical charge, and two such strips interact because each possesses an electrical charge, just as your body and Earth interact because each possesses mass.\
+3		1	4	5	4	The general term for any microscopic object that carries an electrical charge, such as an electron or ion, is charge carrier.\
+3		1	5	4	1	It is not immediately clear what attributes to assign to objects that do not interact electrically with each other but do interact with a charged tape strip-a strip of paper, your hand, an eraser, you name it.\
+3		4	5	4	1	All we know for now is that the interaction between these objects and a charged tape is attractive rather than repulsive.\
+\
+\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 what makes the tape have an electrical charge in the first place?\
+\
+Prior to reading this chapter, I never knew that there were electrical forces behind the attraction that tape has. Are tape's adhesive properties attributed to the electrical forces solely? Or does the electrical forces contribute to only a fraction of the tap's adhesive properties?\
+\
+where does charge come from?\
+\
+How does this definition apply to electrically neutral objects? Since electrically neutral objects can still interact electrically with other objects that carry electrical charge through attraction, but only gain charge when in contact with electrically charged objects?\
+\
+Can someone put simply what it means for an object to be electrically charged?\
+\
+What about the tape gives it this charge? Is it the nature of the tape itself (the material it's composed of), or is the charge given to the tape by way of manipulation? And if the latter is true, why can't the same happen with other common materials such as paper or cardboard?\
+\
+How does an act of pulling a piece of tape off quickly bring about the charge to an object like that? What causes this condition of being freshly pulled to lead to the tape carrying charge? \
+\
+Does the emphasis on "freshly pulled" tape make a difference in the charge, and hence, the interaction? Later on it is specified that if touched too much the charge vanishes, but what if the tape is left there for a while? Why does it lose charge?\
+\
+Why are electrical forces only noticeable with relatively small objects like the tape? Why doesn't the Earth or the air interact electrically with us all the time?\
+\
+A possible reason could me based on bonds with electrons. Let's say we rip the two pieces of tape apart. This gives us a positively charged piece, and a negatively charged piece. As we move the (negative) piece of tape closer and closer to our (neutral) hand, the tape wants to bond with our hand because the tape is looking for electrons to either steal or share! Perhaps it could be a covalent bond? What do you think of this theory?\
+\
+What distinguishes positive electrical charge from negative electrical charge, if that distinction is even correct? Is it the the relative amount of electrons present at that "pole"?\
+\
+If an object is considered "charged" then do all of its atoms have to be charged? What percentage of the object must be charged for it to be considered a charged object?\
+\
+Do all of these objects become attractive to the charged tape? Is there a difference in the amount of attraction or repulsion that these objects exert on the charged tape? Why are these characteristics as they are? \
+\
+What is an example of an object without an electron? don't all molecules have electrons and so are charge carriers?\
+\
+In the book they compare static electricity's attractive property to gravitational properties held by two bodies of mass. Are there other physical properties held in common between the gravity and static electricity?\
+\
+
+\f0\b Here is a definition: charge carrier. It causes a lot of confusion because students still don\'92t understand why the tape carries charge and the definition here leaves some things up in the air.
+\f2\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\pard\pardeftab720
+\cf0 \
+\
+\
+\
+3		7	4	8	1	The electric charge on an object is not a permanent property; if you let a charged strip of tape hang for a while, it loses its ability to interact electrically.\
+3		7	4	8	1	In other words, the strip is no longer charged-it is discharged.\
+3		6	5	11	3	Depending on the humidity of the air, the discharging can take minutes or hours, but you can speed up the discharging by rubbing your fingers a few times over the entire length of a suspended charged strip of tape.\
+3		5	0	5	2	(The rubbing allows the charge to "leak away" from the tape by distributing itself over your body.)\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 \
+\
+When you try to make the discharged strip become a charged strip again, would the strip be less charged than previously? (before it loses it adhesiveness)\
+\
+After the charge has been dispersed from the tape into the air, does the air transfer it to surrounding objects? Where does it go?\
+\
+What causes a faster discharge? higher or lower humidity? My guesss would be higher humidity because the water would take the chrge from the tape?\
+\
+How does the humidity affect the time it takes for a strip of tape to discharge?\
+\
+I wonder if it is the interaction between the electrons of the atoms of the two that cause the discharging of the electric charge, or the actual rubbing/ touching of the atoms. \
+I experienced this on my drive to orlando. I opened a oatmeal cream pie (which is packaged in this plastic wrap), tore off only a small corner. I tried putting the trash in my cup holder, but the piece of plastic and my hand became charged. I couldnt get the plastic to stop being attracted to my hand no matter what i did, until i thought about what we have learned here. I exhaled heavily on the piece/hand system and the plastic fell right off. \
+\
+If the charge is now in your body, why is the tape not still attracted to your finger in an attempt to gain the charge back? Is it because the charge has been so distributed within your body or because your body is always grounded to something i.e. the floor, allowing the charge to leave your body?\
+\
+If I rub the charge away, does that mean my body possesses a charge with a magnitude equal to that of the tape's charge?\
+\
+What is the difference between something that is "discharged" and "neutrally charged?" If discharging an object is similar to grounding a system then wouldn't these two terms be the same? \
+\
+Drier air conducts electricity more easily or with more difficulty?\
+\
+This is what happened in class, isn't it? Some of the experiments weren't working, and the professor told us it was because it was humid outside.\
+\
+What does an electrically induced item look like? Like do the electric charges move to one end? And how does that work? I thought that only existed in a metallic compound. Can some items be better electrically induced than others? \
+\
+This section is about tape, but I'm curious about hair frizz. If hair is frizzy when the weather is humid, does this mean the hair is charged and interacting with the water molecules? And if so, then would licking your hand and patting your hair discharge the hair, mind the amount of saliva it would take and level of humidity?\
+\
+Why is it that when you touch a metal rod after having static charge on you you can feel the electricity discharging, but water (a good conductor) does not perform the same action?\
+\
+What causes the electrical charge to discharge so easily? Is it soley based on humidity? And if it is, why does humidity cancel the discharge, is it because of the water properties of humidity?\
+\
+Would higher humidity allow for a faster discharge time because the air is more saturated with water that can act similarly to a hand? Or would the water somehow prevent charge from being displaced and slow down the discharge?\
+\
+This "leak away" affects brings up more questions for me on the dissipation of electric charge. What factors are at play here? We see that moisture plays a role through humidity and mass plays a role through the body but how does this all interact? and Are there other factors at play as well, does our body heat help dissipate the charge perhaps?\
+\
+\
+
+\f0\b Humidity is only mentioned now even though students were wondering about its effects since the beginning of the chapter. This part still doesn\'92t explain how humidity affects things.\
+\
+\
+\
+\
+\
+\
+\pard\pardeftab720
+
+\f2\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 4		2	1	6	2	To restore the charge on a discharged strip, stick the strip on top of the foundation strip from which you pulled it off (step 1 in Figure 22.3), smooth it out, and then quickly pull it off again.\
+4		2	1	9	5	You can recharge a strip quite a few times before it loses its adhesive properties.\
+4		2	1	9	5	Once the tape does lose its adhesiveness, however, recharging it becomes impossible.\
+4		2	1	6	1	It is generally a good idea to rub your finger over the foundation strip before you reuse it to make sure that it, too, is uncharged.\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 \
+I think this may have been mentioned earlier, but just to clarify, the charge on the tape is coming from the friction and bonds being broken when tape is pulled off of the foundation strip it was stuck to?  Is this because when tape is stuck to something it forms a bond, and when that bond is broken, the tape picks of some extra electrons from what it was stuck to?  I am just thinking that because if the tape had extra electrons, it would be positively charged.  That would explain why it would repel another piece of positively charged tape.  The two pieces of tape are trying to give off electrons and neither piece wants the other's electrons so they repel.  But when the tape comes close to something like a hand, it is attracted to it and wants to give it its electrons.  Hopefully that was not too badly worded, and I may be completely on the wrong track.  That was just my thinking.\
+\
+Don't understand why it becomes impossible to recharge tape once it looses its adhesive properties. If someone can explain I'd appreciate it. Thanks in advance.\
+\
+All of the cases we've discussed so far which create static charge seem to involve some source of friction: that between the balloon and wool, that between the tape and adhesive, etc... However, it doesn't seem like all situations which involve friction also create an electrostatic force. Pulling apart velcro, for example, I've never attracted objects or been able to stick something to a wall. What makes these certain frictional situations different? Is it the materials or the scale or maybe a mixture of both?\
+\
+How is the adhesive related to the charge on the tape strip? I still don't understand how this procedure actually leads to charged tape strips (although it looks like that might be answered later).\
+\
+What would happen if the foundation strip were still charged when the interaction with the second piece of tape occurred? Would the charge cancel out?\
+\
+Why does the tape become impossible to charge after it loses its adhesiveness? Is it because it removes the friction between the objects so it can't generate static electricity? I suppose that makes sense, but does that mean that friction is actually an electrical force instead of a mechanical force?\
+\
+Does restoring a charge reference to the tape strip actually pulling the charge from the foundation? Considering it loses the ability to recharge once it loses adhesive properties.\
+\
+So the adhesiveness is directly related to the ability to restore the charge on a strip. Why would it be impossible to regain charge once the adhesiveness is all gone? How do these two correlate with one another?\
+\
+I understand how to restore the charge on a strip of tape, but why does recharging become impossible if the adhesivenss is lost? \
+\
+We see here that as the stickiness decreases so does the ability to create electric charge. I would then infer that what is initially creating the charge is the friction energy caused when pulling off the tape which then decreases as the stickiness subsides. Is that logic sound, or are there other more important factors at play?\
+\
+Why does the tape lose its ability to become charged when it is no longer adhesive? \
+\
+This is an interesting comment. This is saying that the adhesive properties have something to do with the charge. Is it possible that the stickiness of tape has anything to do with charge of tape? (Is sticky tape always charged one way or the other?)\
+\
+so the interaction between the table and the tape is creating the charge. But what happens if I rub my hands along the tape really fast to create static electicity like you would on a balloon? Why can't you create static electricity on the tape by forcing OTHER interactions on the tape?\
+
+\f0\b \
+Now we find out that adhesiveness is also related to charge, which students were asking about earlier, but we still don\'92t know why.\
+
+\f2\b0 \
+\
+\
+\
+\pard\pardeftab720
+\cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 4		2	4	7	1	A discharged tape strip interacts in the same way as objects that carry no charge.\
+4		2	4	7	1	Such objects are said to be electrically  neutral.\
+4		2	3	7	1	They do not interact electrically with other neutral objects, but they do interact electrically with charged objects.\
+4		1	1	5	1	We shall examine this surprising fact in more detail in Section 22.4.\
+\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 Like the coating on wires?\
+\
+So, does this mean that if we put a charged strip on both sides of a neutral strip, an inch away, the neutral strip would sway towards the more highly charged strip? or would there be enough interference in the environment to make the differences in the tapes strength of charge negligible?\
+\
+Does this mean that there is no way in which to neutral objects can interact to leave one another charged? Does charge only refer to objects with excess electrons? A bit lost\
+\
+Hmm...this seems like an area that could be confusing for me going forward. \
+\
+Is the interaction between a charged object and a neutral one observable? \
+\
+I did not quite understand this "They do not interact electrically with other neutral objects but they do interact electrically with charged object"\
+\
+I understand that charged objects will attract to neutral objects because they try to polarize them, but why do two neutral objects not attract to each other? Both of them have electrons and protons, so shouldn't they attract to each other based on what charge is on the outside of the object? So, for example, you could have an object with 10 electron and 10 protons, which would make it neutral, but what if the electrons were on the outside and the protons were on the inside. Wouldn't that mean that it would slightly attract protons and slightly repel electrons?\
+\
+What would make charged objects to only interact with neutral objects?\
+\
+Why can neutral objects only interact with charged objects, and not among themselves?\
+\
+
+\f0\b The authors defer the explanation of this to later in the chapter and thus students are confused as to why.
+\f2\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+\
+\
+\
+\pard\pardeftab720
+\cf0 4		1	1	1	2	As Checkpoint 22.6 shows, separating an uncharged pair of strips produces two charged ones, but the behavior of strip B is different from that of the other strips we have encountered so far!\
+\
+When undergoing this experiment multiple times with 2 sets of B and T strips, it is noticed that the T strips and B strips seem to both have the same charge as its counterpart.  With that being the case does this mean that positive and negative charges tend to stay on respective sides of an object?  For instance if you took a horizontal plane would negative charges always be on the bottom (as an example) and positive on the top?\
+\
+two uncharged pairs of tape strips wouldn't interact correct? so how could that separate and produce charged ones?\
+\
+Would this be true for the separation of any uncharged object? Or does there need to be some property of the uncharged object that causes it to be charged when seperated?\
+\
+so charges are always balanced. Is there a way of quantifying this? Like a system with no charge will always have nop charge unless charged by an external charge? Or one of those rules? This seems to show that the charge WITHIN an ISOLATED SYSTEM is always constant.\
+\
+
+\f0\b Students are confused here for different reasons.
+\f2\b0 \
+\
+\
+4		1	1	6	1	This series of experiments leads us to conclude that there are two types of charge on the tapes, one type on B strips and another type on T strips.\
+4		1	1	7	1	Strips that carry the same type of charge, called like charges, exert repulsive forces on each other; strips that carry different types of charge, called opposite charges, exert attractive forces on each other.\
+\
+\
+Does this difference stem from an imbalance of subatomic particles between B and T type tapes (electrons in particular?)\
+\
+Have always learned that opposites attract and like charges repel? Is there a conceptual way of interpreting this? (I sometimes mix it up for some reason, maybe opposite rule in chem?)\
+\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 How could something carry one charge?\
+\
+What determines which strip is positive and which is negative?\
+\
+As far as I can understand this means that charges will always spread themselves out evenly over an object, or am I wrong on this?\
+\
+ So no matter the situation, or the type of electric charge, they both have forces acting on each other. For instance, still objects or moving objects, with like or opposite charges. Does this involve neutral objects too? The book also mentioned the magnitude of the force depends on distance. If it is right to assume it also depends on the amount of force applied to the object, could solving for this electric force be similar to using the power equation from physics one?\
+\
+Could there be more types of electrical charge other than positive or negative?\
+\
+Given that strips that carry different types of charge are classified as opposite charges, which then exert attractive forces on each other; is this the idea behind adhesion? Are objects only adhesive because each object carries a different type of charge, leading to an attractive force between the two objects? If so, how would a strip of uncharged tape be given a charge to become adhesive and rechargeable?\
+\
+
+\f0\b Students have different clarifying questions here for the explanation of this example/experiment.
+\f2\b0 \
+\cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+\
+\pard\pardeftab720
+\cf0 5		1	5	6	5	In other words: There are two and only two types of charge.\
+5		1	5	6	4	Objects that carry like charges repel each other; objects that carry opposite charges attract each other.\
+5		2	4	7	3	The two types of charge never appear independently of each other: Whenever two neutral objects are either rubbed together and then separated or, if an adhesive surface is involved, stuck together and then separated and one of them acquires a charge of one type, the other object always acquires a charge of the other type.\
+5		2	4	4	1	The generation of opposite charges is obvious when you separate a neutral pair of tape strips.\
+5		2	4	4	1	When you pass a comb through your hair, the comb acquires a charge of one type and your hair acquires a charge of the other type.\
+5		2	1	2	1	On a dry day, you may have noticed that some hair strands stand up away from your head.\
+5		2	1	2	1	Each charged strand is being repelled by the other charged strands, and so they are all getting as far away from one another as possible.\
+\
+\
+Is this because all objects are composed of atoms, and atoms are composed of neutrons, protons, and electrons of which protons and electrons have positive and negative charges respectively? \
+\
+Is there a specific rule for determining which object will end up with the negative charge and which will end up with the positive charge?\
+\
+When talking about two pieces of tape being pulled apart, is there a way to determine which piece of tape gets which charge? \
+\
+So friction essentially causes electrons to rub off and become displaced thereby creating an imbalance of positively charged protons and negatively charged protons on atoms. Thus creating an electrical charge?\
+\
+What exactly does it mean when it says "acquires"? Where, in this specific example, does the comb get that charge from? I get that there is an interaction between the hair and the comb, but where does that interaction stem from?\
+\
+In class today, we were able to see how neutral particles also interacted with charged particles. Exactly how is this interaction induced? Is it because neutral particles, prefer to be charged ? I think that it may have to deal with electron affinity perhaps but I can't be too sure. \
+\
+How can there only be two types of charge when a positively charged object can attract a neutral object?\
+\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 Can these charges only be identified via their interactions with one another?\
+\
+What if in the case that the strips has both a positive and negative end? Wouldn't it be able to both attract and repel the strips?\cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\pard\pardeftab720
+\cf0 \
+Because one object takes electrons from the other object rendering one negative and one positive?\
+\
+This might be a ridiculous question but what is meant by the term "generation of charges" here. It seems to remind of biology, where the pairing of each successive generation yields a new generation with differing characteristics? Is that similar here, where rubbing together two neutral objects yields a certain charged object and then rubbing that with a different charged object yields a new generation of charges?\
+\
+But can some of the hair be one charge and some of it be another and the comb itself has parts of both charge as well?\
+\
+In this case, would the length of the hair help to increase the total amount of electric charge running through an individual strand? I realize that the charge would be spread out over a larger area and so its effect would decrease, but is there more charge in longer hair?\
+\
+This connects again to another question I had - What determines charge transfer? (Both in the sense of how much charge is transferred and which object become negatively vs. positively charged?)\
+\
+How do neutrons behave when they are close together since the have no charge? Would they repel? attract? or neither?\
+\
+So the only two charges are positive and negative and there is no gray area. Does that mean that every object must be classified by either positive or negative? Can an object really have no charge or is the charge so tiny that it is unnoticeable.\
+\
+The book explains how two positively charged objects repel, and that two negatively charged objects repel as well. It also explains that opposite charges attract and that two neutrally charged objects pull charges from each other, but what happens when a neutrally charged object comes in contact with a positively charged or negatively charged object? Will they attract, repel, ignore each other, will the neutrally charged object steal or give away its charge? \
+\
+This statement reminds me of last semester when we discussed conservation of energy: that energy is neither created nor destroyed, just transferred. In this case, it seems that overall charge always remains constant because negative and positive charges constantly counterbalance each other. I wonder if this means that there is a "conservation of charge"?\
+\
+Is it therefore possible to extend the conservation of energy to the conservation of charge? As in, just as energy cannot be created or destroyed, charge can also never be created or destroyed? Because, as we just saw here, we can create charge. The caveat is that if we create charge of one kind, we automatically create the opposite charge to cancel the original charge out. Would a better way to put this be that overall the net charge of an isolated system must be zero? \
+\
+What is it that determines which neutral object acquires a positive or a negative charge? I would hypothesize that it has to do with the material and which is more attractive to electrons, but what other factors are involved?\
+\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 Is there anyway to predict which object will carry which charge? B or T?\
+\
+
+\f0\b Student confusion is around question of which item will carry which charge and clarifying questions about the property stated - only 2 charges.
+\f2\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\pard\pardeftab720
+\cf0 \
+\
+\
+5		2	0	2	2	It can be shown that when two tape strips are separated, the forces exerted by the B strip and the T strip on a third charged strip are equal in magnitude, although one is attractive and the other repulsive.\
+5		2	0	3	2	Furthermore, when the B and T strips are recombined, the combination is neutral again.\
+5		2	1	3	1	These observations suggest that after you rub and then separate a pair of objects, the objects carry equal amounts of opposite charge.\
+5		1	1	3	1	Combining these equal amounts of opposite charge produces zero charge.\
+5		0	1	3	1	These observations indicate that all neutral matter contains equal amounts of positive and negative charge.\
+5		0	1	2	0	The two types of charge are called positive and negative charges.\
+5		1	4	9	3	The definition of negative charge is as follows: Negative charge is the type of charge acquired by a plastic comb that has been passed through hair a few times.\
+\pard\pardeftab720
+\cf0 \
+\pard\pardeftab720
+\cf0 Is there a reason that this type of charge is labeled as negative or is it arbitrarily chosen? If this were defined as positive charge and positive as negative would there be any difference to the interactions we know? \
+\
+How did they determine which charge was associated with which particle? Is it completely arbitrary or is there an experiment you can perform to determine the charge?- Timmy\
+\
+Is this really the only definition for a negative charge? How can we be so sure that this charge is the negative, and not the positive? At an atomic level, is there an actual difference that lets us know which charge is which?\
+\
+Does attractiveness or repulsiveness of the charged strips depend on how much force used on pulling the 2 strips apart?\
+\
+We have talked a lot about situations where an object is negatively charged. Are there specific elements/materials that make an object more likely to become positively charged?\
+\
+Is this really a definition? This seems so strange to me. We define negative charge as the comb rather than the hair .. Is this for any reason?\
+\
+SO I'm having some serious problems understanding this type of charge. I understand that a lot of measurements seem arbitrary, but the comb and hair doesn't make sense. How is it any different than saying that the comb has positive charge? Is there any definitive way to tell? (Seriously confused) \
+\
+Because this is the case, can an object ever spontaneously have a charge? or is it just highly unlikely ?\
+\
+
+\f0\b The definition for negative charge is poorly explained and pretty unorthodox and unclear, leaving more questions than answers.\
+\
+
+\f2\b0 \
+\
+5		3	2	7	3	When two neutral objects touch, some charge can be transferred from one object to the other, with the result that one object ends up with a surplus of one type of charge and the other object ends up with an equal surplus of the other type of charge.\
+5		4	2	7	3	For example, when a neutral piece of styrofoam is rubbed with a neutral piece of plastic wrap, the styrofoam acquires a positive charge (meaning it contains more positive than negative charge) and the plastic wrap acquires a negative charge (it has a surplus of negative charge).\
+\
+Is there any way to know which charge, positive or negative, travels from one body to another?\
+\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 Does a neutral object always get the same charge everytime ? \
+\
+In this example, two different neutral objects are rubbed together to produced charged objects. This may be a silly question, but this would also apply to two same objects right? (ex: styrofoam ball  &amp; styrofoam ball)\cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+When considering the example of the Styrofoam and the wrap, it makes sense that one of them becomes charged when they interact from what I have observed in the physical world. However, how do you know when this will occur, meaning not all two neutral objects are going to interact electrically, so what properties of the materials are going to allow this to happen? Is this something we can predict or do we just come to understand from experience?\
+\
+\pard\pardeftab720
+\cf0 Things make more sense now. Next need to understand how it is determined the amount of charge and where it gets transferred. \
+\
+This seems to be the common trend but I am hoping this is not all the information we will receive on these topics. After all is testing really the best and only way to find out what kind of charge an object has? What makes certain substances suitable for certain charges? Would it not all be based on chemical composition? \
+\
+So what determines exactly which charge gets transferred between two objects rubbing together. Is it just random or can one expect what type of charge will most likely transfer through some means?\
+\
+Is this always the case when rubbing these two entities against each other? I'm curious about how we infer which material will have which charge.\
+\
+With this in mind, does this mean neutral objects can lose their neutrality? or do they return to a neutral state after gaining this surplus?\
+\
+Would this process be categorized as induced dipole interactions? Two seemingly neutral objects come into close proximity of one another, and as the electrons orbit the nucleus, their random orientation creates dipole charges on one atom. That dipole charge then causes similar dipole charges to form on neighboring atoms.  \
+\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 Why does the styrofoam acquire the positive charge, why not the plastic wrap?\
+\
+What dictates which object receives the negative charges and the positive charges? Is it which ever initially has the most?\
+\
+\cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\pard\pardeftab720
+\cf0 \
+\
+\
+5		2	4	2	2	Summarizing: All neutral matter contains equal amounts of positive and negative charge; charged objects contain unequal amounts of positive and negative charge.\
+\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 Can something not have any charge at all?\
+\
+Can charges be counted? Is there ever exactly the same positive and negative charges, or is a single charge just too minuscule to matter?\
+\
+I wonder how big the difference is---like how great a percentage of the object's electrons are we moving around?\cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+Is it possible to have neutral matter that has no positive or negative charge like 0=0?  \
+\
+The way I'm understanding how this positive and negative electric generation works is:\
+Neutral matter has an equal amount of positive and negative charge. Rubbing/sticking two pieces of neutral matter together "shuffles" the positive and negative charge together in such a way that more positive charge ends up with one matter and more negative charge ends up with the other matter. Then when those two positively and negatively charged pieces of matter interact with each other again, they eventually "shuffle" their charges until both have the same amount of positive and negative charges? Why does this oscillation of amounts of positive and negative charge happen, rather than the positive and negative charges eventually just becoming neutral in a piece of matter permanently? How does the whole "shuffling" process work (what compels the charges to move around from matter to matter once they're in their happy, neutral state)?\
+\
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 but they're all charge carriers?\
+\
+This is a cool principle. It makes me then wonder if there are set characteristics of materials that have larger positive and negative chargers. What I mean by this is say a metal more likely to have a greater potential for being positively or negatively charged than a plastic or a natural substance?\
+\
+\cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+
+\f0\b Seems like summary statements that are short or try to to be simple actually lead to more confusion because they don\'92t explain enough.
+\f2\b0 \
+\
+\
+\pard\pardeftab720
+\cf0 \
+\
+\
+5		1	4	2	1	The plus signs on the positively charged styrofoam in Figure 22.7, for  example, mean only that the styrofoam contains more positive than negative charge, either because some of its negative charge has been removed or because some positive charge has been added.\
+\
+Does this mean that all objects contain multiple charges, and the charge it is notated with is what is more present? and if so when two objects are rubbed against each other could the objects still remain the same charge they started with?\
+\
+Are there examples of purely positive or negative substances? How do magnets play into this--are they like positive and negative completely separated, or are they generally more positive on one side, generally more negative on the other?\
+\
+I thought we couldn't add positive charge? Isn't positive charge just the removal of electrons?\
+\
+Is it possible for an object to be complete positively or complete negatively charged?\
+\
+Is it possible for two objects of opposite charges to cancel each other out to have both neutral charges? Or would the only action be attraction?\
+\
+\pard\pardeftab720
+\cf6 \expnd0\expndtw0\kerning0
+Doesn't this mean the same thing?  Either way one object has either more or less electrons. You cannot transfer protons and "give" an object positive charge, I think. \cf0 \kerning1\expnd0\expndtw0 \
+\pard\pardeftab720
+\cf0 \
+
+\f0\b Students seem to be confused about different things here.
+\f2\b0 \
+\
+\
+\
+\
+5		2	1	5	1	Because combining equal amounts of positive and negative charge results in zero charge, we can say that charge carriers always tend to arrange themselves in such a way as to produce uncharged objects-indeed, all matter around us tends to be neutral.\
+\
+Charges are seeking to find their mate and become neutral. Thermodynamics? This may be important \
+\
+Is this the same principle why lightnings fall to the ground and also jump travel the sky?\
+\
+Is it worth mentioning the similarities to the macro scale by comparing this to objects staying/not in motion?  By restricting macro objects and manipulating their paths of least resistance, it's easy to see how the trend may be that things want to remain neutral without interaction.  But how do you account for all the pushing of charged electrons and ions?\
+\
+The way the book portrays this idea makes it sound similar to Newton's Third Law of motion- for every action there is an opposite reaction. In other words, there will be a two forces applied, equal in magnitude opposite in direction. This states the forces applied by the strips are equal in magnitude, oppositely charged. Is it wrong to compare the two?\
+\
+this makes sense. Is this why positive and negative are attracted to each other and like charges repel? Is it because it would be favorable to produce a neutral charge?\
+\
+\
+\pard\pardeftab720
+
+\f0\b \cf0 Students here are trying to extrapolate or understand using things they\'92ve learned before.
+\f2\b0 \
+\pard\pardeftab720
+\cf0 \
+\
+\
+\
+6		2	1	7	1	To gain a better understanding of electrical charge, many additional experiments are required, most of which require items not easily found at home.\
+6		2	3	8	1	A rubber rod rubbed with a piece of cat fur acquires-by Benjamin Franklin's original definition-a negative charge (and the fur acquires a positive charge).\
+6		2	3	8	2	A glass rod rubbed with silk acquires a positive charge (and the silk a negative charge).\
+6		2	1	8	2	Other materials also acquire a charge upon contact or rubbing, but these two combinations of rubber/fur and glass/silk provide the most convenient means of generating relatively large amounts of charge.\
+\
+\
+How are we able to tell which one have a positive and negative charge in these examples? I though earlier it stated there was no way to tell which ones got which.\
+\
+How do you know which one is going to be positive and which one is going to be negative? \
+\
+Can the charges acquired upon a material differ when paired in a different combination?\
+\
+What factors or properties of the materials coming into contact with each other determine whether it will be positively or negatively charged? In the example stated just previously the glass is negatively charged in the first scenario and positively in the second.\
+\
+I don't understand. What is it about hair that typically makes it positively charged? \
+\
+What properties is it about the objects that determines which gets which charge?\
+\
+I see that rubbing cat fur on a rubber rod produces a negative charge (while the fur itself acquires a positive charge) and the same happens with the glass rod and the silk. (Glass rod having a positive charge and the silk having a negative charge.)\
+How do we determine what charge both the rod and material gets, when we use a different material other than the fur and silk? Would the properties of the materials affect the charge?\
+\
+I still don't quite understand how we have decided the charges acquired by the combination of these different materials. How is it that we are supposed to know that a rubber rod rubbed with cat fur becomes negatively charged while a glass rod rubbed with silk on the other hand acquires a positive charge? Does it have something to do with the properties of the different materials involved and if so what properties determine such a thing?\
+\
+It says that these combinations of materials provide a convenient way of generating relatively large amounts of charge, I was wondering if it was perhaps because of the atomic structure of these materials that makes it easier for the charges to transfer as opposed to other materials?\
+\
+What if you rub two cat furs together? Is one negative, one positive, or do they both remain neutral?\
+\
+Is this an illustration of how charge cannot be created or destroyed, but only transferred from one object to the other? Or is it the case that the same amount of protons and electrons are being created?\
+\
+What properties do these materials have that make them so good at generating static electricity?\
+\
+\
+
+\f0\b These are more examples given by the book but not explained to the reader how/why they work.
+\f2\b0 \
+\
+\
+\
+6		1	4	2	1	In other words, some of the surplus negative charge on the rod has been transferred to the ball.\
+6		2	5	5	6	Charge can be transferred from one object to another by bringing the two into contact.\
+\
+\
+\
+\
+\
+\
+\
+6		1	4	3	1	Any material in which charge doesn't flow (or moves only with great difficulty) is called an electrical insulator.\
+6		2	5	6	2	Electrical insulators are materials through which charge carriers cannot flow easily.\
+6		1	3	2	2	Any charge transferred to an insulator remains near the spot at which it was deposited.\
+\
+\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 This eventually becomes discharged with time, though.. correct?\
+\
+Why doesn't the charge flow in the rubber rod if that's an insulator? What property of insulators inhibit the travel of charge?\
+\
+This is crazy to imagine--like electrons being "stuck" near a particular location. Is that what being an insulator means? That electrons can't move from atom to atom easily? Oh wait that's exactly what it means. \
+\
+Can you isolate charge on something that is not an electrical insulator? For example, would this work with a metal rod or would the charge disperse such that you don't have an uncharged end?\
+\
+\
+\
+\
+\
+\
+\pard\pardeftab720
+
+\f4 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 7		6	3	4	3	Glass, rubber, wood, and plastic are examples of electrical insulators.\
+7		6	3	4	3	Air, particularly dry air, is also an insulator, although the presence of large amounts of charge can cause charge carriers to "jump" from one object to another, causing sparks.\
+\pard\pardeftab720
+
+\f2 \cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 \
+what makes these materials good insulators as opposed to metals which are good conductors(if i remember correctly)? is it the chemical makeup?\
+\
+What exactly makes these materials poor conductors? Do the molecules in the materials have low electron affinity or are the molecules simply to spaced out to properly transfer electrons between them?\
+\
+\
+
+\f0\b These examples are not explained again.
+\f2\b0 \
+\cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\pard\pardeftab720
+\cf0 \
+\
+
+\f4 9		1	2	4	1	Diamond (made of the element carbon) and glass are two familiar examples.\
+9		1	2	3	1	Metals are also atomic solids rather than ionic solids, but in metals, each atom gives up one or more electrons to a shared "gas" of electrons that spreads throughout the volume of the metal.\
+
+\f2 \
+So to be clear, electrical conductors and insulators are those objects that either have freely moving electrons inside or don't.  The object can be positive, negative or neutral and still be a good conductor? \
+\
+\
+\
+\pard\pardeftab720
+
+\f0\b \cf6 \expnd0\expndtw0\kerning0
+These examples are not explained again.
+\f2\b0 \cf0 \kerning1\expnd0\expndtw0 \
+\pard\pardeftab720
+\cf0 \
+\
+\
+
+\f4 12		3	2	2	1	To get as far away as possible from the negative charge on the rod, the electrons in the metal of the sphere move to the right surface.\
+12		4	1	2	3	Thus the surface of the sphere nearer the rod becomes the positive pole, and the surface farther from the rod becomes the negative pole.\
+12		4	1	1	3	When you touch the metal, the electrons can move into your body, thereby getting even farther away from the negative charge on the rod.\
+12		3	3	2	2	In essence, you have become the negative pole, while the sphere is the positive pole.\
+12		3	3	2	1	If you remove your hand from the sphere, the sphere is left with a deficit of electrons (they stayed inside you!)\
+
+\f2 \
+\
+\
+I'm curious about what ultimately happens to these electrons and the negative charge that they carry after they have moved into a person's body. If I'm not mistaken, I recall that the Earth can operate as ground; therefore, would this negative charge not flow through the person's body and into ground rather than remaining inside the body?\
+\
+\
+As the book explains charging by induction, it states polarization can be exploited to charge neutral conducting objects. Is it possible to charge conductors that are not neutral? Or is a neutral conductor the only possibility to be charged by induction? What if there are two or more neutral conductors that touch a charged object?\
+\
+So is charging by induction only possible with neutrally charged object coming in contact with a polarized object? Also, in 22.22, which is becoming the object that is "charged by induction"? The metal sphere or the hand?\
+\
+\
+
+\f4 19		1	2	2	1	A similar type of rearrangement takes place when just spheres 1 and 3 are placed near each other (Figure 22.30b).\
+19		1	3	1	2	When all three spheres are placed near one another, the positive charge on sphere 3 pushes the positive charge on sphere 2 up and pulls the negative charge on sphere 1 down (Figure 22.30c).\
+19		1	3	1	2	Consequently, the forces that the spheres exert on one another are not the same as the forces exerted by the individual pairs (compare the forces in Figures 22.29 and 22.30).Figure 22.30\
+
+\f2 \
+This is saying that sphere 2 will interact with sphere 3 so will that change the forces sphere 1 experiences from sphere 2 and 3? Meaning, if you changed the distance between sphere 2 and 3 would that change the magnitude of electrostatic force experienced by sphere 1?\
+\
+\
+Is there a way we can adjust the formula to take into account the radius of the spheres in some way and thereby give correct results for charged spheres rather than only point particles?\
+\
+I wonder how much different the actual electric force is from the estimated electric force which can be calculated using Coulomb's Law and simply adding up the effect from each pair as indicated in Eq. 22.9 and 22.10. Would the difference be considerable, or would the estimation probably be good enough? What factors are likely the strongest influence on that difference? I think proximity and the magnitude of the charge difference between the particles would be key factors.\
+\
+\
+\
+\
+\
+\
+
+\f4 27		3	3	4	1	Electric fields can be made visible by putting charged objects in a (nonconducting) liquid that contains small uncharged plastic fibers or grass seed.\
+27		2	2	4	1	Each fiber aligns itself in the direction of the electric field at the fiber's loca-tion (Figure 23.8).\
+
+\f2 \
+\
+What concepts dictate that this will happen? Maybe a better way to word this is simply "How and why does this happen?"\
+\
+It says that the fibers align themselves. Will this experiment show you direction, since the shouldn't move after being aligned?\
+\
+By "nonconducting liquid," are they referring to an insulating liquid? If so, this seems counterintuitive...if insulators make the flow of charge difficult, wouldn't this halt the desirable spreading of the electric field?\
+\
+Does each fiber align itself in the direction of the electric field at that location because the fibers are neutral particles? As we learned in the previous chapter, a charged particle will cause a neutral particle to become polarized.\
+\
+\
+
+\f0\b This experiment is not explained. nonconducting liquid is also unclear. also why the need for ()?\
+\
+\
+\
+\
+
+\f4\b0 50		1	1	1	0	The field represented by the field lines in the figure is uniform-its magnitude and direction are the same everywhere.\
+50		1	1	5	1	As you can see in the figure, the number of field lines that cross the surface depends on the orientation of the surface.\
+50		1	2	5	1	The number of field lines that cross the surface is maximum when the surface is perpendicular to the field lines and decreases for any other orientation.\
+50		1	2	4	0	We shall see later in this chapter how to account for the orientation of a surface when calculating field line density.\
+
+\f0\b \
+
+\f2\b0 \
+\
+This would only allow us to see relative magnitudes correct? As in, we couldn't estimate a value but we could tell whether fields are stronger or weaker relative to other fields?\
+\
+I am confused about this concept. The number of field lines is arbitrary, but must correspond to the magnitude of the charge carried. Does this mean we can choose any number of field lines as long as it is consistent with charge? So if chose 5 for +q then it would be 10 for +2q?  \
+\
+So in order to have a uniform field, the plane must be perpendicular to the field lines?\
+\
+\
+\
+\
+
+\f4 3		2	1	1	1	Why must there be a magnetic field in and around the gap between the plates of the charging capacitor?\
+3		3	2	1	1	Although there is no flow of charged particles between the plates of the capacitor, there is an electric field ( Figure 30.4).\
+
+\f2 \
+if the line integral is equal to zero doesn't that also mean that the field is conservative?\
+\
+How is there a magnetic field present when there is no electrical current to provide an accompanying magnetic field?\
+\
+\
+\
+\
+\
+
+\f4 3	SY	2	6	5	6	The current to the capacitor causes the electric field between the plates to change, and the changing electric field between the capacitor plates acts in a way similar to the current that causes this change: A changing electric field is accompanied by a mag-netic field.\
+3		6	4	2	5	When the capacitor is fully charged, the current I into and out of the capacitor is zero, and there is no magnetic field surrounding the wires to the capacitor.\
+3		6	3	2	5	Between the capacitor plates, the electric field is no longer changing, and the magnetic field is zero.\
+3		3	1	1	2	There are strong parallels between the electric field that accompanies a changing magnetic field and the magnetic field that accompanies a changing electric field, as Figure 30.5 illustrates.\
+3		2	1	1	2	Experiments show that the electric field lines that accompany a changing magnetic field form loops encircling the magnetic field, just as the magnetic field lines that accompany a changing electric field form loops encircling the electric field.\
+
+\f2 \
+\
+\pard\pardeftab720
+\cf5 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 so there is not always a magetic field between plates in a capacitor?\
+\
+So if the capacitor is full then does the circuit shut down or is there an alternative path for the current to flow?\
+\
+\cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\pard\pardeftab720
+\cf0 \
+\
+\
+}
