@@ -7,6 +7,82 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.classification import f1_score, precision_score, recall_score,\
     accuracy_score
+from sklearn.ensemble.forest import RandomForestClassifier
+from sklearn.svm.classes import LinearSVC
+from sklearn.dummy import DummyClassifier
+    
+'''
+Results (3-Fold cross validation, ran once):
+
+DummyClassifier (statified)
+Avg Acc      0.531580687831      
+Avg Prec      0.482264793529
+Avg Recall      0.451099011898
+Avg F1      0.465741603673
+
+DummyClassifier(most_frequent)
+Avg Acc      0.547123015873      
+Avg Prec      0.0
+Avg Recall      0.0
+Avg F1      0.0
+
+DummyClassifier(uniform)
+Avg Acc      0.536541005291      
+Avg Prec      0.488632872504
+Avg Recall      0.502621496269
+Avg F1      0.495388563905
+
+
+----
+
+MultinomialNB:
+Avg Acc      0.486896494709      
+Avg Prec      0.399747115537
+Avg Recall      0.478523895947
+Avg F1      0.407803108786
+
+MultinomialNB with TF-IDF:
+Avg Acc      0.56287202381      
+Avg Prec      0.509178743961
+Avg Recall      0.310949788264
+Avg F1      0.328738776655
+
+LogisticRegression:
+Avg Acc      0.541997354497      
+Avg Prec      0.479575979576
+Avg Recall      0.46773543053
+Avg F1      0.463507625272
+
+LogisticRegression with TF-IDF:
+Avg Acc      0.528852513228      
+Avg Prec      0.44243338361
+Avg Recall      0.380016132285
+Avg F1      0.366403260733
+
+RandomForest:
+Avg Acc      0.541873346561      
+Avg Prec      0.47215007215
+Avg Recall      0.299354708611
+Avg F1      0.337337450016
+
+RandomForest with TF-IDF:
+Avg Acc      0.507936507937      
+Avg Prec      0.42265795207
+Avg Recall      0.259326477112
+Avg F1      0.307369481283
+
+LinearSVC:
+Avg Acc      0.494998346561      
+Avg Prec      0.419369957285
+Avg Recall      0.439201451906
+Avg F1      0.421618289803
+
+LinearSVC with TF-IDF:
+Avg Acc      0.526165674603      
+Avg Prec      0.445808328787
+Avg Recall      0.473079249849
+Avg F1      0.438031289564
+'''
 
 def is_confused(c1,c2,c3,c4):
     c1 = int(c1)
@@ -109,7 +185,7 @@ def get_features(paras):
 def get_ys(paras):
     Y = []
     for para in paras:
-        if float(para['confuse_ct'])/float(len(para['sents'])) >= .5:
+        if float(para['confuse_ct'])/float(len(para['sents'])) >= .3:
             Y.append(1)
         else:
             Y.append(0)
@@ -148,15 +224,15 @@ def run():
         cv = CountVectorizer()
         X_train_counts = cv.fit_transform(X_train)
         
-        #tf_transformer = TfidfTransformer(use_idf=True).fit(X_train_counts)
-        #X_train_tfidf = tf_transformer.transform(X_train_counts)
+        tf_transformer = TfidfTransformer(use_idf=True).fit(X_train_counts)
+        X_train_tfidf = tf_transformer.transform(X_train_counts)
     
-        clf = MultinomialNB().fit(X_train_counts, y_train)
+        clf = LinearSVC().fit(X_train_tfidf, y_train)
         
         X_test_counts = cv.transform(X_test)
-        #X_test_tfidf = tf_transformer.transform(X_test_counts)
+        X_test_tfidf = tf_transformer.transform(X_test_counts)
         
-        y_pred = clf.predict(X_test_counts)
+        y_pred = clf.predict(X_test_tfidf)
         
         acc = accuracy_score(y_test, y_pred)
         prec = precision_score(y_test, y_pred)
@@ -179,7 +255,7 @@ def run():
             else:
                 f2.write('%s\n' % para)
         
-    print 'Avg Acc \t %s' % np.mean(accs)
+    print 'Avg Acc \t %s \t ' % np.mean(accs)
     print 'Avg Prec \t %s' % np.mean(precs)
     print 'Avg Recall \t %s' % np.mean(recs)
     print 'Avg F1 \t %s' % np.mean(f1s)
