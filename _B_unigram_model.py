@@ -148,7 +148,11 @@ def read_file(val):
     
     page_info = {}
     
-    file = open('annotated_sentences_CLEANED/PHYS_dedup/4_count/%s.txt' % val,'r')
+    if val in [25, 26]:
+        file = open('annotated_sentences_CLEANED/PHYS_dedup/3_count/%s.txt' % val,'r')
+    else:
+        file = open('annotated_sentences_CLEANED/PHYS_dedup/4_count/%s.txt' % val,'r')
+        
     lines = file.readlines()
     
     vocab = lines[0].strip().split(',')
@@ -156,7 +160,11 @@ def read_file(val):
     current_para = None
     
     for line in lines[2:]:
-        page, head, c1, c2, c3, c4, sent = line.strip().split('\t')
+        if val in [25, 26]:
+            page, head, c1, c2, c3, sent = line.strip().split('\t')
+            c4 = 0
+        else:
+            page, head, c1, c2, c3, c4, sent = line.strip().split('\t')
         
         head_val = head.strip().split(' ')
         if head_val[0] == 'P' and not (len(head_val) == 2 and head_val[1] == 'SM'):
@@ -195,8 +203,13 @@ def create_dataset():
     paras = read_file(22)
     paras.extend(read_file(23))
     paras.extend(read_file(24))
+    paras.extend(read_file(25))
+    paras.extend(read_file(26))
     paras.extend(read_file(30))
+    paras.extend(read_file(31))
+    paras.extend(read_file(32))
     paras.extend(read_file(33))
+    paras.extend(read_file(34))
     
     print len(paras)
     return paras
@@ -207,7 +220,7 @@ def run():
     X = np.array(get_features(paras))
     Y = np.array(get_ys(paras))
     
-    skf = StratifiedKFold(Y, n_folds=3)
+    skf = StratifiedKFold(Y, n_folds=10)
     
     f = open('results/correct.txt','w')
     f2 = open('results/wrong.txt','w')
@@ -227,12 +240,12 @@ def run():
         tf_transformer = TfidfTransformer(use_idf=True).fit(X_train_counts)
         X_train_tfidf = tf_transformer.transform(X_train_counts)
     
-        clf = LinearSVC().fit(X_train_tfidf, y_train)
+        clf = DummyClassifier(strategy="most_frequent").fit(X_train_counts, y_train)
         
         X_test_counts = cv.transform(X_test)
         X_test_tfidf = tf_transformer.transform(X_test_counts)
         
-        y_pred = clf.predict(X_test_tfidf)
+        y_pred = clf.predict(X_test_counts)
         
         acc = accuracy_score(y_test, y_pred)
         prec = precision_score(y_test, y_pred)

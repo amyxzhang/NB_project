@@ -1,4 +1,5 @@
 import numpy as np
+import enchant
 from scipy.stats.stats import pearsonr
 from sklearn.cross_validation import StratifiedKFold, ShuffleSplit
 from sklearn.linear_model.logistic import LogisticRegression
@@ -28,7 +29,28 @@ liwc = {}
 POS_sents = None
 line_ct = 0
 
+english_dict = None
+
+common_physics_words = ['object', 'mirror', 'mirrors', 'boxes', 'lenses', 'focus', 'rays', 'magnitude', 'space', 'rod', 'space', 
+                        'optics', 'vector', 'parallel', 'wave', 'power', 'attraction', 'electricity', 'static', 'angle', 'medium', 
+                        'lens', 'focal', 'image', 'axis', 'var', 'line', 'objects', 'light', 'gravity',
+                        'beam', 'value', 'mass', 'force', 'field', 'fields', 'electric', 'interaction', 'ion','atom','electron','carbon','bond',
+                        'action', 'neutral', 'ray', 'charge', 'light', 'interactions','distance','equal','result','example', 'experiment',
+                        'charged','particle','law','particles','positive','negative','mass','sphere','spheres']
+
+ignore_words = ['<var>', '<value>', '<equation>', 'eq', 'eqs', 'fig', 'figure', 'var', 'equation']
+
 word_count = {}
+
+def create_dictionary():
+    global english_dict
+    
+    english_dict = {}
+    
+    f = open('google-10000-english.txt','r')
+    lines = f.readlines()
+    for line in lines:
+        english_dict[line.strip()] = 0
 
 def load_liwc(word):
     liwc[word] = []
@@ -81,7 +103,7 @@ def add_to_word_ct(pos_sent, para, non_vocab_occur):
     for word in pos_sent.split(' '):
         pos = word.split('_')
         l_word = pos[0].lower()
-        if pos[1] in ['NN', 'NNS', 'JJ'] and len(l_word) > 1 and l_word not in stopwords.words('english'):
+        if pos[1] in ['NN', 'NNS', 'JJ'] and len(l_word) > 2 and not l_word.isdigit() and l_word not in stopwords.words('english') and l_word not in ignore_words:
             
             if l_word not in non_vocab_occur:
                 para['first_occur'].append(l_word)
@@ -152,7 +174,11 @@ def read_file(val):
     
     page_info = {}
     
-    file = open('annotated_sentences_CLEANED/PHYS_dedup/4_count/%s.txt' % val,'r')
+    if val in [25, 26]:
+        file = open('annotated_sentences_CLEANED/PHYS_dedup/3_count/%s.txt' % val,'r')
+    else:
+        file = open('annotated_sentences_CLEANED/PHYS_dedup/4_count/%s.txt' % val,'r')
+        
     lines = file.readlines()
     
     vocab_phrases = lines[0].strip().split(',')
@@ -170,7 +196,11 @@ def read_file(val):
     first_page = int(lines[2].strip().split('\t')[0])
     
     for line in lines[2:]:
-        page, head, c1, c2, c3, c4, sent = line.strip().split('\t')
+        if val in [25, 26]:
+            page, head, c1, c2, c3, sent = line.strip().split('\t')
+            c4 = 0
+        else:
+            page, head, c1, c2, c3, c4, sent = line.strip().split('\t')
                 
         
         head_val = head.strip().split(' ')
@@ -335,7 +365,7 @@ def vocab_words_features(val, para):
                 count += 1.0/float(len(vocab))
     val.append(count)
     
-    # number of times para has first occurence of vocab word (probably not different than DF feature)
+    # number of times para has first occurrence of vocab word (probably not too different than DF feature)
     count = []
     for v in para['vocab']:
         found = False
@@ -389,16 +419,23 @@ def _liwc_feature(feature, para):
 def sentiment_of_words(val, para):
     
     # Occurrence of LIWC affect words
-#     val.append(_liwc_feature('affect', para))
-# # # #     
-# # # #     # Occurrence of LIWC cogmech words
-#     val.append(_liwc_feature('cogmech', para))
-# # # #     
-# # # #     # Occurrence of LIWC tentative words
-#     val.append(_liwc_feature('tentative', para))
-# # # # 
-# # # #     # Occurrence of LIWC percept words
-#     val.append(_liwc_feature('percept', para))
+    val.append(_liwc_feature('affect', para))
+    val.append(_liwc_feature('cause', para))
+    val.append(_liwc_feature('certain', para))
+# # #     
+# # #     # Occurrence of LIWC cogmech words
+    val.append(_liwc_feature('cogmech', para))
+    val.append(_liwc_feature('discrep', para))
+    val.append(_liwc_feature('excl', para))
+    val.append(_liwc_feature('incl', para))
+    val.append(_liwc_feature('inhib', para))
+    val.append(_liwc_feature('insight', para))
+# # #     
+# # #     # Occurrence of LIWC tentative words
+    val.append(_liwc_feature('tentative', para))
+# # # 
+# # #     # Occurrence of LIWC percept words
+    val.append(_liwc_feature('percept', para))
     
 #     # Asking reader to remember something
     count = 0
@@ -432,6 +469,13 @@ def sentiment_of_words(val, para):
         count += sent.count('lead us to conclude')
         count += sent.count('leads us to conclude')
         count += sent.count('we can conclude')
+    val.append(count)
+    
+    count = 0
+    for sent in para['sents']:
+        sent = sent.lower()
+        count += sent.count('somewhat')
+        count += sent.count('sometimes')
     val.append(count)
     
     #doing things
@@ -497,14 +541,37 @@ def non_vocab_word_features(val, para):
         for word in sent.split(' '):
             pos = word.split('_')
             l_word = pos[0].lower()
-            if pos[1] in ['NN', 'NNS', 'JJ'] and len(l_word) > 1 and l_word not in stopwords.words('english'):
+            if pos[1] in ['NN', 'NNS', 'JJ'] and len(l_word) > 2 and not l_word.isdigit() and l_word not in stopwords.words('english') and l_word not in ignore_words:
                 c += word_count[l_word]
         count.append(float(c)/float(len(sent.split(' '))))
     val.append(np.mean(count))
     
-    print para['sents']
-    print para['first_occur']
     val.append(float(len(para['first_occur']))/float(np.sum(para['word_ct'])))
+    
+    count = 0
+    for word in para['first_occur']:
+        if not word in english_dict:
+            count += 1
+    val.append(float(count)/float(np.sum(para['word_ct'])))
+    
+    count = 0
+    for sent in para['pos_sents']:
+        for word in sent.split(' '):
+            pos = word.split('_')
+            l_word = pos[0].lower()
+            if pos[1] in ['NN', 'NNS', 'JJ'] and len(l_word) > 2 and l_word in english_dict and l_word not in stopwords.words('english') and l_word not in common_physics_words:
+               # print l_word
+                count += 1
+    val.append(float(count)/float(np.sum(para['word_ct'])))
+    
+    count = 0
+    for sent in para['pos_sents']:
+        for word in sent.split(' '):
+            pos = word.split('_')
+            l_word = pos[0].lower()
+            if pos[1] in ['NN', 'NNS', 'JJ'] and l_word in common_physics_words:
+                count += 1
+    val.append(float(count)/float(np.sum(para['word_ct'])))
     
 def pos_features(val, para):
     
@@ -559,14 +626,22 @@ def get_feature_names():
             'var',
             'num',
             'value',
-#             'affect',
-#             'cogmech',
-#             'tentative',
-#             'percept',
+            'affect',
+            'cause',
+            'certain',
+            'cogmech',
+            'discep',
+            'excl',
+            'incl',
+            'inhib',
+            'insight',
+            'tentative',
+            'percept',
             'recall',
             'next',
             'remarkable',
             'suggest',
+            'somewhat',
             'do things',
             '!',
             '?',
@@ -588,6 +663,9 @@ def get_feature_names():
             'NN/s',
             'avg word count',
             'num first occur non vocab',
+            'num first phys occur non vocab',
+            'num common words',
+            'num common phys words',
             ]
 
     
@@ -624,8 +702,13 @@ def create_dataset():
     paras = read_file(22)
     paras.extend(read_file(23))
     paras.extend(read_file(24))
+    paras.extend(read_file(25))
+    paras.extend(read_file(26))
     paras.extend(read_file(30))
+    paras.extend(read_file(31))
+    paras.extend(read_file(32))
     paras.extend(read_file(33))
+    paras.extend(read_file(34))
     
     sents = []
     for para in paras:
@@ -635,12 +718,29 @@ def create_dataset():
     return paras, sents
 
 
-def write_sentences(paras):
+def write_sentences(paras, Y):
     f = open('annotated_sentences_CLEANED/PHYS_dedup/4_count/sentences.txt','w')
     for para in paras:
         for sent in para['sents']:
             f.write('%s\n' % sent)
         f.write('\n')
+    
+    f = open('annotated_sentences_CLEANED/PHYS_dedup/4_count/confusing.txt','w')
+    f2 = open('annotated_sentences_CLEANED/PHYS_dedup/4_count/not_confusing.txt','w')
+    for para, y in zip(paras, Y):
+        
+        if y == 1:
+            f.write(str(para['page_num']))
+            f.write('\n')
+            for sent in para['sents']:
+                f.write('%s\n' % sent)
+            f.write('\n')
+        else:
+            f2.write(str(para['page_num']))
+            f2.write('\n')
+            for sent in para['sents']:
+                f2.write('%s\n' % sent)
+            f2.write('\n')              
 
 def add_pos_tags():
     global POS_sents
@@ -655,10 +755,10 @@ def run():
     
     paras, sents = create_dataset()
     
-    #write_sentences(paras)  
-    
     X = np.array(get_features(paras))
     Y = np.array(get_ys(paras))
+    
+    write_sentences(paras, Y)
     
     feature_names = get_feature_names()
 
@@ -674,11 +774,11 @@ def run():
     print ''
     rf = RandomForestRegressor()
     rf.fit(X, Y)
-    print "Features sorted by their RF score:"
-    for n, p in sorted(zip(map(lambda x: round(x, 4), rf.feature_importances_), feature_names), 
-                 reverse=True):
-        print p
-        print n
+#     print "Features sorted by their RF score:"
+#     for n, p in sorted(zip(map(lambda x: round(x, 4), rf.feature_importances_), feature_names), 
+#                  reverse=True):
+#         print p
+#         print n
       
     print ''  
     scores = defaultdict(list)
@@ -696,16 +796,24 @@ def run():
             shuff_acc = r2_score(Y_test, rf.predict(X_t))
             scores[feature_names[i]].append((acc-shuff_acc)/acc)
     
-    print "Features sorted by their score:"
-    for n, p in sorted([(round(np.mean(score), 4), feat) for
-                  feat, score in scores.items()], reverse=True):
-        print p
-        print n
+#     print "Features sorted by their score:"
+#     for n, p in sorted([(round(np.mean(score), 4), feat) for
+#                   feat, score in scores.items()], reverse=True):
+#         print p
+#         print n
         
+create_dictionary()
 add_pos_tags()
-# load_liwc('affect')
-# load_liwc('cogmech')
-# load_liwc('percept')
-# load_liwc('tentative')
+load_liwc('affect')
+load_liwc('cogmech')
+load_liwc('cause')
+load_liwc('certain')
+load_liwc('discrep')
+load_liwc('excl')
+load_liwc('incl')
+load_liwc('inhib')
+load_liwc('insight')
+load_liwc('percept')
+load_liwc('tentative')
 run()
 
