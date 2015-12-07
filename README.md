@@ -18,4 +18,9 @@ analyze_sentences_\*.py attempts to translate the data into confusion annotation
 
 No extra code here but I also use Stanford's POS tagger and parser to get parse trees and POS tags for each final cleaned sentence.
 
-There are some scripts for some simple models that I tried. Features include unigram model, word vector model trained on Google corpus, word vector model trained on my PDF training corpus, number of different POS tags, height of parse tree, avg word len/sentence, sentence len, frequency of words in the sentence in the training corpus, first mention of each word, etc. So far none perform very well.
+----Update----
+
+I have chosen to focus on data from a Physics course that had several sections annotating the same pdf. Example of cleaned results for this can be found in annotated_sentences_CLEANED/PHYS_dedup/
+I also annotate where paragraphs start, where definitions are, and other things.
+
+From a dataset of 10 PDFS, I then run \_A\_correlation.py to see the inter-rater reliability stats for the classes annotating the same PDF. \_B\_unigram\_model.py runs the baseline models (random, unigram, unigram-tfidf). \_C\_feature\_correlations.py calculates pearson correlation of all the features to confusion score. And \_D\_better\_baseline\_model.py has the linguistic features in the model. 
