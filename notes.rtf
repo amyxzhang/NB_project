@@ -1,6 +1,6 @@
 {\rtf1\ansi\ansicpg1252\cocoartf1344\cocoasubrtf720
-{\fonttbl\f0\fnil\fcharset0 Menlo-Bold;\f1\fswiss\fcharset0 Helvetica;\f2\fnil\fcharset0 Menlo-Regular;
-\f3\fswiss\fcharset0 ArialMT;\f4\fnil\fcharset0 Monaco;}
+{\fonttbl\f0\fnil\fcharset0 Menlo-Bold;\f1\fswiss\fcharset0 Helvetica;\f2\fnil\fcharset0 Monaco;
+\f3\fnil\fcharset0 Menlo-Regular;\f4\fswiss\fcharset0 ArialMT;}
 {\colortbl;\red255\green255\blue255;\red60\green60\blue60;\red255\green255\blue255;\red0\green0\blue0;
 \red26\green26\blue26;\red26\green26\blue26;}
 \margl1440\margr1440\vieww19060\viewh16500\viewkind0
@@ -10,7 +10,58 @@
 \pard\pardeftab720\sl400
 
 \f1\b0\fs26 \cf0 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720
+
+\f2\fs22 \cf0 \kerning1\expnd0\expndtw0 Avg Acc 	 0.707348830732 	 \
+Avg Prec 	 0.715164150435\
+Avg Recall 	 0.304278074866\
+Avg F1 	 0.422430040223\
+\
+Avg Acc 	 0.686836660599 	 \
+Avg Prec 	 0.619892457515\
+Avg Recall 	 0.502406417112\
+Avg F1 	 0.528884712165\
+\
+Avg Acc 	 0.64156769419 	 \
+Avg Prec 	 0.0\
+Avg Recall 	 0.0\
+Avg F1 	 0.0\
+\
+Avg Acc 	 0.652274377568 	 \
+Avg Prec 	 0.708333333333\
+Avg Recall 	 0.051247771836\
+Avg F1 	 0.093361490637\
+\
+Avg Acc 	 0.663144937483 	 \
+Avg Prec 	 0.684812409812\
+Avg Recall 	 0.126203208556\
+Avg F1 	 0.207833386746\
+\
+Avg Acc 	 0.641522186745 	 \
+Avg Prec 	 0.506666666667\
+Avg Recall 	 0.0600713012478\
+Avg F1 	 0.105524662187\
+\
+Avg Acc 	 0.642631523977 	 \
+Avg Prec 	 0.0\
+Avg Recall 	 0.0\
+Avg F1 	 0.0\
+\
+
+\f1\fs26 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720\sl400
+\cf0 \
+\
 Possible Features:\
+\
+Claim \
+Evidence \
+Introduction\
+\
+\
+\
 \
 Markovian - use previous tags. confusion often happens in chunks of sentences.\
 \
@@ -22,6 +73,8 @@ plot the occurrence of glossary words over the course of the text. \
 correlate with confusion?\
 \
 distinguish physics terms\
+\
+number of LIWC tentative terms in the para\
 \
 Measure the vagueness or specificity of these terms?\
 \
@@ -58,12 +111,12 @@ cosine similarity to other sentences\
 Related Work\
 \
 {\field{\*\fldinst{HYPERLINK "http://scitation.aip.org/content/aapt/journal/ajp/67/8/10.1119/1.19351"}}{\fldrslt 
-\f2\b0 http://scitation.aip.org/content/aapt/journal/ajp/67/8/10.1119/1.19351}}
-\f2\b0 \
+\f3\b0 http://scitation.aip.org/content/aapt/journal/ajp/67/8/10.1119/1.19351}}
+\f3\b0 \
 \
 \pard\pardeftab720\sl360
 
-\f3\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\f4\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec2 The large vocabulary we use for precise purposes in physics contains many words which have related, but potentially confusing meanings in everyday usage. A surprising number of other words we use frequently are not used consistently in the language of introductory textbooks.\
 \
 {\field{\*\fldinst{HYPERLINK "http://www.tandfonline.com/doi/abs/10.1080/0950069930150204"}}{\fldrslt http://www.tandfonline.com/doi/abs/10.1080/0950069930150204}}\
@@ -84,7 +137,7 @@ Summary:\
 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
 
-\f2\b0 \cf0 \
+\f3\b0 \cf0 \
 Sometimes students aren\'92t confused about what\'92s there but just curious or asking/musing/extrapolating.\
 \
 Sometimes the text is trying to be confusing or vague on purpose in order to get students questioning or curious?\
@@ -94,7 +147,7 @@ Sometimes the text is trying to be confusing or vague on purpose in order to get
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
 \cf0 \
 Confusing stuff:
-\f2\b0 \
+\f3\b0 \
 \
 Definitions that are short and use simple words with little following explanation are confusing.\
 \
@@ -138,7 +191,7 @@ More confusion around conceptual things (how concepts transfer to different case
 
 \f0\b \
 Not confusing stuff:
-\f2\b0 \
+\f3\b0 \
 \
 Talking about history, people not confusing.\
 \
@@ -183,7 +236,7 @@ Has anyone else never experienced any of these phenomena? I've always figured th
 \
 \pard\pardeftab720
 
-\f2\b0 \cf0 2		0	4	2	1	In other words, the bits of paper accelerate upward, which means the force exerted by your comb on them must be greater than the gravitational force exerted on them by Earth!\
+\f3\b0 \cf0 2		0	4	2	1	In other words, the bits of paper accelerate upward, which means the force exerted by your comb on them must be greater than the gravitational force exerted on them by Earth!\
 2		2	0	2	1	Now try this: Quickly pull a 20-cm strip of transparent tape* out of a dispenser and suspend it from the edge of a table (just be sure the table is not metal).\
 2		2	2	2	1	Notice how the tape is attracted to anything brought nearby.\
 2		1	2	1	1	It might even take some practice to prevent the tape from curling up and sticking to the underside of the table or to your hand.\
@@ -212,7 +265,7 @@ So I understand how in the previous examples a charge was induced since each obj
 \
 
 \f0\b Example with not a full explanation. Small additions (metal, quickly) make it unclear whether these are casually mentioned or are important to making the example work. But maybe since this is at the beginning of the chapter, it is more meant to stoke curiosity.
-\f2\b0 \
+\f3\b0 \
 \
 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
 \
@@ -246,7 +299,7 @@ I tried holding a battery close to a piece of tape and observed that it did not 
 
 \f0\b \cf6 \expnd0\expndtw0\kerning0
 This bit of text is an experiment for readers to try. Presumably they should come away with questions. Maybe we should ignore the parts of text with HT annotation.
-\f2\b0 \cf0 \kerning1\expnd0\expndtw0 \
+\f3\b0 \cf0 \kerning1\expnd0\expndtw0 \
 \pard\pardeftab720
 \cf0 \
 \
@@ -281,7 +334,7 @@ This explanation is vague because it doesn\'92t explain the proportionality of h
 \
 \pard\pardeftab720
 
-\f2\b0 \cf0 \kerning1\expnd0\expndtw0 \
+\f3\b0 \cf0 \kerning1\expnd0\expndtw0 \
 \pard\pardeftab720
 \cf0 2		2	2	2	0	As Checkpoint 22.2 makes clear, not all electric interactions are attractive.\
 2		2	2	2	0	Even if you increase the mass of the strips by suspending paper clips from them, the repulsion between the strips is great enough to keep the paper clips apart ( Figure 22.2).\
@@ -313,7 +366,7 @@ Is this due to the fact that because of your hands interaction with the tape, th
 \
 
 \f0\b This example is given but not properly explained. Why does what happens happens? 
-\f2\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\f3\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
 \
 \
 \
@@ -343,7 +396,7 @@ A question I have, though, is why does the piece of tape have charge? Is it the 
 \
 \pard\pardeftab720
 
-\f2\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 3		1	1	1	1	A  suspended strip created according to this procedure interacts in the following ways: It repels another strip created in the same manner, and it attracts any other object that does not itself interact electrically with other objects (Figure 22.4).\
+\f3\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 3		1	1	1	1	A  suspended strip created according to this procedure interacts in the following ways: It repels another strip created in the same manner, and it attracts any other object that does not itself interact electrically with other objects (Figure 22.4).\
 \pard\pardeftab720
 \cf5 \cb3 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec5 \
@@ -356,7 +409,7 @@ Tried this myself, is there a way to reverse the charge and make two tapes produ
 \
 
 \f0\b These students seem confused for different reasons.
-\f2\b0 \
+\f3\b0 \
 \
 \
 \
@@ -402,7 +455,7 @@ In the book they compare static electricity's attractive property to gravitation
 \
 
 \f0\b Here is a definition: charge carrier. It causes a lot of confusion because students still don\'92t understand why the tape carries charge and the definition here leaves some things up in the air.
-\f2\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\f3\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
 \pard\pardeftab720
 \cf0 \
 \
@@ -460,7 +513,7 @@ This "leak away" affects brings up more questions for me on the dissipation of e
 \
 \pard\pardeftab720
 
-\f2\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 4		2	1	6	2	To restore the charge on a discharged strip, stick the strip on top of the foundation strip from which you pulled it off (step 1 in Figure 22.3), smooth it out, and then quickly pull it off again.\
+\f3\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 4		2	1	6	2	To restore the charge on a discharged strip, stick the strip on top of the foundation strip from which you pulled it off (step 1 in Figure 22.3), smooth it out, and then quickly pull it off again.\
 4		2	1	9	5	You can recharge a strip quite a few times before it loses its adhesive properties.\
 4		2	1	9	5	Once the tape does lose its adhesiveness, however, recharging it becomes impossible.\
 4		2	1	6	1	It is generally a good idea to rub your finger over the foundation strip before you reuse it to make sure that it, too, is uncharged.\
@@ -496,7 +549,7 @@ so the interaction between the table and the tape is creating the charge. But wh
 \f0\b \
 Now we find out that adhesiveness is also related to charge, which students were asking about earlier, but we still don\'92t know why.\
 
-\f2\b0 \
+\f3\b0 \
 \
 \
 \
@@ -528,7 +581,7 @@ Why can neutral objects only interact with charged objects, and not among themse
 \
 
 \f0\b The authors defer the explanation of this to later in the chapter and thus students are confused as to why.
-\f2\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\f3\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
 \
 \
 \
@@ -546,7 +599,7 @@ so charges are always balanced. Is there a way of quantifying this? Like a syste
 \
 
 \f0\b Students are confused here for different reasons.
-\f2\b0 \
+\f3\b0 \
 \
 \
 4		1	1	6	1	This series of experiments leads us to conclude that there are two types of charge on the tapes, one type on B strips and another type on T strips.\
@@ -573,7 +626,7 @@ Given that strips that carry different types of charge are classified as opposit
 \
 
 \f0\b Students have different clarifying questions here for the explanation of this example/experiment.
-\f2\b0 \
+\f3\b0 \
 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
 \
 \
@@ -636,7 +689,7 @@ What is it that determines which neutral object acquires a positive or a negativ
 \
 
 \f0\b Student confusion is around question of which item will carry which charge and clarifying questions about the property stated - only 2 charges.
-\f2\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\f3\b0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
 \pard\pardeftab720
 \cf0 \
 \
@@ -671,7 +724,7 @@ Because this is the case, can an object ever spontaneously have a charge? or is 
 \f0\b The definition for negative charge is poorly explained and pretty unorthodox and unclear, leaving more questions than answers.\
 \
 
-\f2\b0 \
+\f3\b0 \
 \
 5		3	2	7	3	When two neutral objects touch, some charge can be transferred from one object to the other, with the result that one object ends up with a surplus of one type of charge and the other object ends up with an equal surplus of the other type of charge.\
 5		4	2	7	3	For example, when a neutral piece of styrofoam is rubbed with a neutral piece of plastic wrap, the styrofoam acquires a positive charge (meaning it contains more positive than negative charge) and the plastic wrap acquires a negative charge (it has a surplus of negative charge).\
@@ -733,7 +786,7 @@ This is a cool principle. It makes me then wonder if there are set characteristi
 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
 
 \f0\b Seems like summary statements that are short or try to to be simple actually lead to more confusion because they don\'92t explain enough.
-\f2\b0 \
+\f3\b0 \
 \
 \
 \pard\pardeftab720
@@ -759,7 +812,7 @@ Doesn't this mean the same thing?  Either way one object has either more or less
 \cf0 \
 
 \f0\b Students seem to be confused about different things here.
-\f2\b0 \
+\f3\b0 \
 \
 \
 \
@@ -780,7 +833,7 @@ this makes sense. Is this why positive and negative are attracted to each other 
 \pard\pardeftab720
 
 \f0\b \cf0 Students here are trying to extrapolate or understand using things they\'92ve learned before.
-\f2\b0 \
+\f3\b0 \
 \pard\pardeftab720
 \cf0 \
 \
@@ -820,7 +873,7 @@ What properties do these materials have that make them so good at generating sta
 \
 
 \f0\b These are more examples given by the book but not explained to the reader how/why they work.
-\f2\b0 \
+\f3\b0 \
 \
 \
 \
@@ -855,11 +908,11 @@ Can you isolate charge on something that is not an electrical insulator? For exa
 \
 \pard\pardeftab720
 
-\f4 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 7		6	3	4	3	Glass, rubber, wood, and plastic are examples of electrical insulators.\
+\f2 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 7		6	3	4	3	Glass, rubber, wood, and plastic are examples of electrical insulators.\
 7		6	3	4	3	Air, particularly dry air, is also an insulator, although the presence of large amounts of charge can cause charge carriers to "jump" from one object to another, causing sparks.\
 \pard\pardeftab720
 
-\f2 \cf5 \cb3 \expnd0\expndtw0\kerning0
+\f3 \cf5 \cb3 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec5 \
 what makes these materials good insulators as opposed to metals which are good conductors(if i remember correctly)? is it the chemical makeup?\
 \
@@ -868,16 +921,16 @@ What exactly makes these materials poor conductors? Do the molecules in the mate
 \
 
 \f0\b These examples are not explained again.
-\f2\b0 \
+\f3\b0 \
 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
 \pard\pardeftab720
 \cf0 \
 \
 
-\f4 9		1	2	4	1	Diamond (made of the element carbon) and glass are two familiar examples.\
+\f2 9		1	2	4	1	Diamond (made of the element carbon) and glass are two familiar examples.\
 9		1	2	3	1	Metals are also atomic solids rather than ionic solids, but in metals, each atom gives up one or more electrons to a shared "gas" of electrons that spreads throughout the volume of the metal.\
 
-\f2 \
+\f3 \
 So to be clear, electrical conductors and insulators are those objects that either have freely moving electrons inside or don't.  The object can be positive, negative or neutral and still be a good conductor? \
 \
 \
@@ -886,19 +939,19 @@ So to be clear, electrical conductors and insulators are those objects that eith
 
 \f0\b \cf6 \expnd0\expndtw0\kerning0
 These examples are not explained again.
-\f2\b0 \cf0 \kerning1\expnd0\expndtw0 \
+\f3\b0 \cf0 \kerning1\expnd0\expndtw0 \
 \pard\pardeftab720
 \cf0 \
 \
 \
 
-\f4 12		3	2	2	1	To get as far away as possible from the negative charge on the rod, the electrons in the metal of the sphere move to the right surface.\
+\f2 12		3	2	2	1	To get as far away as possible from the negative charge on the rod, the electrons in the metal of the sphere move to the right surface.\
 12		4	1	2	3	Thus the surface of the sphere nearer the rod becomes the positive pole, and the surface farther from the rod becomes the negative pole.\
 12		4	1	1	3	When you touch the metal, the electrons can move into your body, thereby getting even farther away from the negative charge on the rod.\
 12		3	3	2	2	In essence, you have become the negative pole, while the sphere is the positive pole.\
 12		3	3	2	1	If you remove your hand from the sphere, the sphere is left with a deficit of electrons (they stayed inside you!)\
 
-\f2 \
+\f3 \
 \
 \
 I'm curious about what ultimately happens to these electrons and the negative charge that they carry after they have moved into a person's body. If I'm not mistaken, I recall that the Earth can operate as ground; therefore, would this negative charge not flow through the person's body and into ground rather than remaining inside the body?\
@@ -910,11 +963,11 @@ So is charging by induction only possible with neutrally charged object coming i
 \
 \
 
-\f4 19		1	2	2	1	A similar type of rearrangement takes place when just spheres 1 and 3 are placed near each other (Figure 22.30b).\
+\f2 19		1	2	2	1	A similar type of rearrangement takes place when just spheres 1 and 3 are placed near each other (Figure 22.30b).\
 19		1	3	1	2	When all three spheres are placed near one another, the positive charge on sphere 3 pushes the positive charge on sphere 2 up and pulls the negative charge on sphere 1 down (Figure 22.30c).\
 19		1	3	1	2	Consequently, the forces that the spheres exert on one another are not the same as the forces exerted by the individual pairs (compare the forces in Figures 22.29 and 22.30).Figure 22.30\
 
-\f2 \
+\f3 \
 This is saying that sphere 2 will interact with sphere 3 so will that change the forces sphere 1 experiences from sphere 2 and 3? Meaning, if you changed the distance between sphere 2 and 3 would that change the magnitude of electrostatic force experienced by sphere 1?\
 \
 \
@@ -928,10 +981,10 @@ I wonder how much different the actual electric force is from the estimated elec
 \
 \
 
-\f4 27		3	3	4	1	Electric fields can be made visible by putting charged objects in a (nonconducting) liquid that contains small uncharged plastic fibers or grass seed.\
+\f2 27		3	3	4	1	Electric fields can be made visible by putting charged objects in a (nonconducting) liquid that contains small uncharged plastic fibers or grass seed.\
 27		2	2	4	1	Each fiber aligns itself in the direction of the electric field at the fiber's loca-tion (Figure 23.8).\
 
-\f2 \
+\f3 \
 \
 What concepts dictate that this will happen? Maybe a better way to word this is simply "How and why does this happen?"\
 \
@@ -949,14 +1002,14 @@ Does each fiber align itself in the direction of the electric field at that loca
 \
 \
 
-\f4\b0 50		1	1	1	0	The field represented by the field lines in the figure is uniform-its magnitude and direction are the same everywhere.\
+\f2\b0 50		1	1	1	0	The field represented by the field lines in the figure is uniform-its magnitude and direction are the same everywhere.\
 50		1	1	5	1	As you can see in the figure, the number of field lines that cross the surface depends on the orientation of the surface.\
 50		1	2	5	1	The number of field lines that cross the surface is maximum when the surface is perpendicular to the field lines and decreases for any other orientation.\
 50		1	2	4	0	We shall see later in this chapter how to account for the orientation of a surface when calculating field line density.\
 
 \f0\b \
 
-\f2\b0 \
+\f3\b0 \
 \
 This would only allow us to see relative magnitudes correct? As in, we couldn't estimate a value but we could tell whether fields are stronger or weaker relative to other fields?\
 \
@@ -968,10 +1021,10 @@ So in order to have a uniform field, the plane must be perpendicular to the fiel
 \
 \
 
-\f4 3		2	1	1	1	Why must there be a magnetic field in and around the gap between the plates of the charging capacitor?\
+\f2 3		2	1	1	1	Why must there be a magnetic field in and around the gap between the plates of the charging capacitor?\
 3		3	2	1	1	Although there is no flow of charged particles between the plates of the capacitor, there is an electric field ( Figure 30.4).\
 
-\f2 \
+\f3 \
 if the line integral is equal to zero doesn't that also mean that the field is conservative?\
 \
 How is there a magnetic field present when there is no electrical current to provide an accompanying magnetic field?\
@@ -981,13 +1034,13 @@ How is there a magnetic field present when there is no electrical current to pro
 \
 \
 
-\f4 3	SY	2	6	5	6	The current to the capacitor causes the electric field between the plates to change, and the changing electric field between the capacitor plates acts in a way similar to the current that causes this change: A changing electric field is accompanied by a mag-netic field.\
+\f2 3	SY	2	6	5	6	The current to the capacitor causes the electric field between the plates to change, and the changing electric field between the capacitor plates acts in a way similar to the current that causes this change: A changing electric field is accompanied by a mag-netic field.\
 3		6	4	2	5	When the capacitor is fully charged, the current I into and out of the capacitor is zero, and there is no magnetic field surrounding the wires to the capacitor.\
 3		6	3	2	5	Between the capacitor plates, the electric field is no longer changing, and the magnetic field is zero.\
 3		3	1	1	2	There are strong parallels between the electric field that accompanies a changing magnetic field and the magnetic field that accompanies a changing electric field, as Figure 30.5 illustrates.\
 3		2	1	1	2	Experiments show that the electric field lines that accompany a changing magnetic field form loops encircling the magnetic field, just as the magnetic field lines that accompany a changing electric field form loops encircling the electric field.\
 
-\f2 \
+\f3 \
 \
 \pard\pardeftab720
 \cf5 \cb3 \expnd0\expndtw0\kerning0

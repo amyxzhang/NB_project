@@ -754,7 +754,7 @@ def get_features(paras):
         #bigram_features(val, para)
         para_content_features(val, para)
         page_structure_features(val, para)
-        equation_features(val, para)
+        #equation_features(val, para)
         
         sentiment_of_words(val, para)
         vocab_words_features(val, para)
@@ -762,7 +762,7 @@ def get_features(paras):
         
         pos_features(val, para)
         
-        non_vocab_word_features(val, para)
+        #non_vocab_word_features(val, para)
         
         example_words(val, para)
         X.append(val)
